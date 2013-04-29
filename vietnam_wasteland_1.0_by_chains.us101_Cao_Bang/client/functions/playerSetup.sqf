@@ -26,19 +26,19 @@ _player selectWeapon "revolver_gold_EP1";
 if(str(playerSide) in ["WEST"]) then
 {
     removeAllWeapons _player;
-    _player addMagazine "7Rnd_45ACP_1911";
-    _player addMagazine "7Rnd_45ACP_1911";
-	_player addWeapon "Colt1911";
-	_player selectWeapon "Colt1911";
+    _player addMagazine "uns_m1911mag";
+    _player addMagazine "uns_m1911mag";
+	_player addWeapon "uns_m1911";
+	_player selectWeapon "uns_m1911";
 };
 
 if(str(playerSide) in ["EAST"]) then
 {
     removeAllWeapons _player;
-    _player addMagazine "8Rnd_9x18_Makarov";
-    _player addMagazine "8Rnd_9x18_Makarov";
-	_player addWeapon "Makarov";
-	_player selectWeapon "Makarov";
+    _player addMagazine "uns_makarovmag";
+    _player addMagazine "uns_makarovmag";
+	_player addWeapon "uns_makarov";
+	_player selectWeapon "uns_makarov";
 };
 
 if(str(playerSide) in ["GUER"]) then

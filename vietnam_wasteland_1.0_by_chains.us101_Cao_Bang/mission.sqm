@@ -2087,7 +2087,7 @@ class Mission
 			position[]={3425.9343,0.24717346,3450.3423};
 			id=115;
 			side="EMPTY";
-			vehicle="RHIB2Turret";
+			vehicle="PKW_PBR";
 			skill=0.60000002;
 			init="this setVariable[""original"",1,true];";
 		};
@@ -2114,7 +2114,7 @@ class Mission
 			position[]={6794.2842,0.26035836,969.08081};
 			id=118;
 			side="EMPTY";
-			vehicle="RHIB";
+			vehicle="PKW_PBR";
 			skill=0.60000002;
 			init="this setVariable[""original"",1,true];";
 		};
@@ -2168,7 +2168,7 @@ class Mission
 			position[]={7392.7134,0.5037418,7508.0781};
 			id=124;
 			side="EMPTY";
-			vehicle="RHIB2Turret";
+			vehicle="PKW_PBR";
 			skill=0.60000002;
 			init="this setVariable[""original"",1,true];";
 		};
