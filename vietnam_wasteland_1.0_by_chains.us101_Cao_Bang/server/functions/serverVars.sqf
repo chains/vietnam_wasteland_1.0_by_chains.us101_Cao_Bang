@@ -53,14 +53,9 @@ publicVariable "currentInvites";
 currentStaticHelis = []; // Storage for the heli marker numbers so that we don't spawn wrecks on top of live helis
 
 //Civilian Vehicle List - Random Spawns
-civilianVehicles = ["car_hatchback",
-					"car_sedan",
-					"datsun1_civil_2_covered",
-					"SkodaGreen",
+civilianVehicles = [
 					"Lada2",
 					"V3S_Civ",
-					"UralCivil",
-					"VWGolf",
 					"MMT_Civ",
 					"Ikarus_TK_CIV_EP1",
 					"Lada1_TK_CIV_EP1",
@@ -69,28 +64,26 @@ civilianVehicles = ["car_hatchback",
 					"UAZ_Unarmed_TK_CIV_EP1",
 					"ATV_US_EP1",
 					"BAF_Offroad_W",
-					"S1203_ambulance_EP1"];
+//UNS Stuff			"uns_willys",
+					"uns_truck_open",
+					"uns_M43",
+					"uns_m37b1",
+					"uns_nvatruck_open",
+					"uns_pt76"
+					];
 
 //Military Vehicle List - Random Spawns
-militaryVehicles = ["UAZ_CDF",
-					"SUV_PMC",
-					"MTVR",
-					"BAF_Offroad_W",
-					"HMMWV",
-					"HMMWV_Ambulance",
-					"S1203_ambulance_EP1",
-					"GAZ_Vodnik_MedEvac"];
+militaryVehicles = [
+					"UAZ_CDF",
+					"uns_willys",
+					"uns_truck_open"
+					];
 
 //Armed Military Vehicle List - Random Spawns
-armedMilitaryVehicles = ["ArmoredSUV_PMC",
-							"Pickup_PK_GUE",
-							"UAZ_MG_TK_EP1",
-							"LandRover_MG_TK_INS_EP1",
-							"HMMWV_M2",
-							"HMMWV_Armored",
-							"HMMWV_MK19",
-							"HMMWV_TOW",
-							"GAZ_Vodnik"];
+armedMilitaryVehicles = [
+						"uns_willys",
+						"uns_truck_open"
+						];
 
 //Item Config
 pickupList = ["Satelit",
@@ -147,6 +140,7 @@ objectList = ["Land_Barrel_water",
                                          
 //Object List - Random Spawns.
 staticWeaponsList = ["M2StaticMG_US_EP1",
+				"uns_dshkhmg",
 				"DSHKM_TK_INS_EP1"];
 
 //Object List - Random Helis.
