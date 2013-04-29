@@ -233,7 +233,9 @@ R3F_LOG_CFG_transporteurs = [
 	["BAF_Merlin_HC3_D",75],
 	["Ka60_Base_PMC", 40],
 	["ArmoredSUV_Base_PMC", 12],
-	["BAF_Jackal2_BASE_D", 15]
+	["BAF_Jackal2_BASE_D", 15],
+	//UNS
+	["CSJ_C123", 150]
 ];
 
 /**

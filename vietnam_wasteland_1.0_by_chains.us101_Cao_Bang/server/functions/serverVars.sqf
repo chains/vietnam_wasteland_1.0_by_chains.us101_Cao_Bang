@@ -125,18 +125,16 @@ objectList = ["Land_Barrel_water",
 				"Land_Fort_Watchtower_EP1",
                 "Land_Fort_Watchtower",
 				"Land_fortified_nest_big",
-				"RampConcrete",
+				//"RampConcrete",
 				"WarfareBDepot",
 				"WarfareBCamp",
                 "Hedgehog",
-                "Land_ConcreteRamp",
+                //"Land_ConcreteRamp",
                 "Land_CncBlock_Stripes",
                 "Land_Campfire_burning",
                 "Land_GuardShed",
                 "Land_tent_east",
-				"Land_ConcreteBlock",
-//UNS			"US_Backpack_EP1",
-				"TK_ALICE_Pack_EP1"				
+				//"Land_ConcreteBlock",		
 				];
                                          
 //Object List - Random Spawns.
