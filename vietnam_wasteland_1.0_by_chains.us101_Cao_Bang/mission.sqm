@@ -184,7 +184,7 @@ class Mission
 					position[]={3268.1409,3.36324,7207.2065};
 					id=12;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -717,7 +717,7 @@ class Mission
 					special="NONE";
 					id=0;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -774,7 +774,7 @@ class Mission
 					position[]={3254.7668,3.9134862,7207.4829};
 					id=4;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -793,7 +793,7 @@ class Mission
 					position[]={3261.6262,3.5895219,7206.9653};
 					id=8;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1143,7 +1143,7 @@ class Mission
 					position[]={3268.2512,4.1351175,7181.7319};
 					id=87;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1296,7 +1296,7 @@ class Mission
 					special="NONE";
 					id=75;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1353,7 +1353,7 @@ class Mission
 					position[]={3254.8772,3.2884791,7182.0083};
 					id=79;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1372,7 +1372,7 @@ class Mission
 					position[]={3261.7366,3.6720052,7181.4907};
 					id=83;
 					side="WEST";
-					vehicle="uns_usmc_8j";
+					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -2132,7 +2132,7 @@ class Mission
 			position[]={9061.1924,0.44697103,3475.3523};
 			id=120;
 			side="EMPTY";
-			vehicle="PBX";
+			vehicle="PKW_PBR";
 			skill=0.60000002;
 			init="this setVariable[""original"",1,true];";
 		};
@@ -2177,7 +2177,7 @@ class Mission
 			position[]={6891.709,0.12030829,8955.6777};
 			id=125;
 			side="EMPTY";
-			vehicle="PBX";
+			vehicle="PKW_PBR";
 			skill=0.60000002;
 			init="this setVariable[""original"",1,true];";
 		};

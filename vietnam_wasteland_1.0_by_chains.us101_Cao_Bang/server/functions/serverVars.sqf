@@ -57,19 +57,15 @@ civilianVehicles = [
 					"Lada2",
 					"V3S_Civ",
 					"MMT_Civ",
-					"Ikarus_TK_CIV_EP1",
 					"Lada1_TK_CIV_EP1",
 					"Old_moto_TK_Civ_EP1",
 					"S1203_TK_CIV_EP1",
 					"UAZ_Unarmed_TK_CIV_EP1",
-					"ATV_US_EP1",
-					"BAF_Offroad_W",
 //UNS Stuff			"uns_willys",
 					"uns_truck_open",
 					"uns_M43",
 					"uns_m37b1",
-					"uns_nvatruck_open",
-					"uns_pt76"
+					"uns_nvatruck_open"
 					];
 
 //Military Vehicle List - Random Spawns
@@ -77,11 +73,13 @@ militaryVehicles = [
 					"UAZ_CDF",
 					"uns_willys",
 					"uns_truck_open"
+					
 					];
 
 //Armed Military Vehicle List - Random Spawns
 armedMilitaryVehicles = [
 						"uns_willys",
+						"uns_willysmg",
 						"uns_truck_open"
 						];
 
@@ -136,12 +134,18 @@ objectList = ["Land_Barrel_water",
                 "Land_Campfire_burning",
                 "Land_GuardShed",
                 "Land_tent_east",
-				"Land_ConcreteBlock"];
+				"Land_ConcreteBlock",
+//UNS			"US_Backpack_EP1",
+				"TK_ALICE_Pack_EP1"				
+				];
                                          
 //Object List - Random Spawns.
-staticWeaponsList = ["M2StaticMG_US_EP1",
+staticWeaponsList = [
 				"uns_dshkhmg",
-				"DSHKM_TK_INS_EP1"];
+				"uns_m2",
+				"uns_m2_2",
+				"uns_m2_3"
+				];
 
 //Object List - Random Helis.
 staticHeliList = ["UH1H_TK_GUE_EP1",
@@ -153,29 +157,58 @@ staticHeliList = ["UH1H_TK_GUE_EP1",
                 "AH6X_EP1"];
 
 //Random Weapon List - Change this to what you want to spawn in cars.
-vehicleWeapons = ["AK_107_kobra",
-				"AK_47_M",
-				"AK_47_S",
-				"AK_74",
-				"BAF_L85A2_RIS_ACOG",
-				"bizon",
-				"bizon_silenced",
-				"FN_FAL",
-				"G36a",
-				"LeeEnfield",
-				"M1014",
-				"M16A2",
-				"m16a4",
-				"M4A1_Aim",
-				"MP5A5",
-				"Sa58V_EP1",
-				"Saiga12K",
-				"SCAR_L_CQC",
-                "M9",
-                "M9SD",
-                "revolver_EP1",
-                "Sa61_EP1",
-                "UZI_EP1"];
+vehicleWeapons = [
+				"uns_coltcmdr",
+				"uns_m1911",
+				"uns_l34a1",
+				"uns_m3a1",
+				"uns_m3sd",
+				"uns_m45",
+				"uns_mac10",
+				"uns_mac10sd",
+				"uns_mat49",
+				"uns_thompson",
+				"uns_ithaca37",
+				"uns_m870",
+				"uns_bar",
+				"uns_m14",
+				"uns_m14a",
+				"uns_mas36",
+				"uns_mas4956",
+				"uns_mas4956s",
+				"uns_car15e1_20",
+				"uns_car15e2_20",
+				"uns_car15e2_30",
+				"uns_l1a1",
+				"uns_m16a1_20",
+				"uns_m16a1_30",
+				"uns_m60",
+				"uns_m63a",
+				"uns_m60shorty",
+				"uns_ex41",
+				"uns_m203_20",
+				"uns_m203_30",
+				"uns_makarov",
+				"uns_tokarev",
+				"uns_k50m",
+				"uns_k50mdrum",
+				"uns_m1897",
+				"uns_m1897riot",
+				"uns_ppsh41",
+				"uns_thompsonvc",
+				"uns_mosin",
+				"uns_sks",
+				"uns_sksbayo",
+				"uns_svd",
+				"uns_ak47",
+				"uns_ak47bayo",
+				"uns_ct56",
+				"uns_ct56bayo",
+				"uns_ct56ws",
+				"uns_rpd",
+				"uns_rpdsog",
+				"uns_rpk"
+				];
                 
 MissionSpawnMarkers = [
             ["Mission_1",false],
