@@ -23,8 +23,8 @@ weaponsArray = [
 ["BAR", "uns_bar", 140, 25],
 ["M16A1", "uns_m16a1_30", 170, 25],
 ["M60", "uns_m60", 250, 25],
-["Ex41", "uns_ex41", 250, 25],
 ["Ak47", "uns_ak47", 135, 25],
+["RPG7", "uns_rpg7", 350, 25],
 ["RPK","uns_rpk", 230, 25]
 ];
 
@@ -32,25 +32,47 @@ weaponsArray = [
 //Text name, classname, buy cost
 ammoArray = [
 
-["Mac10mag", "uns_mac10mag", 5],
-["Mat49mag", "uns_mat49mag", 10],
-["Thompsonmag", "uns_thompsonmag_30", 5],
-["Ithaca37mag", "uns_ithaca37mag", 15],
-["M870mag", "uns_m870mag", 15],
-["Barmag", "uns_barmag", 15],
+["Mac10 mag", "uns_mac10mag", 5],
+["Mat49 mag", "uns_mat49mag", 10],
+["Thompson mag", "uns_thompsonmag_30", 5],
+["Ithaca37 mag", "uns_ithaca37mag", 15],
+["M870 mag", "uns_m870mag", 15],
+["Bar mag", "uns_barmag", 15],
 ["M16 Ammo", "uns_m16mag_30", 15],
-["M60mag", "uns_m60mag", 15],
-["Ex41mag", "uns_ex41mag", 15],
-["Ak47mag", "uns_ak47mag", 15],
-["Rpkmag", "uns_rpkmag", 25]
-
+["M60 mag", "uns_m60mag", 15],
+["Ex41 mag", "uns_ex41mag", 15],
+["Ak47 mag", "uns_ak47mag", 15],
+["RPG Ammo", "uns_rpg7grenade", 120],
+["Rpk mag", "uns_rpkmag", 25],
+["SVD Ammo", "uns_svdmag", 35],
+["Ppsh mag","uns_ppshmag", 25],
+["k50 mag","uns_k50mag", 25],
+["Mp40 mag","uns_mp40mag", 25],
+["Sks mag","uns_sksmag", 25],
+["Ct56 mag","uns_ct56mag", 25],
+["Mosin mag","uns_mosinmag", 25],
+["Mk4 mag","uns_mk4mag", 25],
+["M3a1 mag","uns_m3a1mag", 25],
+["M45 mag","uns_m45mag", 25],
+["Mat49 mag","uns_mat49mag", 25],
+["Sten mag","uns_stenmag", 25],
+["M1carbine mag","uns_m1carbinemag", 25],
+["M2carbine mag","uns_m2carbinemag", 25],
+["Garand mag","uns_garandmag", 25],
+["M14 mag","uns_m14mag", 25],
+["M21 mag","uns_m21mag", 25],
+["Mas36 mag","uns_mas36mag", 25],
+["Springfield mag","uns_springfieldmag", 25],
+["Model70 mag","uns_model70mag", 25],
+["M1897 mag","uns_m1897mag", 25],
+["M63 mag","uns_m63mag", 25]
 ];
 
 //Gun Store Equipment List
 //Text name, classname, buy cost
 accessoriesArray = [
-	["Useless radio","UNS_ItemRadio",500],
-	["Binoculars","Binocular",500]
+	["Jukebox","UNS_ItemRadio",10000],
+	["Binoculars","Binocular", 300]
 ];
 
 //General Store Item List
