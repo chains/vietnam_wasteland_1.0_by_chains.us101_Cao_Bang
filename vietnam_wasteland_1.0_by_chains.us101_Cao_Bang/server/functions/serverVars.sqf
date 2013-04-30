@@ -133,8 +133,7 @@ objectList = ["Land_Barrel_water",
                 "Land_CncBlock_Stripes",
                 "Land_Campfire_burning",
                 "Land_GuardShed",
-                "Land_tent_east",
-				//"Land_ConcreteBlock",		
+                "Land_tent_east"	
 				];
                                          
 //Object List - Random Spawns.
