@@ -139,9 +139,8 @@ objectList = ["Land_Barrel_water",
 //Object List - Random Spawns.
 staticWeaponsList = [
 				"uns_dshkhmg",
-				"uns_m2",
-				"uns_m2_2",
-				"uns_m2_3"
+				"uns_m2hb",
+				"uns_m1919"
 				];
 
 //Object List - Random Helis.
