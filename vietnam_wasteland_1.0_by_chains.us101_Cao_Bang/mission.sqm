@@ -879,7 +879,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={5360.4121,28.402561,7815.0566};
+					position[]={5746.8071,9.2246389,7821.0117};
 					azimut=151.632;
 					id=50;
 					side="LOGIC";
@@ -939,7 +939,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={6844.0566,9.4273663,1620.2706};
+					position[]={6125.1807,109.1271,2019.9679};
 					azimut=328.64359;
 					id=69;
 					side="LOGIC";
@@ -959,7 +959,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4814.8901,16.596117,6729.8916};
+					position[]={4116.855,96.845596,7131.1406};
 					azimut=328.64359;
 					id=70;
 					side="LOGIC";
@@ -979,7 +979,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4709.1816,28.792225,3589.0449};
+					position[]={4455.1406,3.4347,3905.7188};
 					azimut=328.64359;
 					id=71;
 					side="LOGIC";
@@ -999,7 +999,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={1725.4209,6.5597029,7260.5439};
+					position[]={1776.2665,5.1629581,7240.627};
 					azimut=328.64359;
 					id=72;
 					side="LOGIC";
@@ -1863,7 +1863,7 @@ class Mission
 		};
 		class Item8
 		{
-			position[]={5361.0537,28.47336,7820.1768};
+			position[]={5747.4487,9.3567381,7826.1318};
 			azimut=140;
 			special="NONE";
 			id=51;
@@ -1876,7 +1876,7 @@ class Mission
 		};
 		class Item9
 		{
-			position[]={5358.2686,28.299513,7811.8809};
+			position[]={5744.6636,9.2492886,7817.8359};
 			azimut=45;
 			id=52;
 			side="EMPTY";
@@ -1887,7 +1887,7 @@ class Mission
 		};
 		class Item10
 		{
-			position[]={5366.1592,28.322905,7824.0225};
+			position[]={5752.5542,9.7530985,7829.9775};
 			azimut=195.45775;
 			id=53;
 			side="EMPTY";
@@ -1897,7 +1897,7 @@ class Mission
 		};
 		class Item11
 		{
-			position[]={5360.832,28.38163,7814.5752};
+			position[]={5747.2271,9.2184982,7820.5303};
 			azimut=278;
 			id=55;
 			side="EMPTY";
@@ -1907,7 +1907,7 @@ class Mission
 		};
 		class Item12
 		{
-			position[]={5360.1807,28.556917,7824.1943};
+			position[]={5746.5757,9.5050087,7830.1494};
 			azimut=6.1187;
 			id=54;
 			side="EMPTY";
@@ -1993,7 +1993,7 @@ class Mission
 		};
 		class Item20
 		{
-			position[]={6841.9365,9.3203297,1621.506};
+			position[]={6123.0605,109.42043,2021.2032};
 			azimut=-53.868099;
 			special="NONE";
 			id=65;
@@ -2006,7 +2006,7 @@ class Mission
 		};
 		class Item21
 		{
-			position[]={4815.8452,16.395775,6730.1211};
+			position[]={4117.8101,96.845596,7131.3701};
 			azimut=-53.868099;
 			special="NONE";
 			id=66;
@@ -2019,7 +2019,7 @@ class Mission
 		};
 		class Item22
 		{
-			position[]={4710.7979,28.479712,3590.0151};
+			position[]={4456.7568,3.4347,3906.689};
 			azimut=53.868099;
 			special="NONE";
 			id=67;
@@ -2032,7 +2032,7 @@ class Mission
 		};
 		class Item23
 		{
-			position[]={1726.3496,6.3755512,7260.1387};
+			position[]={1777.1952,5.1503735,7240.2217};
 			azimut=115.8681;
 			special="NONE";
 			id=68;
@@ -2186,7 +2186,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=839;
+		items=838;
 		class Item0
 		{
 			position[]={7399.5557,4.3799791,1298.1613};
@@ -2201,5095 +2201,5089 @@ class Mission
 		};
 		class Item2
 		{
-			position[]={5130.832,4.4715152,4592.4727};
-			name="dock14";
-			type="Empty";
-		};
-		class Item3
-		{
 			position[]={5144.0542,13.072503,3632.3943};
 			name="dock15";
 			type="Empty";
 		};
-		class Item4
+		class Item3
 		{
 			position[]={5277.9736,7.0501657,3719.8774};
 			name="dock16";
 			type="Empty";
 		};
-		class Item5
+		class Item4
 		{
 			position[]={4166.8569,16.461544,2578.5854};
 			name="Spawn_1";
 			type="Empty";
 		};
-		class Item6
+		class Item5
 		{
 			position[]={6048.0801,14.952229,2791.5281};
 			name="Spawn_2";
 			type="Empty";
 		};
-		class Item7
+		class Item6
 		{
 			position[]={5775.4238,45.770447,2817.5652};
 			name="Spawn_3";
 			type="Empty";
 		};
-		class Item8
+		class Item7
 		{
 			position[]={5735.0742,51.761383,2864.9744};
 			name="Spawn_4";
 			type="Empty";
 		};
-		class Item9
+		class Item8
 		{
 			position[]={5945.9321,15.06534,2722.7214};
 			name="Spawn_5";
 			type="Empty";
 		};
-		class Item10
+		class Item9
 		{
 			position[]={5826.0459,33.780872,2758.1174};
 			name="Spawn_6";
 			type="Empty";
 		};
-		class Item11
+		class Item10
 		{
 			position[]={5993.4448,21.481859,2739.1973};
 			name="Spawn_7";
 			type="Empty";
 		};
-		class Item12
+		class Item11
 		{
 			position[]={5834.7622,44.822742,2797.6555};
 			name="Spawn_8";
 			type="Empty";
 		};
-		class Item13
+		class Item12
 		{
 			position[]={4365.229,14.926473,2518.667};
 			name="Spawn_9";
 			type="Empty";
 		};
-		class Item14
+		class Item13
 		{
 			position[]={4403.4038,12.020633,2504.6729};
 			name="Spawn_10";
 			type="Empty";
 		};
-		class Item15
+		class Item14
 		{
 			position[]={5133.854,9.0538521,2067.5784};
 			name="Spawn_11";
 			type="Empty";
 		};
-		class Item16
+		class Item15
 		{
 			position[]={5861.5317,100.70177,2215.8206};
 			name="Spawn_12";
 			type="Empty";
 		};
-		class Item17
+		class Item16
 		{
 			position[]={6090.8096,27.80055,1377.9688};
 			name="Spawn_13";
 			type="Empty";
 		};
-		class Item18
+		class Item17
 		{
 			position[]={6032.0894,96.942039,2229.2712};
 			name="Spawn_14";
 			type="Empty";
 		};
-		class Item19
+		class Item18
 		{
 			position[]={6488.7227,22.053469,2313.3071};
 			name="Spawn_15";
 			type="Empty";
 		};
-		class Item20
+		class Item19
 		{
 			position[]={6436.5337,16.404209,2626.0452};
 			name="Spawn_16";
 			type="Empty";
 		};
-		class Item21
+		class Item20
 		{
 			position[]={6537.6982,29.103098,2264.7097};
 			name="Spawn_17";
 			type="Empty";
 		};
-		class Item22
+		class Item21
 		{
 			position[]={6840.8369,59.728104,2428.5723};
 			name="Spawn_18";
 			type="Empty";
 		};
-		class Item23
+		class Item22
 		{
 			position[]={6789.9771,52.918083,2419.8765};
 			name="Spawn_19";
 			type="Empty";
 		};
-		class Item24
+		class Item23
 		{
 			position[]={6519.4824,21.111897,2605.2229};
 			name="Spawn_20";
 			type="Empty";
 		};
-		class Item25
+		class Item24
 		{
 			position[]={6395.8936,17.641409,2647.1575};
 			name="Spawn_21";
 			type="Empty";
 		};
-		class Item26
+		class Item25
 		{
 			position[]={6823.3433,11.863367,3064.8037};
 			name="Spawn_22";
 			type="Empty";
 		};
-		class Item27
+		class Item26
 		{
 			position[]={6849.5762,54.808353,2449.4771};
 			name="Spawn_23";
 			type="Empty";
 		};
-		class Item28
+		class Item27
 		{
 			position[]={7037.9019,8.6267548,3238.0132};
 			name="Spawn_24";
 			type="Empty";
 		};
-		class Item29
+		class Item28
 		{
 			position[]={7049.4297,6.8540034,3316.2893};
 			name="Spawn_25";
 			type="Empty";
 		};
-		class Item30
+		class Item29
 		{
 			position[]={6979.5449,8.621295,3257.281};
 			name="Spawn_26";
 			type="Empty";
 		};
-		class Item31
+		class Item30
 		{
 			position[]={6381.9917,19.424278,3128.438};
 			name="Spawn_27";
 			type="Empty";
 		};
-		class Item32
+		class Item31
 		{
 			position[]={6524.0513,19.433228,2574.0591};
 			name="Spawn_28";
 			type="Empty";
 		};
-		class Item33
+		class Item32
 		{
 			position[]={6478.7959,21.027573,2630.2478};
 			name="Spawn_29";
 			type="Empty";
 		};
-		class Item34
+		class Item33
 		{
 			position[]={6193.7681,22.604681,2536.2021};
 			name="Spawn_30";
 			type="Empty";
 		};
-		class Item35
+		class Item34
 		{
 			position[]={6336.9629,11.509447,2628.9958};
 			name="Spawn_31";
 			type="Empty";
 		};
-		class Item36
+		class Item35
 		{
 			position[]={7001.853,7.908741,3348.8296};
 			name="Spawn_32";
 			type="Empty";
 		};
-		class Item37
+		class Item36
 		{
 			position[]={6979.0098,8.1290379,3329.2224};
 			name="Spawn_33";
 			type="Empty";
 		};
-		class Item38
+		class Item37
 		{
 			position[]={6316.9165,21.726849,3173.0376};
 			name="Spawn_34";
 			type="Empty";
 		};
-		class Item39
+		class Item38
 		{
 			position[]={6355.7725,20.377682,3153.5813};
 			name="Spawn_35";
 			type="Empty";
 		};
-		class Item40
+		class Item39
 		{
 			position[]={6284.8022,19.179348,3143.5229};
 			name="Spawn_36";
 			type="Empty";
 		};
-		class Item41
+		class Item40
 		{
 			position[]={6423.7188,27.79767,3633.0256};
 			name="Spawn_37";
 			type="Empty";
 		};
-		class Item42
+		class Item41
 		{
 			position[]={6444.8438,74.340836,3695.9424};
 			name="Spawn_38";
 			type="Empty";
 		};
-		class Item43
+		class Item42
 		{
 			position[]={6478.064,9.3407431,3776.6274};
 			name="Spawn_39";
 			type="Empty";
 		};
-		class Item44
+		class Item43
 		{
 			position[]={5471.7012,22.612743,3915.4907};
 			name="Spawn_40";
 			type="Empty";
 		};
-		class Item45
+		class Item44
 		{
 			position[]={5434.3789,18.581919,3949.7869};
 			name="Spawn_41";
 			type="Empty";
 		};
-		class Item46
+		class Item45
 		{
 			position[]={5988.9937,23.952759,3575.8096};
 			name="Spawn_42";
 			type="Empty";
 		};
-		class Item47
+		class Item46
 		{
 			position[]={5747.1465,87.109085,4140.021};
 			name="Spawn_43";
 			type="Empty";
 		};
-		class Item48
+		class Item47
 		{
 			position[]={5797.439,21.465727,3182.0486};
 			name="Spawn_44";
 			type="Empty";
 		};
-		class Item49
+		class Item48
 		{
 			position[]={5668.1553,15.991631,3342.1272};
 			name="Spawn_45";
 			type="Empty";
 		};
-		class Item50
+		class Item49
 		{
 			position[]={5695.6753,7.5477619,3038.1438};
 			name="Spawn_46";
 			type="Empty";
 		};
-		class Item51
+		class Item50
 		{
 			position[]={4177.8613,32.40469,3144.5466};
 			name="Spawn_47";
 			type="Empty";
 		};
-		class Item52
+		class Item51
 		{
 			position[]={4279.3877,43.345234,3139.5513};
 			name="Spawn_48";
 			type="Empty";
 		};
-		class Item53
+		class Item52
 		{
 			position[]={7627.0254,8.5278873,2770.8918};
 			name="Spawn_49";
 			type="Empty";
 		};
-		class Item54
+		class Item53
 		{
 			position[]={7709.916,11.541071,2804.5002};
 			name="Spawn_50";
 			type="Empty";
 		};
-		class Item55
+		class Item54
 		{
 			position[]={7745.9004,11.789138,2826.6536};
 			name="Spawn_51";
 			type="Empty";
 		};
-		class Item56
+		class Item55
 		{
 			position[]={8123.1855,15.037307,3310.5195};
 			name="Spawn_52";
 			type="Empty";
 		};
-		class Item57
+		class Item56
 		{
 			position[]={7841.6128,18.938129,3043.6936};
 			name="Spawn_53";
 			type="Empty";
 		};
-		class Item58
+		class Item57
 		{
 			position[]={8105.2715,12.062147,3343.2178};
 			name="Spawn_54";
 			type="Empty";
 		};
-		class Item59
+		class Item58
 		{
 			position[]={8162.9922,4.5178461,3358.5723};
 			name="Spawn_55";
 			type="Empty";
 		};
-		class Item60
+		class Item59
 		{
 			position[]={7742.1421,15.423735,3077.7844};
 			name="Spawn_56";
 			type="Empty";
 		};
-		class Item61
+		class Item60
 		{
 			position[]={8163.5142,10.461304,3062.1152};
 			name="Spawn_57";
 			type="Empty";
 		};
-		class Item62
+		class Item61
 		{
 			position[]={8192.0684,6.3482394,3337.27};
 			name="Spawn_58";
 			type="Empty";
 		};
-		class Item63
+		class Item62
 		{
 			position[]={7863.3511,20.781178,3149.8174};
 			name="Spawn_59";
 			type="Empty";
 		};
-		class Item64
+		class Item63
 		{
 			position[]={8141.8809,10.755217,3021.5913};
 			name="Spawn_60";
 			type="Empty";
 		};
-		class Item65
+		class Item64
 		{
 			position[]={7834.6157,19.414717,3150.4932};
 			name="Spawn_61";
 			type="Empty";
 		};
-		class Item66
+		class Item65
 		{
 			position[]={7821.5371,20.720753,3023.3176};
 			name="Spawn_62";
 			type="Empty";
 		};
-		class Item67
+		class Item66
 		{
 			position[]={8179.6362,9.8190994,3034.9536};
 			name="Spawn_63";
 			type="Empty";
 		};
-		class Item68
+		class Item67
 		{
 			position[]={4795.7832,17.365417,3667.9314};
 			name="Spawn_64";
 			type="Empty";
 		};
-		class Item69
+		class Item68
 		{
 			position[]={6761.502,36.83094,2274.2385};
 			name="Spawn_65";
 			type="Empty";
 		};
-		class Item70
+		class Item69
 		{
 			position[]={6800.5703,52.900768,2392.2952};
 			name="Spawn_66";
 			type="Empty";
 		};
-		class Item71
+		class Item70
 		{
 			position[]={6570.5186,38.661926,2198.0076};
 			name="Spawn_67";
 			type="Empty";
 		};
-		class Item72
+		class Item71
 		{
 			position[]={4566.4775,12.630013,1482.6797};
 			name="Spawn_68";
 			type="Empty";
 		};
-		class Item73
+		class Item72
 		{
 			position[]={4609.2314,10.339994,1485.6436};
 			name="Spawn_69";
 			type="Empty";
 		};
-		class Item74
+		class Item73
 		{
 			position[]={4702.2373,15.553778,1383.8717};
 			name="Spawn_70";
 			type="Empty";
 		};
-		class Item75
+		class Item74
 		{
 			position[]={4600.9878,15.561189,1426.6959};
 			name="Spawn_71";
 			type="Empty";
 		};
-		class Item76
+		class Item75
 		{
 			position[]={4658.9097,11.952738,1449.3092};
 			name="Spawn_72";
 			type="Empty";
 		};
-		class Item77
+		class Item76
 		{
 			position[]={4810.8438,20.998585,1378.1033};
 			name="Spawn_73";
 			type="Empty";
 		};
-		class Item78
+		class Item77
 		{
 			position[]={4952.3398,23.062746,1443.011};
 			name="Spawn_74";
 			type="Empty";
 		};
-		class Item79
+		class Item78
 		{
 			position[]={7319.6753,2.5086942,1362.7219};
 			name="Spawn_75";
 			type="Empty";
 		};
-		class Item80
+		class Item79
 		{
 			position[]={7352.8882,2.539402,1334.8635};
 			name="Spawn_76";
 			type="Empty";
 		};
-		class Item81
+		class Item80
 		{
 			position[]={7440.0361,3.3306103,1385.0175};
 			name="Spawn_77";
 			type="Empty";
 		};
-		class Item82
+		class Item81
 		{
 			position[]={7459.6748,5.2036724,1431.2568};
 			name="Spawn_78";
 			type="Empty";
 		};
-		class Item83
+		class Item82
 		{
 			position[]={7629.6646,3.0362265,1481.9995};
 			name="Spawn_79";
 			type="Empty";
 		};
-		class Item84
+		class Item83
 		{
 			position[]={7521.1572,4.1361051,1397.3496};
 			name="Spawn_80";
 			type="Empty";
 		};
-		class Item85
+		class Item84
 		{
 			position[]={7345.603,23.346256,1578.2195};
 			name="Spawn_81";
 			type="Empty";
 		};
-		class Item86
+		class Item85
 		{
 			position[]={7456.3125,12.891179,1467.9899};
 			name="Spawn_82";
 			type="Empty";
 		};
-		class Item87
+		class Item86
 		{
 			position[]={7047.1704,31.654053,1623.0472};
 			name="Spawn_83";
 			type="Empty";
 		};
-		class Item88
+		class Item87
 		{
 			position[]={7377.7339,12.401914,1492.9216};
 			name="Spawn_84";
 			type="Empty";
 		};
-		class Item89
+		class Item88
 		{
 			position[]={7312.9736,24.172775,1584.4305};
 			name="Spawn_85";
 			type="Empty";
 		};
-		class Item90
+		class Item89
 		{
 			position[]={7416.3296,8.2187185,1440.7095};
 			name="Spawn_86";
 			type="Empty";
 		};
-		class Item91
+		class Item90
 		{
 			position[]={7392.8823,4.4849968,1418.2332};
 			name="Spawn_87";
 			type="Empty";
 		};
-		class Item92
+		class Item91
 		{
 			position[]={7287.3516,25.379889,1589.3243};
 			name="Spawn_88";
 			type="Empty";
 		};
-		class Item93
+		class Item92
 		{
 			position[]={7533.2612,5.9845018,1455.5476};
 			name="Spawn_89";
 			type="Empty";
 		};
-		class Item94
+		class Item93
 		{
 			position[]={7666.2651,2.6653128,1517.6929};
 			name="Spawn_90";
 			type="Empty";
 		};
-		class Item95
+		class Item94
 		{
 			position[]={7015.6626,37.748753,1648.1809};
 			name="Spawn_91";
 			type="Empty";
 		};
-		class Item96
+		class Item95
 		{
 			position[]={7444.082,15.71739,1487.1655};
 			name="Spawn_92";
 			type="Empty";
 		};
-		class Item97
+		class Item96
 		{
 			position[]={7414.396,14.089972,1481.9323};
 			name="Spawn_93";
 			type="Empty";
 		};
-		class Item98
+		class Item97
 		{
 			position[]={7441.9663,3.9884002,1418.1373};
 			name="Spawn_94";
 			type="Empty";
 		};
-		class Item99
+		class Item98
 		{
 			position[]={7663.1934,2.5376301,1486.3099};
 			name="Spawn_95";
 			type="Empty";
 		};
-		class Item100
+		class Item99
 		{
 			position[]={7451.9751,3.3306103,1383.8378};
 			name="Spawn_96";
 			type="Empty";
 		};
-		class Item101
+		class Item100
 		{
 			position[]={7496.9561,8.4955654,1454.2334};
 			name="Spawn_97";
 			type="Empty";
 		};
-		class Item102
+		class Item101
 		{
 			position[]={7604.3501,2.5364208,1423.7793};
 			name="Spawn_98";
 			type="Empty";
 		};
-		class Item103
+		class Item102
 		{
 			position[]={7416.6826,15.651997,1496.9735};
 			name="Spawn_99";
 			type="Empty";
 		};
-		class Item104
+		class Item103
 		{
 			position[]={7367.7622,19.142086,1558.7439};
 			name="Spawn_100";
 			type="Empty";
 		};
-		class Item105
+		class Item104
 		{
 			position[]={5484.6274,29.482035,2026.0468};
 			name="Spawn_101";
 			type="Empty";
 		};
-		class Item106
+		class Item105
 		{
 			position[]={6055.396,27.998617,1236.3716};
 			name="Spawn_102";
 			type="Empty";
 		};
-		class Item107
+		class Item106
 		{
 			position[]={6071.7524,26.773537,1393.7598};
 			name="Spawn_103";
 			type="Empty";
 		};
-		class Item108
+		class Item107
 		{
 			position[]={5954.8433,19.500797,1437.0751};
 			name="Spawn_104";
 			type="Empty";
 		};
-		class Item109
+		class Item108
 		{
 			position[]={6099.4038,27.831917,1242.2062};
 			name="Spawn_105";
 			type="Empty";
 		};
-		class Item110
+		class Item109
 		{
 			position[]={6051.1084,28.467007,1434.6824};
 			name="Spawn_106";
 			type="Empty";
 		};
-		class Item111
+		class Item110
 		{
 			position[]={7638.1401,8.4674206,2792.8457};
 			name="Spawn_107";
 			type="Empty";
 		};
-		class Item112
+		class Item111
 		{
 			position[]={7690.9688,9.4348373,2798.7205};
 			name="Spawn_108";
 			type="Empty";
 		};
-		class Item113
+		class Item112
 		{
 			position[]={7739.4146,12.18492,2780.4031};
 			name="Spawn_109";
 			type="Empty";
 		};
-		class Item114
+		class Item113
 		{
 			position[]={7776.4844,15.600513,2804.5847};
 			name="Spawn_110";
 			type="Empty";
 		};
-		class Item115
+		class Item114
 		{
 			position[]={6506.4277,14.54374,2360.5354};
 			name="Spawn_111";
 			type="Empty";
 		};
-		class Item116
+		class Item115
 		{
 			position[]={6410.3979,17.921392,2356.9294};
 			name="Spawn_112";
 			type="Empty";
 		};
-		class Item117
+		class Item116
 		{
 			position[]={6477.5186,14.44789,2464.3855};
 			name="Spawn_113";
 			type="Empty";
 		};
-		class Item118
+		class Item117
 		{
 			position[]={6546.1147,21.003494,2557.4692};
 			name="Spawn_114";
 			type="Empty";
 		};
-		class Item119
+		class Item118
 		{
 			position[]={6578.5742,16.294483,2343.9417};
 			name="Spawn_115";
 			type="Empty";
 		};
-		class Item120
+		class Item119
 		{
 			position[]={7975.1011,4.4945951,2886.7847};
 			name="Spawn_116";
 			type="Empty";
 		};
-		class Item121
+		class Item120
 		{
 			position[]={8010.0396,3.7017798,2915.6763};
 			name="Spawn_117";
 			type="Empty";
 		};
-		class Item122
+		class Item121
 		{
 			position[]={3929.1755,7.3500981,3089.9158};
 			name="Spawn_118";
 			type="Empty";
 		};
-		class Item123
+		class Item122
 		{
 			position[]={3958.0488,7.4286761,3066.2661};
 			name="Spawn_119";
 			type="Empty";
 		};
-		class Item124
+		class Item123
 		{
 			position[]={3936.0293,8.7810383,3111.8911};
 			name="Spawn_120";
 			type="Empty";
 		};
-		class Item125
+		class Item124
 		{
 			position[]={3922.8196,7.7719545,3065.9346};
 			name="Spawn_121";
 			type="Empty";
 		};
-		class Item126
+		class Item125
 		{
 			position[]={3843.5071,8.2163715,3106.6848};
 			name="Spawn_122";
 			type="Empty";
 		};
-		class Item127
+		class Item126
 		{
 			position[]={3863.3911,7.5309849,3067.771};
 			name="Spawn_123";
 			type="Empty";
 		};
-		class Item128
+		class Item127
 		{
 			position[]={6773.2656,49.322704,2351.8066};
 			name="Spawn_124";
 			type="Empty";
 		};
-		class Item129
+		class Item128
 		{
 			position[]={6746.3047,43.83152,2330.7996};
 			name="Spawn_125";
 			type="Empty";
 		};
-		class Item130
+		class Item129
 		{
 			position[]={6555.207,38.575138,2218.1016};
 			name="Spawn_126";
 			type="Empty";
 		};
-		class Item131
+		class Item130
 		{
 			position[]={6471.7705,17.657356,2345.905};
 			name="Spawn_127";
 			type="Empty";
 		};
-		class Item132
+		class Item131
 		{
 			position[]={6761.7832,48.731869,2370.6829};
 			name="Spawn_128";
 			type="Empty";
 		};
-		class Item133
+		class Item132
 		{
 			position[]={6739.6167,29.470869,2228.4829};
 			name="Spawn_129";
 			type="Empty";
 		};
-		class Item134
+		class Item133
 		{
 			position[]={6531.7266,19.787825,2316.1638};
 			name="Spawn_130";
 			type="Empty";
 		};
-		class Item135
+		class Item134
 		{
 			position[]={6437.8838,20.129442,2333.3054};
 			name="Spawn_131";
 			type="Empty";
 		};
-		class Item136
+		class Item135
 		{
 			position[]={6160.5386,37.240047,2497.6108};
 			name="Spawn_132";
 			type="Empty";
 		};
-		class Item137
+		class Item136
 		{
 			position[]={3822.5613,8.2269669,3134.4492};
 			name="Spawn_133";
 			type="Empty";
 		};
-		class Item138
+		class Item137
 		{
 			position[]={3904.0759,9.7622461,3029.3889};
 			name="Spawn_134";
 			type="Empty";
 		};
-		class Item139
+		class Item138
 		{
 			position[]={4109.5122,14.779404,2123.8567};
 			name="Spawn_135";
 			type="Empty";
 		};
-		class Item140
+		class Item139
 		{
 			position[]={4083.7822,14.779404,2173.3691};
 			name="Spawn_136";
 			type="Empty";
 		};
-		class Item141
+		class Item140
 		{
 			position[]={4135.1865,14.779404,2175.7051};
 			name="Spawn_137";
 			type="Empty";
 		};
-		class Item142
+		class Item141
 		{
 			position[]={4166.7583,14.779404,2136.1223};
 			name="Spawn_138";
 			type="Empty";
 		};
-		class Item143
+		class Item142
 		{
 			position[]={4378.7793,10.826262,2489.7595};
 			name="Spawn_139";
 			type="Empty";
 		};
-		class Item144
+		class Item143
 		{
 			position[]={3917.6577,13.634,2620.6294};
 			name="Spawn_140";
 			type="Empty";
 		};
-		class Item145
+		class Item144
 		{
 			position[]={3917.1121,11.45928,2663.2119};
 			name="Spawn_141";
 			type="Empty";
 		};
-		class Item146
+		class Item145
 		{
 			position[]={3884.3955,12.445926,2703.521};
 			name="Spawn_142";
 			type="Empty";
 		};
-		class Item147
+		class Item146
 		{
 			position[]={4144.5942,16.301069,2613.311};
 			name="Spawn_143";
 			type="Empty";
 		};
-		class Item148
+		class Item147
 		{
 			position[]={4123.4702,15.200848,2541.1768};
 			name="Spawn_144";
 			type="Empty";
 		};
-		class Item149
+		class Item148
 		{
 			position[]={4109.2275,16.95269,2625.6394};
 			name="Spawn_145";
 			type="Empty";
 		};
-		class Item150
+		class Item149
 		{
 			position[]={3874.8831,16.708208,3267.616};
 			name="Spawn_146";
 			type="Empty";
 		};
-		class Item151
+		class Item150
 		{
 			position[]={3903.8035,20.555887,2895.897};
 			name="Spawn_147";
 			type="Empty";
 		};
-		class Item152
+		class Item151
 		{
 			position[]={3781.5947,10.830844,3209.0735};
 			name="Spawn_148";
 			type="Empty";
 		};
-		class Item153
+		class Item152
 		{
 			position[]={2265.9609,13.601896,4001.6997};
 			name="Spawn_149";
 			type="Empty";
 		};
-		class Item154
+		class Item153
 		{
 			position[]={2215.7063,9.1378155,4022.8318};
 			name="Spawn_150";
 			type="Empty";
 		};
-		class Item155
+		class Item154
 		{
 			position[]={2297.0474,14.512275,3978.1919};
 			name="Spawn_151";
 			type="Empty";
 		};
-		class Item156
+		class Item155
 		{
 			position[]={4612.6919,14.266795,1580.7455};
 			name="Spawn_153";
 			type="Empty";
 		};
-		class Item157
+		class Item156
 		{
 			position[]={4597.229,12.436528,1610.8724};
 			name="Spawn_154";
 			type="Empty";
 		};
-		class Item158
+		class Item157
 		{
 			position[]={4646.2051,9.0541706,1803.9331};
 			name="Spawn_155";
 			type="Empty";
 		};
-		class Item159
+		class Item158
 		{
 			position[]={4463.959,16.251665,1714.6689};
 			name="Spawn_156";
 			type="Empty";
 		};
-		class Item160
+		class Item159
 		{
 			position[]={4717.5908,13.295506,1770.4077};
 			name="Spawn_157";
 			type="Empty";
 		};
-		class Item161
+		class Item160
 		{
 			position[]={4475.1348,9.0538521,1840.468};
 			name="Spawn_158";
 			type="Empty";
 		};
-		class Item162
+		class Item161
 		{
 			position[]={4501.687,9.0538521,1871.0481};
 			name="Spawn_159";
 			type="Empty";
 		};
-		class Item163
+		class Item162
 		{
 			position[]={6085.9375,18.571091,2698.0984};
 			name="Spawn_160";
 			type="Empty";
 		};
-		class Item164
+		class Item163
 		{
 			position[]={4439.1064,18.041853,1748.3936};
 			name="Spawn_161";
 			type="Empty";
 		};
-		class Item165
+		class Item164
 		{
 			position[]={4531.0688,9.0538521,1839.3782};
 			name="Spawn_162";
 			type="Empty";
 		};
-		class Item166
+		class Item165
 		{
 			position[]={4573.4688,9.0538521,1819.1964};
 			name="Spawn_163";
 			type="Empty";
 		};
-		class Item167
+		class Item166
 		{
 			position[]={4690.8447,10.734256,1782.327};
 			name="Spawn_164";
 			type="Empty";
 		};
-		class Item168
+		class Item167
 		{
 			position[]={4676.6978,9.0538521,1746.6139};
 			name="Spawn_165";
 			type="Empty";
 		};
-		class Item169
+		class Item168
 		{
 			position[]={4378.1123,9.0538521,1983.0706};
 			name="Spawn_166";
 			type="Empty";
 		};
-		class Item170
+		class Item169
 		{
 			position[]={4351.5181,9.0509195,2006.6276};
 			name="Spawn_167";
 			type="Empty";
 		};
-		class Item171
+		class Item170
 		{
 			position[]={4427.1016,9.0538521,1927.3955};
 			name="Spawn_168";
 			type="Empty";
 		};
-		class Item172
+		class Item171
 		{
 			position[]={4241.6685,14.779404,2071.1626};
 			name="Spawn_169";
 			type="Empty";
 		};
-		class Item173
+		class Item172
 		{
 			position[]={4965.9829,3.1985466,4425.4531};
 			name="Spawn_170";
 			type="Empty";
 		};
-		class Item174
+		class Item173
 		{
 			position[]={4927.6211,3.4434357,4409.9692};
 			name="Spawn_171";
 			type="Empty";
 		};
-		class Item175
+		class Item174
 		{
 			position[]={4928.9683,3.6477392,4426.3486};
 			name="Spawn_172";
 			type="Empty";
 		};
-		class Item176
+		class Item175
 		{
 			position[]={4933.8633,3.3522036,4545.7725};
 			name="Spawn_173";
 			type="Empty";
 		};
-		class Item177
+		class Item176
 		{
 			position[]={4950.5669,3.5761669,4502.5605};
 			name="Spawn_174";
 			type="Empty";
 		};
-		class Item178
+		class Item177
 		{
 			position[]={4888.6221,3.7005312,4450.6357};
 			name="Spawn_175";
 			type="Empty";
 		};
-		class Item179
+		class Item178
 		{
 			position[]={5136.9883,4.6436706,4565.5718};
 			name="Spawn_176";
 			type="Empty";
 		};
-		class Item180
+		class Item179
 		{
 			position[]={5127.8037,4.3371239,4554.2236};
 			name="Spawn_177";
 			type="Empty";
 		};
-		class Item181
+		class Item180
 		{
 			position[]={4882.917,4.6629877,4567.6006};
 			name="Spawn_178";
 			type="Empty";
 		};
-		class Item182
+		class Item181
 		{
 			position[]={5137.1885,3.6737421,4674.0264};
 			name="Spawn_179";
 			type="Empty";
 		};
-		class Item183
+		class Item182
 		{
 			position[]={4623.5273,3.68153,4731.626};
 			name="Spawn_180";
 			type="Empty";
 		};
-		class Item184
+		class Item183
 		{
 			position[]={4853.6699,3.8366108,4569.6221};
 			name="Spawn_181";
 			type="Empty";
 		};
-		class Item185
+		class Item184
 		{
 			position[]={4922.3472,3.1704233,4464.0249};
 			name="Spawn_182";
 			type="Empty";
 		};
-		class Item186
+		class Item185
 		{
 			position[]={4829.7139,4.7471414,4577.2998};
 			name="Spawn_183";
 			type="Empty";
 		};
-		class Item187
+		class Item186
 		{
 			position[]={4635.812,3.68153,4805.0342};
 			name="Spawn_184";
 			type="Empty";
 		};
-		class Item188
+		class Item187
 		{
 			position[]={7232.1436,72.085098,4173.1504};
 			name="Spawn_185";
 			type="Empty";
 		};
-		class Item189
+		class Item188
 		{
 			position[]={7271.917,95.197723,4269.4849};
 			name="Spawn_186";
 			type="Empty";
 		};
-		class Item190
+		class Item189
 		{
 			position[]={7188.9229,89.332123,4290.812};
 			name="Spawn_187";
 			type="Empty";
 		};
-		class Item191
+		class Item190
 		{
 			position[]={7326.4272,107.98463,4407.4922};
 			name="Spawn_188";
 			type="Empty";
 		};
-		class Item192
+		class Item191
 		{
 			position[]={7254.5034,96.653473,4378.1104};
 			name="Spawn_189";
 			type="Empty";
 		};
-		class Item193
+		class Item192
 		{
 			position[]={7316.1143,111.65125,4420.0132};
 			name="Spawn_190";
 			type="Empty";
 		};
-		class Item194
+		class Item193
 		{
 			position[]={7286.4331,113.29384,4482.6401};
 			name="Spawn_191";
 			type="Empty";
 		};
-		class Item195
+		class Item194
 		{
 			position[]={7275.4448,112.73331,4493.353};
 			name="Spawn_192";
 			type="Empty";
 		};
-		class Item196
+		class Item195
 		{
 			position[]={7077.9995,88.585541,4416.6196};
 			name="Spawn_193";
 			type="Empty";
 		};
-		class Item197
+		class Item196
 		{
 			position[]={7198.3726,93.662247,4479.3335};
 			name="Spawn_194";
 			type="Empty";
 		};
-		class Item198
+		class Item197
 		{
 			position[]={7264.334,109.00785,4505.6904};
 			name="Spawn_195";
 			type="Empty";
 		};
-		class Item199
+		class Item198
 		{
 			position[]={6931.7295,31.629089,4580.0493};
 			name="Spawn_196";
 			type="Empty";
 		};
-		class Item200
+		class Item199
 		{
 			position[]={6917.4531,27.058582,4565.9663};
 			name="Spawn_197";
 			type="Empty";
 		};
-		class Item201
+		class Item200
 		{
 			position[]={6883.4556,26.615776,4484.7104};
 			name="Spawn_198";
 			type="Empty";
 		};
-		class Item202
+		class Item201
 		{
 			position[]={7037.4644,88.218788,4361.7476};
 			name="Spawn_199";
 			type="Empty";
 		};
-		class Item203
+		class Item202
 		{
 			position[]={6854.2036,18.24017,4519.5112};
 			name="Spawn_200";
 			type="Empty";
 		};
-		class Item204
+		class Item203
 		{
 			position[]={8450.2734,36.342476,4471.1821};
 			name="Spawn_201";
 			type="Empty";
 		};
-		class Item205
+		class Item204
 		{
 			position[]={7597.0874,8.7714243,4407.6206};
 			name="Spawn_202";
 			type="Empty";
 		};
-		class Item206
+		class Item205
 		{
 			position[]={8436.6924,34.639603,4546.396};
 			name="Spawn_203";
 			type="Empty";
 		};
-		class Item207
+		class Item206
 		{
 			position[]={7497.3545,20.993956,4491.2583};
 			name="Spawn_204";
 			type="Empty";
 		};
-		class Item208
+		class Item207
 		{
 			position[]={7338.5425,102.63514,4324.5146};
 			name="Spawn_205";
 			type="Empty";
 		};
-		class Item209
+		class Item208
 		{
 			position[]={4388.5107,48.294964,3547.3772};
 			name="Spawn_206";
 			type="Empty";
 		};
-		class Item210
+		class Item209
 		{
 			position[]={4341.2183,26.778437,3641.437};
 			name="Spawn_207";
 			type="Empty";
 		};
-		class Item211
+		class Item210
 		{
 			position[]={4707.5239,37.400848,3497.697};
 			name="Spawn_208";
 			type="Empty";
 		};
-		class Item212
+		class Item211
 		{
 			position[]={4725.9751,33.324352,3525.2898};
 			name="Spawn_209";
 			type="Empty";
 		};
-		class Item213
+		class Item212
 		{
 			position[]={4455.6592,42.201775,3554.9143};
 			name="Spawn_210";
 			type="Empty";
 		};
-		class Item214
+		class Item213
 		{
 			position[]={4826.479,22.662455,3522.5596};
 			name="Spawn_211";
 			type="Empty";
 		};
-		class Item215
+		class Item214
 		{
 			position[]={4951.2339,32.10041,3491.4512};
 			name="Spawn_212";
 			type="Empty";
 		};
-		class Item216
+		class Item215
 		{
 			position[]={5123.1865,13.643493,3590.3938};
 			name="Spawn_213#";
 			type="Empty";
 		};
-		class Item217
+		class Item216
 		{
 			position[]={4640.9741,27.841106,3679.647};
 			name="Spawn_214";
 			type="Empty";
 		};
-		class Item218
+		class Item217
 		{
 			position[]={4831.9541,22.546432,3684.3921};
 			name="Spawn_215";
 			type="Empty";
 		};
-		class Item219
+		class Item218
 		{
 			position[]={4631.0371,9.8212624,3805.3342};
 			name="Spawn_216";
 			type="Empty";
 		};
-		class Item220
+		class Item219
 		{
 			position[]={4901.9849,23.983913,3904.3325};
 			name="Spawn_217";
 			type="Empty";
 		};
-		class Item221
+		class Item220
 		{
 			position[]={4695.8169,18.303194,3718.3782};
 			name="Spawn_218";
 			type="Empty";
 		};
-		class Item222
+		class Item221
 		{
 			position[]={4668.3501,40.883163,3235.686};
 			name="Spawn_219";
 			type="Empty";
 		};
-		class Item223
+		class Item222
 		{
 			position[]={4816.1841,28.755753,3223.0376};
 			name="Spawn_220";
 			type="Empty";
 		};
-		class Item224
+		class Item223
 		{
 			position[]={4390.5835,31.427124,3615.333};
 			name="Spawn_221";
 			type="Empty";
 		};
-		class Item225
+		class Item224
 		{
 			position[]={4760.3481,27.910984,3527.7434};
 			name="Spawn_222";
 			type="Empty";
 		};
-		class Item226
+		class Item225
 		{
 			position[]={4906.54,29.553526,3485.9592};
 			name="Spawn_223";
 			type="Empty";
 		};
-		class Item227
+		class Item226
 		{
 			position[]={4684.2544,35.046268,3555.2136};
 			name="Spawn_224";
 			type="Empty";
 		};
-		class Item228
+		class Item227
 		{
 			position[]={5042.4814,22.769287,3586.74};
 			name="Spawn_226";
 			type="Empty";
 		};
-		class Item229
+		class Item228
 		{
 			position[]={4987.5859,32.011604,3479.1035};
 			name="Spawn_227";
 			type="Empty";
 		};
-		class Item230
+		class Item229
 		{
 			position[]={4981.459,20.835659,3756.041};
 			name="Spawn_228";
 			type="Empty";
 		};
-		class Item231
+		class Item230
 		{
 			position[]={4914.5493,23.040417,3722.7224};
 			name="Spawn_229";
 			type="Empty";
 		};
-		class Item232
+		class Item231
 		{
 			position[]={4972.8726,18.15189,3808.0278};
 			name="Spawn_230";
 			type="Empty";
 		};
-		class Item233
+		class Item232
 		{
 			position[]={4693.0962,4.6684017,3836.6301};
 			name="Spawn_231";
 			type="Empty";
 		};
-		class Item234
+		class Item233
 		{
 			position[]={4663.7544,3.7260175,3874.9368};
 			name="Spawn_232";
 			type="Empty";
 		};
-		class Item235
+		class Item234
 		{
 			position[]={4887.7925,25.470131,3945.4868};
 			name="Spawn_233";
 			type="Empty";
 		};
-		class Item236
+		class Item235
 		{
 			position[]={4768.9331,21.828568,3996.1941};
 			name="Spawn_234";
 			type="Empty";
 		};
-		class Item237
+		class Item236
 		{
 			position[]={4948.519,19.489439,3872.2561};
 			name="Spawn_235";
 			type="Empty";
 		};
-		class Item238
+		class Item237
 		{
 			position[]={5164.394,9.958025,3868.4978};
 			name="Spawn_236";
 			type="Empty";
 		};
-		class Item239
+		class Item238
 		{
 			position[]={6317.248,33.577301,6232.3696};
 			name="Spawn_237";
 			type="Empty";
 		};
-		class Item240
+		class Item239
 		{
 			position[]={6692.9517,27.876539,6047.0864};
 			name="Spawn_238";
 			type="Empty";
 		};
-		class Item241
+		class Item240
 		{
 			position[]={5154.144,10.730678,3846.3613};
 			name="Spawn_239";
 			type="Empty";
 		};
-		class Item242
+		class Item241
 		{
 			position[]={6491.4893,7.3100338,3933.9478};
 			name="Spawn_240";
 			type="Empty";
 		};
-		class Item243
+		class Item242
 		{
 			position[]={6480.0225,8.0237417,3983.9006};
 			name="Spawn_241";
 			type="Empty";
 		};
-		class Item244
+		class Item243
 		{
 			position[]={6514.5205,8.9970436,3974.8892};
 			name="Spawn_242";
 			type="Empty";
 		};
-		class Item245
+		class Item244
 		{
 			position[]={6554.04,17.438475,3985.1274};
 			name="Spawn_243";
 			type="Empty";
 		};
-		class Item246
+		class Item245
 		{
 			position[]={6614.0361,11.530116,4054.2212};
 			name="Spawn_244";
 			type="Empty";
 		};
-		class Item247
+		class Item246
 		{
 			position[]={6701.6489,7.7802768,3986.4419};
 			name="Spawn_245";
 			type="Empty";
 		};
-		class Item248
+		class Item247
 		{
 			position[]={6336.5835,27.194424,3635.4792};
 			name="Spawn_246";
 			type="Empty";
 		};
-		class Item249
+		class Item248
 		{
 			position[]={6523.2207,7.908741,3832.9116};
 			name="Spawn_247";
 			type="Empty";
 		};
-		class Item250
+		class Item249
 		{
 			position[]={6572.2695,7.7229581,3805.6616};
 			name="Spawn_248";
 			type="Empty";
 		};
-		class Item251
+		class Item250
 		{
 			position[]={5720.4497,22.575005,3774.3306};
 			name="Spawn_249";
 			type="Empty";
 		};
-		class Item252
+		class Item251
 		{
 			position[]={5691.2427,18.721226,3728.5137};
 			name="Spawn_250";
 			type="Empty";
 		};
-		class Item253
+		class Item252
 		{
 			position[]={5639.7524,14.767987,3752.7751};
 			name="Spawn_251";
 			type="Empty";
 		};
-		class Item254
+		class Item253
 		{
 			position[]={4695.5527,3.68153,4734.0078};
 			name="Spawn_252";
 			type="Empty";
 		};
-		class Item255
+		class Item254
 		{
 			position[]={4673.7759,3.68153,4839.647};
 			name="Spawn_253";
 			type="Empty";
 		};
-		class Item256
+		class Item255
 		{
 			position[]={4635.853,3.68153,4822.8501};
 			name="Spawn_254";
 			type="Empty";
 		};
-		class Item257
+		class Item256
 		{
 			position[]={4730.7061,3.68153,4738.3882};
 			name="Spawn_255";
 			type="Empty";
 		};
-		class Item258
+		class Item257
 		{
 			position[]={4681.0737,3.68153,4777.4253};
 			name="Spawn_256";
 			type="Empty";
 		};
-		class Item259
+		class Item258
 		{
 			position[]={4580.377,3.68153,4905.8008};
 			name="Spawn_257";
 			type="Empty";
 		};
-		class Item260
+		class Item259
 		{
 			position[]={5602.7207,58.391571,8730.8857};
 			name="Spawn_258";
 			type="Empty";
 		};
-		class Item261
+		class Item260
 		{
 			position[]={5349.8481,26.327421,8977.5234};
 			name="Spawn_259";
 			type="Empty";
 		};
-		class Item262
+		class Item261
 		{
 			position[]={5185.0767,2.4323871,8902.0469};
 			name="Spawn_260";
 			type="Empty";
 		};
-		class Item263
+		class Item262
 		{
 			position[]={5314.3091,12.199988,9094.8848};
 			name="Spawn_261";
 			type="Empty";
 		};
-		class Item264
+		class Item263
 		{
 			position[]={5370.3062,37.660446,8881.2168};
 			name="Spawn_262";
 			type="Empty";
 		};
-		class Item265
+		class Item264
 		{
 			position[]={5267.2383,31.549282,8828.1611};
 			name="Spawn_263";
 			type="Empty";
 		};
-		class Item266
+		class Item265
 		{
 			position[]={5236.0098,25.5345,8808.1006};
 			name="Spawn_264";
 			type="Empty";
 		};
-		class Item267
+		class Item266
 		{
 			position[]={5430.7505,51.624039,8876.4492};
 			name="Spawn_265";
 			type="Empty";
 		};
-		class Item268
+		class Item267
 		{
 			position[]={5560.4858,60.944214,8742.4043};
 			name="Spawn_266";
 			type="Empty";
 		};
-		class Item269
+		class Item268
 		{
 			position[]={5253.3247,7.372736,9031.7676};
 			name="Spawn_267";
 			type="Empty";
 		};
-		class Item270
+		class Item269
 		{
 			position[]={5218.4995,3.4974413,8993.8076};
 			name="Spawn_268";
 			type="Empty";
 		};
-		class Item271
+		class Item270
 		{
 			position[]={5392.6685,27.385155,9147.0449};
 			name="Spawn_269";
 			type="Empty";
 		};
-		class Item272
+		class Item271
 		{
 			position[]={5253.981,31.282005,8782.6885};
 			name="Spawn_270";
 			type="Empty";
 		};
-		class Item273
+		class Item272
 		{
 			position[]={5483.9702,56.409218,8810.4727};
 			name="Spawn_271";
 			type="Empty";
 		};
-		class Item274
+		class Item273
 		{
 			position[]={1947.8633,9.1532831,7291.4375};
 			name="Spawn_272";
 			type="Empty";
 		};
-		class Item275
+		class Item274
 		{
 			position[]={1631.3958,5.6090622,7367.3975};
 			name="Spawn_273";
 			type="Empty";
 		};
-		class Item276
+		class Item275
 		{
 			position[]={1631.6478,5.8395853,7335.2593};
 			name="Spawn_274";
 			type="Empty";
 		};
-		class Item277
+		class Item276
 		{
 			position[]={1647.0741,5.4343758,7396.3374};
 			name="Spawn_275";
 			type="Empty";
 		};
-		class Item278
+		class Item277
 		{
 			position[]={1804.8585,11.876333,7518.1685};
 			name="Spawn_276";
 			type="Empty";
 		};
-		class Item279
+		class Item278
 		{
 			position[]={1862.8098,9.592557,7522.2847};
 			name="Spawn_277";
 			type="Empty";
 		};
-		class Item280
+		class Item279
 		{
 			position[]={1629.8014,16.122967,7463.144};
 			name="Spawn_278";
 			type="Empty";
 		};
-		class Item281
+		class Item280
 		{
 			position[]={1705.2767,7.3633022,7590.646};
 			name="Spawn_279";
 			type="Empty";
 		};
-		class Item282
+		class Item281
 		{
 			position[]={1570.8768,6.9986181,7436.9829};
 			name="Spawn_280";
 			type="Empty";
 		};
-		class Item283
+		class Item282
 		{
 			position[]={5231.5083,6.8091698,8985.7598};
 			name="Spawn_281";
 			type="Empty";
 		};
-		class Item284
+		class Item283
 		{
 			position[]={5292.2046,12.990973,9076.709};
 			name="Spawn_282";
 			type="Empty";
 		};
-		class Item285
+		class Item284
 		{
 			position[]={5278.4224,10.490117,9069.3389};
 			name="Spawn_283";
 			type="Empty";
 		};
-		class Item286
+		class Item285
 		{
 			position[]={5419.0044,30.147017,9124.1582};
 			name="Spawn_284";
 			type="Empty";
 		};
-		class Item287
+		class Item286
 		{
 			position[]={5473.0894,44.621433,8973.5684};
 			name="Spawn_285";
 			type="Empty";
 		};
-		class Item288
+		class Item287
 		{
 			position[]={5348.5132,33.931896,8904.4746};
 			name="Spawn_286";
 			type="Empty";
 		};
-		class Item289
+		class Item288
 		{
 			position[]={5278.7979,32.193104,8822.6758};
 			name="Spawn_287";
 			type="Empty";
 		};
-		class Item290
+		class Item289
 		{
 			position[]={6078.9785,25.363831,2653.9739};
 			name="Spawn_288";
 			type="Empty";
 		};
-		class Item291
+		class Item290
 		{
 			position[]={4378.1265,9.0538521,1959.5115};
 			name="Spawn_289";
 			type="Empty";
 		};
-		class Item292
+		class Item291
 		{
 			position[]={4259.2339,14.779404,2042.1025};
 			name="Spawn_290";
 			type="Empty";
 		};
-		class Item293
+		class Item292
 		{
 			position[]={4248.562,14.779404,1998.5341};
 			name="Spawn_291";
 			type="Empty";
 		};
-		class Item294
+		class Item293
 		{
 			position[]={4345.2539,18.269484,1756.1632};
 			name="Spawn_292";
 			type="Empty";
 		};
-		class Item295
+		class Item294
 		{
 			position[]={4426.4668,9.0538521,1906.4255};
 			name="Spawn_293";
 			type="Empty";
 		};
-		class Item296
+		class Item295
 		{
 			position[]={4402.3271,9.0538521,1942.1682};
 			name="Spawn_294";
 			type="Empty";
 		};
-		class Item297
+		class Item296
 		{
 			position[]={4292.1416,24.68832,1721.1429};
 			name="Spawn_295";
 			type="Empty";
 		};
-		class Item298
+		class Item297
 		{
 			position[]={4167.48,14.50882,1859.9518};
 			name="Spawn_296";
 			type="Empty";
 		};
-		class Item299
+		class Item298
 		{
 			position[]={2340.9155,11.426775,4840.0859};
 			name="Spawn_297";
 			type="Empty";
 		};
-		class Item300
+		class Item299
 		{
 			position[]={2388.814,14.193234,4811.3423};
 			name="Spawn_298";
 			type="Empty";
 		};
-		class Item301
+		class Item300
 		{
 			position[]={2088.3079,2.6842451,4761.0342};
 			name="Spawn_299";
 			type="Empty";
 		};
-		class Item302
+		class Item301
 		{
 			position[]={2049.2297,9.0597849,4617.3286};
 			name="Spawn_300";
 			type="Empty";
 		};
-		class Item303
+		class Item302
 		{
 			position[]={2097.4751,3.2351079,4743.5142};
 			name="Spawn_301";
 			type="Empty";
 		};
-		class Item304
+		class Item303
 		{
 			position[]={2066.8225,2.9597611,4697.3105};
 			name="Spawn_302";
 			type="Empty";
 		};
-		class Item305
+		class Item304
 		{
 			position[]={2174.5364,2.8303232,4714.5127};
 			name="Spawn_303";
 			type="Empty";
 		};
-		class Item306
+		class Item305
 		{
 			position[]={2060.8484,2.537204,4735.4922};
 			name="Spawn_304";
 			type="Empty";
 		};
-		class Item307
+		class Item306
 		{
 			position[]={2116.4919,4.2472396,4693.7026};
 			name="Spawn_305";
 			type="Empty";
 		};
-		class Item308
+		class Item307
 		{
 			position[]={3695.4297,8.5569592,3269.9724};
 			name="Spawn_306";
 			type="Empty";
 		};
-		class Item309
+		class Item308
 		{
 			position[]={3717.2932,7.0837693,3245.1392};
 			name="Spawn_307";
 			type="Empty";
 		};
-		class Item310
+		class Item309
 		{
 			position[]={3724.9951,6.9812222,3275.1038};
 			name="Spawn_308";
 			type="Empty";
 		};
-		class Item311
+		class Item310
 		{
 			position[]={3818.375,20.963268,3417.4578};
 			name="Spawn_309";
 			type="Empty";
 		};
-		class Item312
+		class Item311
 		{
 			position[]={3848.792,14.913333,3674.448};
 			name="Spawn_310";
 			type="Empty";
 		};
-		class Item313
+		class Item312
 		{
 			position[]={3976.9067,21.252003,3746.7568};
 			name="Spawn_311";
 			type="Empty";
 		};
-		class Item314
+		class Item313
 		{
 			position[]={3695.1331,5.6850243,3699.8835};
 			name="Spawn_312";
 			type="Empty";
 		};
-		class Item315
+		class Item314
 		{
 			position[]={3868.6348,21.335335,3561.2354};
 			name="Spawn_313";
 			type="Empty";
 		};
-		class Item316
+		class Item315
 		{
 			position[]={4021.927,22.306314,3735.1265};
 			name="Spawn_314";
 			type="Empty";
 		};
-		class Item317
+		class Item316
 		{
 			position[]={4206.4507,14.779404,2111.146};
 			name="Spawn_315";
 			type="Empty";
 		};
-		class Item318
+		class Item317
 		{
 			position[]={4066.4822,14.779404,2224.5085};
 			name="Spawn_316";
 			type="Empty";
 		};
-		class Item319
+		class Item318
 		{
 			position[]={3983.949,14.779404,2299.2405};
 			name="Spawn_317";
 			type="Empty";
 		};
-		class Item320
+		class Item319
 		{
 			position[]={3378.2026,20.996939,4239.918};
 			name="Spawn_318";
 			type="Empty";
 		};
-		class Item321
+		class Item320
 		{
 			position[]={5975.5522,23.928089,2675.2683};
 			name="Spawn_319";
 			type="Empty";
 		};
-		class Item322
+		class Item321
 		{
 			position[]={3915.3633,14.707413,2186.3635};
 			name="Spawn_320";
 			type="Empty";
 		};
-		class Item323
+		class Item322
 		{
 			position[]={4022.2969,14.779404,2269.1567};
 			name="Spawn_321";
 			type="Empty";
 		};
-		class Item324
+		class Item323
 		{
 			position[]={3926.5723,14.779404,2208.3271};
 			name="Spawn_322";
 			type="Empty";
 		};
-		class Item325
+		class Item324
 		{
 			position[]={3861.8987,178.69101,3636.4033};
 			name="Spawn_323";
 			type="Empty";
 		};
-		class Item326
+		class Item325
 		{
 			position[]={3614.5422,182.54243,3758.2881};
 			name="Spawn_324";
 			type="Empty";
 		};
-		class Item327
+		class Item326
 		{
 			position[]={4449.5259,3.4347,3999.3638};
 			name="Spawn_325";
 			type="Empty";
 		};
-		class Item328
+		class Item327
 		{
 			position[]={4458.8838,3.4347,4034.3198};
 			name="Spawn_326";
 			type="Empty";
 		};
-		class Item329
+		class Item328
 		{
 			position[]={4461.3843,3.4347,4017.22};
 			name="Spawn_327";
 			type="Empty";
 		};
-		class Item330
+		class Item329
 		{
 			position[]={4392.438,7.594389,4136.4819};
 			name="Spawn_328";
 			type="Empty";
 		};
-		class Item331
+		class Item330
 		{
 			position[]={2118.2046,0.55934203,4773.1152};
 			name="Spawn_329";
 			type="Empty";
 		};
-		class Item332
+		class Item331
 		{
 			position[]={2353.6194,10.374888,4813.958};
 			name="Spawn_331";
 			type="Empty";
 		};
-		class Item333
+		class Item332
 		{
 			position[]={3871.7612,26.966213,6171.1616};
 			name="Spawn_332";
 			type="Empty";
 		};
-		class Item334
+		class Item333
 		{
 			position[]={2881.9792,15.589958,5608.1333};
 			name="Spawn_333";
 			type="Empty";
 		};
-		class Item335
+		class Item334
 		{
 			position[]={2955.8452,6.5954037,5547.0293};
 			name="Spawn_334";
 			type="Empty";
 		};
-		class Item336
+		class Item335
 		{
 			position[]={2993.2783,8.4166746,5587.0078};
 			name="Spawn_336";
 			type="Empty";
 		};
-		class Item337
+		class Item336
 		{
 			position[]={2638.7776,9.9586086,5652.7339};
 			name="Spawn_335";
 			type="Empty";
 		};
-		class Item338
+		class Item337
 		{
 			position[]={2954.8423,10.55409,5587.1069};
 			name="Spawn_337";
 			type="Empty";
 		};
-		class Item339
+		class Item338
 		{
 			position[]={2773.6858,12.997185,5640.9448};
 			name="Spawn_338";
 			type="Empty";
 		};
-		class Item340
+		class Item339
 		{
 			position[]={3049.5798,6.9683008,5612.374};
 			name="Spawn_339";
 			type="Empty";
 		};
-		class Item341
+		class Item340
 		{
 			position[]={2645.7249,7.921257,5623.7002};
 			name="Spawn_340";
 			type="Empty";
 		};
-		class Item342
+		class Item341
 		{
 			position[]={2800.8801,44.88382,6168.5269};
 			name="Spawn_341";
 			type="Empty";
 		};
-		class Item343
+		class Item342
 		{
 			position[]={3200.9153,7.1506515,5431.8188};
 			name="Spawn_342";
 			type="Empty";
 		};
-		class Item344
+		class Item343
 		{
 			position[]={3501.5374,19.985025,6286.0425};
 			name="Spawn_343";
 			type="Empty";
 		};
-		class Item345
+		class Item344
 		{
 			position[]={3574.9468,12.179192,6273.5732};
 			name="Spawn_344";
 			type="Empty";
 		};
-		class Item346
+		class Item345
 		{
 			position[]={3373.7969,71.431328,6108.0723};
 			name="Spawn_345";
 			type="Empty";
 		};
-		class Item347
+		class Item346
 		{
 			position[]={2752.6118,6.6043839,5621.1396};
 			name="Spawn_346";
 			type="Empty";
 		};
-		class Item348
+		class Item347
 		{
 			position[]={2920.7122,12.715213,5596.9263};
 			name="Spawn_347";
 			type="Empty";
 		};
-		class Item349
+		class Item348
 		{
 			position[]={2850.4321,14.063824,5615.0293};
 			name="Spawn_348";
 			type="Empty";
 		};
-		class Item350
+		class Item349
 		{
 			position[]={2907.1484,16.553808,6300.6787};
 			name="Spawn_349";
 			type="Empty";
 		};
-		class Item351
+		class Item350
 		{
 			position[]={2755.9111,46.45578,6132.1279};
 			name="Spawn_350";
 			type="Empty";
 		};
-		class Item352
+		class Item351
 		{
 			position[]={3250.708,6.7636318,5397.5229};
 			name="Spawn_351";
 			type="Empty";
 		};
-		class Item353
+		class Item352
 		{
 			position[]={3895.5569,28.116812,6079.7451};
 			name="Spawn_352";
 			type="Empty";
 		};
-		class Item354
+		class Item353
 		{
 			position[]={3931.5056,8.2080288,5953.8584};
 			name="Spawn_353";
 			type="Empty";
 		};
-		class Item355
+		class Item354
 		{
 			position[]={4007.2292,16.832777,5697.978};
 			name="Spawn_354";
 			type="Empty";
 		};
-		class Item356
+		class Item355
 		{
 			position[]={3938.5833,15.999306,5796.0112};
 			name="Spawn_355";
 			type="Empty";
 		};
-		class Item357
+		class Item356
 		{
 			position[]={3214.6279,7.2309389,5396.1479};
 			name="Spawn_356";
 			type="Empty";
 		};
-		class Item358
+		class Item357
 		{
 			position[]={3033.5994,9.3199539,5551.2954};
 			name="Spawn_357";
 			type="Empty";
 		};
-		class Item359
+		class Item358
 		{
 			position[]={2682.6147,9.41294,5659.8066};
 			name="Spawn_358";
 			type="Empty";
 		};
-		class Item360
+		class Item359
 		{
 			position[]={3367.3398,42.117245,5862.771};
 			name="Spawn_359";
 			type="Empty";
 		};
-		class Item361
+		class Item360
 		{
 			position[]={1975.7712,3.1004605,7149.0845};
 			name="Spawn_360";
 			type="Empty";
 		};
-		class Item362
+		class Item361
 		{
 			position[]={2971.1179,13.303599,6359.6523};
 			name="Spawn_361";
 			type="Empty";
 		};
-		class Item363
+		class Item362
 		{
 			position[]={3264.6609,4.0288773,6450.3726};
 			name="Spawn_362";
 			type="Empty";
 		};
-		class Item364
+		class Item363
 		{
 			position[]={3217.2893,6.4709015,6521.0908};
 			name="Spawn_363";
 			type="Empty";
 		};
-		class Item365
+		class Item364
 		{
 			position[]={3334.0027,4.3645625,6423.8428};
 			name="Spawn_364";
 			type="Empty";
 		};
-		class Item366
+		class Item365
 		{
 			position[]={3152.0244,4.1851182,6500.1157};
 			name="Spawn_365";
 			type="Empty";
 		};
-		class Item367
+		class Item366
 		{
 			position[]={2428.8596,9.3238125,6968.813};
 			name="Spawn_366";
 			type="Empty";
 		};
-		class Item368
+		class Item367
 		{
 			position[]={3043.9795,12.599878,6419.0586};
 			name="Spawn_367";
 			type="Empty";
 		};
-		class Item369
+		class Item368
 		{
 			position[]={3267.5769,4.848351,6497.0049};
 			name="Spawn_368";
 			type="Empty";
 		};
-		class Item370
+		class Item369
 		{
 			position[]={2841.2588,1.600437,6937.2144};
 			name="Spawn_369";
 			type="Empty";
 		};
-		class Item371
+		class Item370
 		{
 			position[]={1907.6876,8.1257753,7529.7192};
 			name="Spawn_370";
 			type="Empty";
 		};
-		class Item372
+		class Item371
 		{
 			position[]={1949.4208,6.956418,7260.5317};
 			name="Spawn_371";
 			type="Empty";
 		};
-		class Item373
+		class Item372
 		{
 			position[]={1912.1686,9.5282612,7263.3105};
 			name="Spawn_372";
 			type="Empty";
 		};
-		class Item374
+		class Item373
 		{
 			position[]={1974.6053,6.8807654,7229.4697};
 			name="Spawn_373";
 			type="Empty";
 		};
-		class Item375
+		class Item374
 		{
 			position[]={1993.306,7.2328916,7278.9653};
 			name="Spawn_374";
 			type="Empty";
 		};
-		class Item376
+		class Item375
 		{
 			position[]={2018.4174,5.989388,7221.9087};
 			name="Spawn_375";
 			type="Empty";
 		};
-		class Item377
+		class Item376
 		{
 			position[]={2034.4718,7.6162333,7258.8389};
 			name="Spawn_376";
 			type="Empty";
 		};
-		class Item378
+		class Item377
 		{
 			position[]={2056.9272,2.9074271,7218.2007};
 			name="Spawn_377";
 			type="Empty";
 		};
-		class Item379
+		class Item378
 		{
 			position[]={3020.0005,2.2984998,6860.0278};
 			name="Spawn_378";
 			type="Empty";
 		};
-		class Item380
+		class Item379
 		{
 			position[]={2877.7478,1.1851993,6709.3804};
 			name="Spawn_379";
 			type="Empty";
 		};
-		class Item381
+		class Item380
 		{
 			position[]={2923.8818,2.8073618,6757.311};
 			name="Spawn_380";
 			type="Empty";
 		};
-		class Item382
+		class Item381
 		{
 			position[]={4634.7349,18.154173,7441.6904};
 			name="Spawn_381";
 			type="Empty";
 		};
-		class Item383
+		class Item382
 		{
 			position[]={4858.0693,9.0401697,7243.2612};
 			name="Spawn_382";
 			type="Empty";
 		};
-		class Item384
+		class Item383
 		{
 			position[]={4891.583,8.6289425,7235.6514};
 			name="Spawn_383";
 			type="Empty";
 		};
-		class Item385
+		class Item384
 		{
 			position[]={4819.9722,19.649069,7596.4805};
 			name="Spawn_384";
 			type="Empty";
 		};
-		class Item386
+		class Item385
 		{
 			position[]={4709.1206,6.1801682,7447.1055};
 			name="Spawn_385";
 			type="Empty";
 		};
-		class Item387
+		class Item386
 		{
 			position[]={4842.1396,14.417127,7576.9976};
 			name="Spawn_386";
 			type="Empty";
 		};
-		class Item388
+		class Item387
 		{
 			position[]={5074.6191,11.506726,7284.7471};
 			name="Spawn_387";
 			type="Empty";
 		};
-		class Item389
+		class Item388
 		{
 			position[]={4841.3516,16.253115,7644.1255};
 			name="Spawn_389";
 			type="Empty";
 		};
-		class Item390
+		class Item389
 		{
 			position[]={4923.5679,8.0377121,7493.8823};
 			name="Spawn_388";
 			type="Empty";
 		};
-		class Item391
+		class Item390
 		{
 			position[]={4440.1382,46.618916,7144.272};
 			name="Spawn_390";
 			type="Empty";
 		};
-		class Item392
+		class Item391
 		{
 			position[]={4987.8794,13.875015,7299.791};
 			name="Spawn_391";
 			type="Empty";
 		};
-		class Item393
+		class Item392
 		{
 			position[]={4906.3638,14.024652,7463.5796};
 			name="Spawn_392";
 			type="Empty";
 		};
-		class Item394
+		class Item393
 		{
 			position[]={5332.1279,27.263065,7760.188};
 			name="Spawn_393";
 			type="Empty";
 		};
-		class Item395
+		class Item394
 		{
 			position[]={2274.8699,3.3014839,8973.5986};
 			name="Spawn_394";
 			type="Empty";
 		};
-		class Item396
+		class Item395
 		{
 			position[]={2204.0994,3.7055447,8943.2227};
 			name="Spawn_396";
 			type="Empty";
 		};
-		class Item397
+		class Item396
 		{
 			position[]={2257.5435,3.4374096,8937.6855};
 			name="Spawn_397";
 			type="Empty";
 		};
-		class Item398
+		class Item397
 		{
 			position[]={2146.1699,2.6563258,8944.8281};
 			name="Spawn_398";
 			type="Empty";
 		};
-		class Item399
+		class Item398
 		{
 			position[]={2063.1182,3.5037601,8963.2227};
 			name="Spawn_399";
 			type="Empty";
 		};
-		class Item400
+		class Item399
 		{
 			position[]={2019.7534,3.5037601,8973.4541};
 			name="Spawn_400";
 			type="Empty";
 		};
-		class Item401
+		class Item400
 		{
 			position[]={1992.4834,3.5037601,9004.4121};
 			name="Spawn_401";
 			type="Empty";
 		};
-		class Item402
+		class Item401
 		{
 			position[]={1987.6257,3.5037601,8932.9287};
 			name="Spawn_402";
 			type="Empty";
 		};
-		class Item403
+		class Item402
 		{
 			position[]={2163.9568,3.5897341,9055.1094};
 			name="Spawn_403";
 			type="Empty";
 		};
-		class Item404
+		class Item403
 		{
 			position[]={2177.8997,3.5037601,9076.8203};
 			name="Spawn_404";
 			type="Empty";
 		};
-		class Item405
+		class Item404
 		{
 			position[]={2051.1143,3.5037601,8996.9316};
 			name="Spawn_405";
 			type="Empty";
 		};
-		class Item406
+		class Item405
 		{
 			position[]={2285.3784,2.0285559,9035.6689};
 			name="Spawn_406";
 			type="Empty";
 		};
-		class Item407
+		class Item406
 		{
 			position[]={2322.325,2.351546,8969.9697};
 			name="Spawn_407";
 			type="Empty";
 		};
-		class Item408
+		class Item407
 		{
 			position[]={5971.2847,24.956915,9365.0889};
 			name="Spawn_408";
 			type="Empty";
 		};
-		class Item409
+		class Item408
 		{
 			position[]={2405.1929,12.636095,9162.2354};
 			name="Spawn_409";
 			type="Empty";
 		};
-		class Item410
+		class Item409
 		{
 			position[]={1656.2838,7.7929616,7891.7769};
 			name="Spawn_410";
 			type="Empty";
 		};
-		class Item411
+		class Item410
 		{
 			position[]={1769.7732,12.465021,8127.8862};
 			name="Spawn_411";
 			type="Empty";
 		};
-		class Item412
+		class Item411
 		{
 			position[]={2017.3018,42.017414,8123.9238};
 			name="Spawn_412";
 			type="Empty";
 		};
-		class Item413
+		class Item412
 		{
 			position[]={1995.249,41.729202,8091.7842};
 			name="Spawn_413";
 			type="Empty";
 		};
-		class Item414
+		class Item413
 		{
 			position[]={1833.1172,8.7779961,8193.1455};
 			name="Spawn_414";
 			type="Empty";
 		};
-		class Item415
+		class Item414
 		{
 			position[]={1909.9464,33.275547,8131.2256};
 			name="Spawn_415";
 			type="Empty";
 		};
-		class Item416
+		class Item415
 		{
 			position[]={1853.6848,4.68962,8278.8584};
 			name="Spawn_416";
 			type="Empty";
 		};
-		class Item417
+		class Item416
 		{
 			position[]={1796.1782,3.5211725,8307.1572};
 			name="Spawn_417";
 			type="Empty";
 		};
-		class Item418
+		class Item417
 		{
 			position[]={1835.734,3.101083,8357.4199};
 			name="Spawn_418";
 			type="Empty";
 		};
-		class Item419
+		class Item418
 		{
 			position[]={1821.0228,5.6171761,8175.0669};
 			name="Spawn_419";
 			type="Empty";
 		};
-		class Item420
+		class Item419
 		{
 			position[]={1746.1721,9.2627602,8101.644};
 			name="Spawn_420";
 			type="Empty";
 		};
-		class Item421
+		class Item420
 		{
 			position[]={5168.189,28.366699,8675.9834};
 			name="Spawn_421";
 			type="Empty";
 		};
-		class Item422
+		class Item421
 		{
 			position[]={4964.8105,20.316153,8295.2168};
 			name="Spawn_422";
 			type="Empty";
 		};
-		class Item423
+		class Item422
 		{
 			position[]={4992.8574,24.324102,8344.5137};
 			name="Spawn_423";
 			type="Empty";
 		};
-		class Item424
+		class Item423
 		{
 			position[]={5203.2197,31.517475,8737.8867};
 			name="Spawn_424";
 			type="Empty";
 		};
-		class Item425
+		class Item424
 		{
 			position[]={5581.7441,60.846027,8709.4443};
 			name="Spawn_425";
 			type="Empty";
 		};
-		class Item426
+		class Item425
 		{
 			position[]={5294.9785,340.15616,8797.7256};
 			name="Spawn_426";
 			type="Empty";
 		};
-		class Item427
+		class Item426
 		{
 			position[]={5288.8906,337.79395,8709.8701};
 			name="Spawn_427";
 			type="Empty";
 		};
-		class Item428
+		class Item427
 		{
 			position[]={5344.4863,333.9317,8696.6826};
 			name="Spawn_428";
 			type="Empty";
 		};
-		class Item429
+		class Item428
 		{
 			position[]={5241.6655,35.649357,8697.3662};
 			name="Spawn_429";
 			type="Empty";
 		};
-		class Item430
+		class Item429
 		{
 			position[]={5218.2715,27.740517,8667.248};
 			name="Spawn_430";
 			type="Empty";
 		};
-		class Item431
+		class Item430
 		{
 			position[]={5237.4243,32.931595,8763.8604};
 			name="Spawn_431";
 			type="Empty";
 		};
-		class Item432
+		class Item431
 		{
 			position[]={2705.5774,2.3559301,8525.9531};
 			name="Spawn_432";
 			type="Empty";
 		};
-		class Item433
+		class Item432
 		{
 			position[]={5368.895,33.572357,8932.2109};
 			name="Spawn_433";
 			type="Empty";
 		};
-		class Item434
+		class Item433
 		{
 			position[]={2657.4927,2.0273328,8656.8525};
 			name="Spawn_434";
 			type="Empty";
 		};
-		class Item435
+		class Item434
 		{
 			position[]={3045.2866,2.810323,8787.7305};
 			name="Spawn_435";
 			type="Empty";
 		};
-		class Item436
+		class Item435
 		{
 			position[]={3452.6538,0.044920892,8682.7148};
 			name="Spawn_436";
 			type="Empty";
 		};
-		class Item437
+		class Item436
 		{
 			position[]={2733.1516,2.2794397,8542.9834};
 			name="Spawn_437";
 			type="Empty";
 		};
-		class Item438
+		class Item437
 		{
 			position[]={2980.8481,8.9518194,8746.207};
 			name="Spawn_438";
 			type="Empty";
 		};
-		class Item439
+		class Item438
 		{
 			position[]={3017.4844,7.9367032,8731.4834};
 			name="Spawn_439";
 			type="Empty";
 		};
-		class Item440
+		class Item439
 		{
 			position[]={2787.0088,4.4609575,8625.5684};
 			name="Spawn_440";
 			type="Empty";
 		};
-		class Item441
+		class Item440
 		{
 			position[]={3384.6765,0.26550263,8696.7051};
 			name="Spawn_441";
 			type="Empty";
 		};
-		class Item442
+		class Item441
 		{
 			position[]={6495.3608,3.3171258,9451.6357};
 			name="Spawn_442";
 			type="Empty";
 		};
-		class Item443
+		class Item442
 		{
 			position[]={6718.9834,3.7648396,9348.6699};
 			name="Spawn_443";
 			type="Empty";
 		};
-		class Item444
+		class Item443
 		{
 			position[]={6742.5767,1.8896515,9285.2783};
 			name="Spawn_444";
 			type="Empty";
 		};
-		class Item445
+		class Item444
 		{
 			position[]={6653.5264,5.8948359,9350.0908};
 			name="Spawn_445";
 			type="Empty";
 		};
-		class Item446
+		class Item445
 		{
 			position[]={6566.8281,2.5381083,9442.1455};
 			name="Spawn_446";
 			type="Empty";
 		};
-		class Item447
+		class Item446
 		{
 			position[]={6720.5352,3.8251505,9326.0176};
 			name="Spawn_447";
 			type="Empty";
 		};
-		class Item448
+		class Item447
 		{
 			position[]={6649.4028,6.7034082,9336.2334};
 			name="Spawn_448";
 			type="Empty";
 		};
-		class Item449
+		class Item448
 		{
 			position[]={6513.7407,5.3498321,9386.7354};
 			name="Spawn_449";
 			type="Empty";
 		};
-		class Item450
+		class Item449
 		{
 			position[]={6591.561,2.6699021,9436.2744};
 			name="Spawn_450";
 			type="Empty";
 		};
-		class Item451
+		class Item450
 		{
 			position[]={6484.2129,26.783955,9237.2344};
 			name="Spawn_451";
 			type="Empty";
 		};
-		class Item452
+		class Item451
 		{
 			position[]={6477.6582,33.306805,9198.1729};
 			name="Spawn_452";
 			type="Empty";
 		};
-		class Item453
+		class Item452
 		{
 			position[]={6437.9541,31.942585,9227.8535};
 			name="Spawn_453";
 			type="Empty";
 		};
-		class Item454
+		class Item453
 		{
 			position[]={6491.6743,10.888215,9394.2588};
 			name="Spawn_454";
 			type="Empty";
 		};
-		class Item455
+		class Item454
 		{
 			position[]={6568.7856,19.974195,9201.1572};
 			name="Spawn_455";
 			type="Empty";
 		};
-		class Item456
+		class Item455
 		{
 			position[]={6461.3491,31.493229,9225.2422};
 			name="Spawn_456";
 			type="Empty";
 		};
-		class Item457
+		class Item456
 		{
 			position[]={6376.7749,40.919971,9211.7734};
 			name="Spawn_457";
 			type="Empty";
 		};
-		class Item458
+		class Item457
 		{
 			position[]={4385.0225,10.825374,4723.2988};
 			name="Spawn_458";
 			type="Empty";
 		};
-		class Item459
+		class Item458
 		{
 			position[]={4352.7573,14.416795,4650.688};
 			name="Spawn_459";
 			type="Empty";
 		};
-		class Item460
+		class Item459
 		{
 			position[]={5641.6626,19.365561,8093.3125};
 			name="Spawn_460";
 			type="Empty";
 		};
-		class Item461
+		class Item460
 		{
 			position[]={6289.6216,17.968536,9532.9912};
 			name="Spawn_461";
 			type="Empty";
 		};
-		class Item462
+		class Item461
 		{
 			position[]={6139.2119,34.573551,8426.1914};
 			name="Spawn_462";
 			type="Empty";
 		};
-		class Item463
+		class Item462
 		{
 			position[]={5734.0356,31.8559,9376.4736};
 			name="Spawn_463";
 			type="Empty";
 		};
-		class Item464
+		class Item463
 		{
 			position[]={5799.3403,32.596458,9466.9541};
 			name="Spawn_464";
 			type="Empty";
 		};
-		class Item465
+		class Item464
 		{
 			position[]={5719.6948,31.8559,9378.6592};
 			name="Spawn_465";
 			type="Empty";
 		};
-		class Item466
+		class Item465
 		{
 			position[]={5644.0347,36.955555,9366.7393};
 			name="Spawn_466";
 			type="Empty";
 		};
-		class Item467
+		class Item466
 		{
 			position[]={6034.2886,37.006702,8588.4453};
 			name="Spawn_467";
 			type="Empty";
 		};
-		class Item468
+		class Item467
 		{
 			position[]={6024.3896,47.537098,8700.6006};
 			name="Spawn_468";
 			type="Empty";
 		};
-		class Item469
+		class Item468
 		{
 			position[]={5609.2603,42.181667,9368.7617};
 			name="Spawn_469";
 			type="Empty";
 		};
-		class Item470
+		class Item469
 		{
 			position[]={6085.0112,26.278898,8462.8662};
 			name="Spawn_470";
 			type="Empty";
 		};
-		class Item471
+		class Item470
 		{
 			position[]={6500.2871,21.612703,8737.4668};
 			name="Spawn_471";
 			type="Empty";
 		};
-		class Item472
+		class Item471
 		{
 			position[]={6029.1914,43.93224,8643.1387};
 			name="Spawn_472";
 			type="Empty";
 		};
-		class Item473
+		class Item472
 		{
 			position[]={6486.0337,28.1134,8706.6699};
 			name="Spawn_473";
 			type="Empty";
 		};
-		class Item474
+		class Item473
 		{
 			position[]={6499.7383,21.720594,8776.5566};
 			name="Spawn_474";
 			type="Empty";
 		};
-		class Item475
+		class Item474
 		{
 			position[]={4122.8745,44.453388,4668.7573};
 			name="Spawn_475";
 			type="Empty";
 		};
-		class Item476
+		class Item475
 		{
 			position[]={4660.0508,36.27232,6816.2056};
 			name="Spawn_476";
 			type="Empty";
 		};
-		class Item477
+		class Item476
 		{
 			position[]={4612.585,42.124813,6916.6235};
 			name="Spawn_477";
 			type="Empty";
 		};
-		class Item478
+		class Item477
 		{
 			position[]={4655.9941,278.97849,6887.4858};
 			name="Spawn_478";
 			type="Empty";
 		};
-		class Item479
+		class Item478
 		{
 			position[]={4655.9937,34.74292,6782.9097};
 			name="Spawn_479";
 			type="Empty";
 		};
-		class Item480
+		class Item479
 		{
 			position[]={4556.2983,39.864666,6963.1196};
 			name="Spawn_480";
 			type="Empty";
 		};
-		class Item481
+		class Item480
 		{
 			position[]={4589.6826,45.953808,6817.2046};
 			name="Spawn_481";
 			type="Empty";
 		};
-		class Item482
+		class Item481
 		{
 			position[]={4647.1797,42.092697,6747.353};
 			name="Spawn_482";
 			type="Empty";
 		};
-		class Item483
+		class Item482
 		{
 			position[]={4626.7759,277.83521,6804.9546};
 			name="Spawn_483";
 			type="Empty";
 		};
-		class Item484
+		class Item483
 		{
 			position[]={4638.5283,38.875172,6845.895};
 			name="Spawn_484";
 			type="Empty";
 		};
-		class Item485
+		class Item484
 		{
 			position[]={4603.146,32.056114,6979.3208};
 			name="Spawn_485";
 			type="Empty";
 		};
-		class Item486
+		class Item485
 		{
 			position[]={4579.6338,59.319397,6738.0845};
 			name="Spawn_486";
 			type="Empty";
 		};
-		class Item487
+		class Item486
 		{
 			position[]={4985.6855,14.9954,6456.4961};
 			name="Spawn_487";
 			type="Empty";
 		};
-		class Item488
+		class Item487
 		{
 			position[]={4604.5737,22.301823,7032.7607};
 			name="Spawn_488";
 			type="Empty";
 		};
-		class Item489
+		class Item488
 		{
 			position[]={4492.978,36.698792,7016.3936};
 			name="Spawn_489";
 			type="Empty";
 		};
-		class Item490
+		class Item489
 		{
 			position[]={4565.9146,27.572033,7034.1045};
 			name="Spawn_490";
 			type="Empty";
 		};
-		class Item491
+		class Item490
 		{
 			position[]={4977.6382,16.109032,6431.3862};
 			name="Spawn_491";
 			type="Empty";
 		};
-		class Item492
+		class Item491
 		{
 			position[]={4628.686,41.736542,6737.6445};
 			name="Spawn_492";
 			type="Empty";
 		};
-		class Item493
+		class Item492
 		{
 			position[]={4654.9644,36.005238,6709.207};
 			name="Spawn_493";
 			type="Empty";
 		};
-		class Item494
+		class Item493
 		{
 			position[]={4129.2944,3.9315295,5610.5864};
 			name="Spawn_494";
 			type="Empty";
 		};
-		class Item495
+		class Item494
 		{
 			position[]={4665.8467,3.68153,5718.0308};
 			name="Spawn_495";
 			type="Empty";
 		};
-		class Item496
+		class Item495
 		{
 			position[]={4632.6904,3.6332767,5735.7944};
 			name="Spawn_496";
 			type="Empty";
 		};
-		class Item497
+		class Item496
 		{
 			position[]={4650.4795,3.6369162,5719.3354};
 			name="Spawn_497";
 			type="Empty";
 		};
-		class Item498
+		class Item497
 		{
 			position[]={4713.9756,27.186121,5771.9214};
 			name="Spawn_498";
 			type="Empty";
 		};
-		class Item499
+		class Item498
 		{
 			position[]={4686.0825,33.379181,5765.4922};
 			name="Spawn_499";
 			type="Empty";
 		};
-		class Item500
+		class Item499
 		{
 			position[]={4680.0151,3.68153,5715.2251};
 			name="Spawn_500";
 			type="Empty";
 		};
-		class Item501
+		class Item500
 		{
 			position[]={4206.5166,34.225941,4874.5361};
 			name="Spawn_501";
 			type="Empty";
 		};
-		class Item502
+		class Item501
 		{
 			position[]={3943.8052,232.60722,4828.6499};
 			name="Spawn_502";
 			type="Empty";
 		};
-		class Item503
+		class Item502
 		{
 			position[]={4309.123,21.677984,4758.5332};
 			name="Spawn_503";
 			type="Empty";
 		};
-		class Item504
+		class Item503
 		{
 			position[]={4349.8564,12.333894,4673.8008};
 			name="Spawn_504";
 			type="Empty";
 		};
-		class Item505
+		class Item504
 		{
 			position[]={4403.5679,12.508934,4653.3804};
 			name="Spawn_505";
 			type="Empty";
 		};
-		class Item506
+		class Item505
 		{
 			position[]={4398.6338,11.674317,4665.1538};
 			name="Spawn_506";
 			type="Empty";
 		};
-		class Item507
+		class Item506
 		{
 			position[]={4242.2236,25.703495,4588.104};
 			name="Spawn_507";
 			type="Empty";
 		};
-		class Item508
+		class Item507
 		{
 			position[]={4264.2954,30.040827,4654.4385};
 			name="Spawn_508";
 			type="Empty";
 		};
-		class Item509
+		class Item508
 		{
 			position[]={4273.1611,29.934591,4724.1763};
 			name="Spawn_509";
 			type="Empty";
 		};
-		class Item510
+		class Item509
 		{
 			position[]={4418.1348,11.627161,4562.437};
 			name="Spawn_510";
 			type="Empty";
 		};
-		class Item511
+		class Item510
 		{
 			position[]={4577.167,3.68153,4808.6904};
 			name="Spawn_511";
 			type="Empty";
 		};
-		class Item512
+		class Item511
 		{
 			position[]={6037.5093,18.467487,4982.7993};
 			name="Spawn_512";
 			type="Empty";
 		};
-		class Item513
+		class Item512
 		{
 			position[]={5669.542,5.439878,4935.1211};
 			name="Spawn_513";
 			type="Empty";
 		};
-		class Item514
+		class Item513
 		{
 			position[]={5858.9365,12.617538,5010.293};
 			name="Spawn_514";
 			type="Empty";
 		};
-		class Item515
+		class Item514
 		{
 			position[]={5816.731,12.18306,4812.4033};
 			name="Spawn_515";
 			type="Empty";
 		};
-		class Item516
+		class Item515
 		{
 			position[]={5872.4473,139.96596,4747.3218};
 			name="Spawn_516";
 			type="Empty";
 		};
-		class Item517
+		class Item516
 		{
 			position[]={5825.4717,135.06711,4742.2202};
 			name="Spawn_517";
 			type="Empty";
 		};
-		class Item518
+		class Item517
 		{
 			position[]={5832.5088,136.11089,4685.9194};
 			name="Spawn_518";
 			type="Empty";
 		};
-		class Item519
+		class Item518
 		{
 			position[]={5744.1895,118.54546,4657.4155};
 			name="Spawn_519";
 			type="Empty";
 		};
-		class Item520
+		class Item519
 		{
 			position[]={5760.0508,18.411762,4695.1636};
 			name="Spawn_520";
 			type="Empty";
 		};
-		class Item521
+		class Item520
 		{
 			position[]={5782.3071,24.14035,4835.8359};
 			name="Spawn_521";
 			type="Empty";
 		};
-		class Item522
+		class Item521
 		{
 			position[]={5969.2114,23.27676,5014.3804};
 			name="Spawn_522";
 			type="Empty";
 		};
-		class Item523
+		class Item522
 		{
 			position[]={5619.7139,5.0170398,4943.6797};
 			name="Spawn_523";
 			type="Empty";
 		};
-		class Item524
+		class Item523
 		{
 			position[]={7571.8232,86.040794,3928.1147};
 			name="Spawn_524";
 			type="Empty";
 		};
-		class Item525
+		class Item524
 		{
 			position[]={7550.5259,93.274521,3924.5381};
 			name="Spawn_525";
 			type="Empty";
 		};
-		class Item526
+		class Item525
 		{
 			position[]={7127.0127,73.253937,3864.4063};
 			name="Spawn_526";
 			type="Empty";
 		};
-		class Item527
+		class Item526
 		{
 			position[]={7389.4512,117.053,3925.1306};
 			name="Spawn_527";
 			type="Empty";
 		};
-		class Item528
+		class Item527
 		{
 			position[]={7365.3857,116.49343,3926.8164};
 			name="Spawn_528";
 			type="Empty";
 		};
-		class Item529
+		class Item528
 		{
 			position[]={7233.9199,84.741585,4314.5015};
 			name="Spawn_529";
 			type="Empty";
 		};
-		class Item530
+		class Item529
 		{
 			position[]={7333.4575,112.3117,4093.1411};
 			name="Spawn_530";
 			type="Empty";
 		};
-		class Item531
+		class Item530
 		{
 			position[]={7283.0713,88.871002,4067.7559};
 			name="Spawn_531";
 			type="Empty";
 		};
-		class Item532
+		class Item531
 		{
 			position[]={7359.957,117.00645,4115.2026};
 			name="Spawn_532";
 			type="Empty";
 		};
-		class Item533
+		class Item532
 		{
 			position[]={7260.0669,93.285538,4086.3706};
 			name="Spawn_533";
 			type="Empty";
 		};
-		class Item534
+		class Item533
 		{
 			position[]={7260.5903,89.211136,4064.5762};
 			name="Spawn_534";
 			type="Empty";
 		};
-		class Item535
+		class Item534
 		{
 			position[]={7430.251,117.053,3955.49};
 			name="Spawn_535";
 			type="Empty";
 		};
-		class Item536
+		class Item535
 		{
 			position[]={7310.1724,89.656586,4187.3276};
 			name="Spawn_536";
 			type="Empty";
 		};
-		class Item537
+		class Item536
 		{
 			position[]={7395.5366,117.053,4046.4414};
 			name="Spawn_537";
 			type="Empty";
 		};
-		class Item538
+		class Item537
 		{
 			position[]={7621.6685,38.612843,4215.498};
 			name="Spawn_538";
 			type="Empty";
 		};
-		class Item539
+		class Item538
 		{
 			position[]={8848.6045,12.637015,4452.1543};
 			name="Spawn_539";
 			type="Empty";
 		};
-		class Item540
+		class Item539
 		{
 			position[]={8207.3994,8.7244701,4987.4087};
 			name="Spawn_540";
 			type="Empty";
 		};
-		class Item541
+		class Item540
 		{
 			position[]={8230.0967,9.0538502,5019.9595};
 			name="Spawn_541";
 			type="Empty";
 		};
-		class Item542
+		class Item541
 		{
 			position[]={7578.125,7.7488346,2739.8147};
 			name="Spawn_542";
 			type="Empty";
 		};
-		class Item543
+		class Item542
 		{
 			position[]={8193.6182,12.52986,3214.594};
 			name="Spawn_543";
 			type="Empty";
 		};
-		class Item544
+		class Item543
 		{
 			position[]={8227.0361,12.869809,3150.2034};
 			name="Spawn_544";
 			type="Empty";
 		};
-		class Item545
+		class Item544
 		{
 			position[]={7603.3354,7.7858505,2750.7952};
 			name="Spawn_545";
 			type="Empty";
 		};
-		class Item546
+		class Item545
 		{
 			position[]={8230.6279,12.425326,3167.5579};
 			name="Spawn_546";
 			type="Empty";
 		};
-		class Item547
+		class Item546
 		{
 			position[]={7621.3252,10.222591,2826.2109};
 			name="Spawn_547";
 			type="Empty";
 		};
-		class Item548
+		class Item547
 		{
 			position[]={7796.2188,22.742277,3011.0286};
 			name="Spawn_548";
 			type="Empty";
 		};
-		class Item549
+		class Item548
 		{
 			position[]={7488.9028,10.88635,2802.0059};
 			name="Spawn_549";
 			type="Empty";
 		};
-		class Item550
+		class Item549
 		{
 			position[]={7554.6167,8.3499165,2784.4868};
 			name="Spawn_550";
 			type="Empty";
 		};
-		class Item551
+		class Item550
 		{
 			position[]={4717.8789,37.713394,6192.3765};
 			name="Spawn_551";
 			type="Empty";
 		};
-		class Item552
+		class Item551
 		{
 			position[]={4736.3008,43.8325,6249.1563};
 			name="Spawn_552";
 			type="Empty";
 		};
-		class Item553
+		class Item552
 		{
 			position[]={4679.3281,35.847191,6225.6563};
 			name="Spawn_553";
 			type="Empty";
 		};
-		class Item554
+		class Item553
 		{
 			position[]={4672.7734,41.219936,6262.793};
 			name="Spawn_554";
 			type="Empty";
 		};
-		class Item555
+		class Item554
 		{
 			position[]={4711.0996,42.655125,6277.5815};
 			name="Spawn_555";
 			type="Empty";
 		};
-		class Item556
+		class Item555
 		{
 			position[]={4674.7422,42.793423,6341.2476};
 			name="Spawn_556";
 			type="Empty";
 		};
-		class Item557
+		class Item556
 		{
 			position[]={4637.1357,41.156815,6306.7612};
 			name="Spawn_557";
 			type="Empty";
 		};
-		class Item558
+		class Item557
 		{
 			position[]={4623.5605,48.932465,6345.9292};
 			name="Spawn_558";
 			type="Empty";
 		};
-		class Item559
+		class Item558
 		{
 			position[]={4771.5605,39.632698,6284.4878};
 			name="Spawn_559";
 			type="Empty";
 		};
-		class Item560
+		class Item559
 		{
 			position[]={4806.9487,40.967678,6306.647};
 			name="Spawn_560";
 			type="Empty";
 		};
-		class Item561
+		class Item560
 		{
 			position[]={6011.8682,13.712688,7693.5269};
 			name="Spawn_561";
 			type="Empty";
 		};
-		class Item562
+		class Item561
 		{
 			position[]={6032.9316,8.1148176,7814.4526};
 			name="Spawn_562";
 			type="Empty";
 		};
-		class Item563
+		class Item562
 		{
 			position[]={5851.7476,11.94029,7875.7319};
 			name="Spawn_563";
 			type="Empty";
 		};
-		class Item564
+		class Item563
 		{
 			position[]={5763.0903,8.9631424,8020.9448};
 			name="Spawn_564";
 			type="Empty";
 		};
-		class Item565
+		class Item564
 		{
 			position[]={5716.8813,8.3126173,7848.8848};
 			name="Spawn_565";
 			type="Empty";
 		};
-		class Item566
+		class Item565
 		{
 			position[]={5659.3564,13.263472,8023.4424};
 			name="Spawn_567";
 			type="Empty";
 		};
-		class Item567
+		class Item566
 		{
 			position[]={5723.5386,11.486602,7917.8677};
 			name="Spawn_566";
 			type="Empty";
 		};
-		class Item568
+		class Item567
 		{
 			position[]={6221.5347,12.605446,8051.3682};
 			name="Spawn_568";
 			type="Empty";
 		};
-		class Item569
+		class Item568
 		{
 			position[]={6178.4805,19.462229,7534.6606};
 			name="Spawn_569";
 			type="Empty";
 		};
-		class Item570
+		class Item569
 		{
 			position[]={5723.8374,9.4874859,7882.4907};
 			name="Spawn_570";
 			type="Empty";
 		};
-		class Item571
+		class Item570
 		{
 			position[]={6071.6421,8.4689913,8015.6636};
 			name="Spawn_571";
 			type="Empty";
 		};
-		class Item572
+		class Item571
 		{
 			position[]={4583.1938,42.01123,6876.5752};
 			name="Spawn_572";
 			type="Empty";
 		};
-		class Item573
+		class Item572
 		{
 			position[]={5713.5415,13.537151,8062.9429};
 			name="Spawn_573";
 			type="Empty";
 		};
-		class Item574
+		class Item573
 		{
 			position[]={5702.7314,12.658938,7971.6445};
 			name="Spawn_574";
 			type="Empty";
 		};
-		class Item575
+		class Item574
 		{
 			position[]={6102.0557,12.573459,7670.8188};
 			name="Spawn_575";
 			type="Empty";
 		};
-		class Item576
+		class Item575
 		{
 			position[]={5688.3198,22.900373,7714.9087};
 			name="Spawn_576";
 			type="Empty";
 		};
-		class Item577
+		class Item576
 		{
 			position[]={6797.8042,33.299519,7791.8955};
 			name="Spawn_577";
 			type="Empty";
 		};
-		class Item578
+		class Item577
 		{
 			position[]={6843.6118,34.184166,7765.5742};
 			name="Spawn_578";
 			type="Empty";
 		};
-		class Item579
+		class Item578
 		{
 			position[]={6929.1367,35.409336,7665.6089};
 			name="Spawn_579";
 			type="Empty";
 		};
-		class Item580
+		class Item579
 		{
 			position[]={6878.8477,32.260269,7726.979};
 			name="Spawn_580";
 			type="Empty";
 		};
-		class Item581
+		class Item580
 		{
 			position[]={6626.4175,14.1625,7578.145};
 			name="Spawn_581";
 			type="Empty";
 		};
-		class Item582
+		class Item581
 		{
 			position[]={6667.4126,17.710587,7548.9009};
 			name="Spawn_582";
 			type="Empty";
 		};
-		class Item583
+		class Item582
 		{
 			position[]={6667.6997,14.1625,7521.7241};
 			name="Spawn_583";
 			type="Empty";
 		};
-		class Item584
+		class Item583
 		{
 			position[]={6714.8306,14.1625,7573.0308};
 			name="Spawn_584";
 			type="Empty";
 		};
-		class Item585
+		class Item584
 		{
 			position[]={6687.311,14.1625,7557.4907};
 			name="Spawn_585";
 			type="Empty";
 		};
-		class Item586
+		class Item585
 		{
 			position[]={6726.9824,14.1625,7514.2998};
 			name="Spawn_586";
 			type="Empty";
 		};
-		class Item587
+		class Item586
 		{
 			position[]={6723.3423,14.1625,7490.9165};
 			name="Spawn_587";
 			type="Empty";
 		};
-		class Item588
+		class Item587
 		{
 			position[]={6677.8423,18.236469,7528.042};
 			name="Spawn_588";
 			type="Empty";
 		};
-		class Item589
+		class Item588
 		{
 			position[]={6902.1211,32.139675,7696.9106};
 			name="Spawn_589";
 			type="Empty";
 		};
-		class Item590
+		class Item589
 		{
 			position[]={6900.9805,38.343979,7666.2612};
 			name="Spawn_590";
 			type="Empty";
 		};
-		class Item591
+		class Item590
 		{
 			position[]={6718.3218,14.1625,7557.0352};
 			name="Spawn_591";
 			type="Empty";
 		};
-		class Item592
+		class Item591
 		{
 			position[]={6730.1919,14.1625,7528.2451};
 			name="Spawn_592";
 			type="Empty";
 		};
-		class Item593
+		class Item592
 		{
 			position[]={7141.2817,99.055443,4491.8994};
 			name="Spawn_593";
 			type="Empty";
 		};
-		class Item594
+		class Item593
 		{
 			position[]={7225.2017,105.506,4489.9038};
 			name="Spawn_594";
 			type="Empty";
 		};
-		class Item595
+		class Item594
 		{
 			position[]={7190.5854,95.181374,4404.1904};
 			name="Spawn_595";
 			type="Empty";
 		};
-		class Item596
+		class Item595
 		{
 			position[]={7314.4736,29.835878,5437.1948};
 			name="Spawn_596";
 			type="Empty";
 		};
-		class Item597
+		class Item596
 		{
 			position[]={4409.6187,12.597431,4745.936};
 			name="Spawn_598";
 			type="Empty";
 		};
-		class Item598
+		class Item597
 		{
 			position[]={4416.8027,13.727922,4663.2485};
 			name="Spawn_599";
 			type="Empty";
 		};
-		class Item599
+		class Item598
 		{
 			position[]={4344.0488,11.043337,4743.0112};
 			name="Spawn_600";
 			type="Empty";
 		};
-		class Item600
+		class Item599
 		{
 			position[]={4347.9067,14.578856,4806.7612};
 			name="Spawn_601";
 			type="Empty";
 		};
-		class Item601
+		class Item600
 		{
 			position[]={4176.4536,39.698879,4689.0747};
 			name="Spawn_602";
 			type="Empty";
 		};
-		class Item602
+		class Item601
 		{
 			position[]={4187.813,44.379078,4710.1924};
 			name="Spawn_603";
 			type="Empty";
 		};
-		class Item603
+		class Item602
 		{
 			position[]={4280.5181,29.279333,4649.2764};
 			name="Spawn_604";
 			type="Empty";
 		};
-		class Item604
+		class Item603
 		{
 			position[]={4222.002,41.589172,4743.2046};
 			name="Spawn_605";
 			type="Empty";
 		};
-		class Item605
+		class Item604
 		{
 			position[]={4188.5928,41.280205,4700.0884};
 			name="Spawn_607";
 			type="Empty";
 		};
-		class Item606
+		class Item605
 		{
 			position[]={4209.3477,36.822838,4676.4238};
 			name="Spawn_608";
 			type="Empty";
 		};
-		class Item607
+		class Item606
 		{
 			position[]={4246.3398,23.743425,4576.6748};
 			name="Spawn_609";
 			type="Empty";
 		};
-		class Item608
+		class Item607
 		{
 			position[]={4092.4741,51.453152,4605.1421};
 			name="Spawn_610";
 			type="Empty";
 		};
-		class Item609
+		class Item608
 		{
 			position[]={4282.1968,32.097099,4678.2427};
 			name="Spawn_611";
 			type="Empty";
 		};
-		class Item610
+		class Item609
 		{
 			position[]={4290.3853,28.218147,4641.3154};
 			name="Spawn_612";
 			type="Empty";
 		};
-		class Item611
+		class Item610
 		{
 			position[]={4558.2676,3.68153,4835.2773};
 			name="Spawn_613";
 			type="Empty";
 		};
-		class Item612
+		class Item611
 		{
 			position[]={4611.459,3.68153,4832.2715};
 			name="Spawn_614";
 			type="Empty";
 		};
-		class Item613
+		class Item612
 		{
 			position[]={4620.8516,3.68153,4808.7891};
 			name="Spawn_615";
 			type="Empty";
 		};
-		class Item614
+		class Item613
 		{
 			position[]={4960.313,3.2164195,4444.6621};
 			name="Spawn_616";
 			type="Empty";
 		};
-		class Item615
+		class Item614
 		{
 			position[]={4657.9141,3.68153,4808.0049};
 			name="Spawn_617";
 			type="Empty";
 		};
-		class Item616
+		class Item615
 		{
 			position[]={4756.0117,3.68153,4776.0596};
 			name="Spawn_618";
 			type="Empty";
 		};
-		class Item617
+		class Item616
 		{
 			position[]={4607.8237,3.68153,4777.5708};
 			name="Spawn_619";
 			type="Empty";
 		};
-		class Item618
+		class Item617
 		{
 			position[]={4625.269,3.68153,4858.0864};
 			name="Spawn_620";
 			type="Empty";
 		};
-		class Item619
+		class Item618
 		{
 			position[]={4654.7905,3.68153,4842.2075};
 			name="Spawn_621";
 			type="Empty";
 		};
-		class Item620
+		class Item619
 		{
 			position[]={4662.8042,3.68153,4782.3989};
 			name="Spawn_622";
 			type="Empty";
 		};
-		class Item621
+		class Item620
 		{
 			position[]={5064.2476,4.6763883,4649.9028};
 			name="Spawn_623";
 			type="Empty";
 		};
-		class Item622
+		class Item621
 		{
 			position[]={4640.5874,3.68153,4786.0591};
 			name="Spawn_624";
 			type="Empty";
 		};
-		class Item623
+		class Item622
 		{
 			position[]={8647.3369,23.924147,5020.4521};
 			name="Spawn_625";
 			type="Empty";
 		};
-		class Item624
+		class Item623
 		{
 			position[]={4847.5898,26.460686,5848.917};
 			name="Spawn_626";
 			type="Empty";
 		};
-		class Item625
+		class Item624
 		{
 			position[]={4734.731,4.6829734,5775.7783};
 			name="Spawn_627";
 			type="Empty";
 		};
-		class Item626
+		class Item625
 		{
 			position[]={4794.9775,17.192369,5867.2749};
 			name="Spawn_628";
 			type="Empty";
 		};
-		class Item627
+		class Item626
 		{
 			position[]={4832.0186,38.022202,6275.2095};
 			name="Spawn_629";
 			type="Empty";
 		};
-		class Item628
+		class Item627
 		{
 			position[]={4635.6328,3.6886406,5691.333};
 			name="Spawn_630";
 			type="Empty";
 		};
-		class Item629
+		class Item628
 		{
 			position[]={4659.252,17.440702,5750.5996};
 			name="Spawn_631";
 			type="Empty";
 		};
-		class Item630
+		class Item629
 		{
 			position[]={4786.1987,16.019711,5896.1108};
 			name="Spawn_632";
 			type="Empty";
 		};
-		class Item631
+		class Item630
 		{
 			position[]={4697.5513,17.890099,5934.1987};
 			name="Spawn_633";
 			type="Empty";
 		};
-		class Item632
+		class Item631
 		{
 			position[]={4587.0068,4.7634716,5732.0391};
 			name="Spawn_634";
 			type="Empty";
 		};
-		class Item633
+		class Item632
 		{
 			position[]={4813.9897,46.481731,6249.1646};
 			name="Spawn_635";
 			type="Empty";
 		};
-		class Item634
+		class Item633
 		{
 			position[]={4784.5254,48.448586,6224.3682};
 			name="Spawn_636";
 			type="Empty";
 		};
-		class Item635
+		class Item634
 		{
 			position[]={4822.1182,24.557201,5853.9453};
 			name="Spawn_637";
 			type="Empty";
 		};
-		class Item636
+		class Item635
 		{
 			position[]={4756.873,5.8632808,5689.4106};
 			name="Spawn_638";
 			type="Empty";
 		};
-		class Item637
+		class Item636
 		{
 			position[]={4922.4932,35.541103,5774.8838};
 			name="Spawn_639";
 			type="Empty";
 		};
-		class Item638
+		class Item637
 		{
 			position[]={4696.7695,3.6872501,5701.6694};
 			name="Spawn_640";
 			type="Empty";
 		};
-		class Item639
+		class Item638
 		{
 			position[]={4861.4648,31.512568,5856.4067};
 			name="Spawn_641";
 			type="Empty";
 		};
-		class Item640
+		class Item639
 		{
 			position[]={4794.8613,3.8317773,5715.1567};
 			name="Spawn_642";
 			type="Empty";
 		};
-		class Item641
+		class Item640
 		{
 			position[]={9166.6191,18.639198,4218.1855};
 			name="Spawn_643";
 			type="Empty";
 		};
-		class Item642
+		class Item641
 		{
 			position[]={4650.415,7.8800697,4509.9546};
 			name="Spawn_644";
 			type="Empty";
 		};
-		class Item643
+		class Item642
 		{
 			position[]={4691.2686,11.758024,4531.3901};
 			name="Spawn_645";
 			type="Empty";
 		};
-		class Item644
+		class Item643
 		{
 			position[]={4931.3452,3.6910374,4575.8589};
 			name="Spawn_646";
 			type="Empty";
 		};
-		class Item645
+		class Item644
 		{
 			position[]={4945.1245,3.3058558,4555.2769};
 			name="Spawn_647";
 			type="Empty";
 		};
-		class Item646
+		class Item645
 		{
 			position[]={4721.8076,15.467635,4516.646};
 			name="Spawn_648";
 			type="Empty";
 		};
-		class Item647
+		class Item646
 		{
 			position[]={4878.4775,4.3464537,4520.876};
 			name="Spawn_649";
 			type="Empty";
 		};
-		class Item648
+		class Item647
 		{
 			position[]={4841.2188,4.5541635,4544.9043};
 			name="Spawn_650";
 			type="Empty";
 		};
-		class Item649
+		class Item648
 		{
 			position[]={4757.8936,12.033573,4485.228};
 			name="Spawn_651";
 			type="Empty";
 		};
-		class Item650
+		class Item649
 		{
 			position[]={4915.3711,3.6633158,4431.1108};
 			name="Spawn_652";
 			type="Empty";
 		};
-		class Item651
+		class Item650
 		{
 			position[]={4905.8535,4.1847734,4521.6147};
 			name="Spawn_653";
 			type="Empty";
 		};
-		class Item652
+		class Item651
 		{
 			position[]={9467.1104,34.456776,3980.8145};
 			name="Spawn_654";
 			type="Empty";
 		};
-		class Item653
+		class Item652
 		{
 			position[]={4963.5073,3.1936796,4513.3081};
 			name="Spawn_656";
 			type="Empty";
 		};
-		class Item654
+		class Item653
 		{
 			position[]={4940.4429,3.6354375,4473.2695};
 			name="Spawn_655";
 			type="Empty";
 		};
-		class Item655
+		class Item654
 		{
 			position[]={6828.5073,23.871243,4095.6704};
 			name="Spawn_657";
 			type="Empty";
 		};
-		class Item656
+		class Item655
 		{
 			position[]={6475.8462,10.457305,3728.0073};
 			name="Spawn_658";
 			type="Empty";
 		};
-		class Item657
+		class Item656
 		{
 			position[]={6790.2905,16.613745,4074.7102};
 			name="Spawn_659";
 			type="Empty";
 		};
-		class Item658
+		class Item657
 		{
 			position[]={6395.9692,8.8219795,3689.6978};
 			name="Spawn_660";
 			type="Empty";
 		};
-		class Item659
+		class Item658
 		{
 			position[]={6350.1177,21.78113,3663.6541};
 			name="Spawn_661";
 			type="Empty";
 		};
-		class Item660
+		class Item659
 		{
 			position[]={6726.8125,8.5372372,4013.2258};
 			name="Spawn_662";
 			type="Empty";
 		};
-		class Item661
+		class Item660
 		{
 			position[]={6565.6484,25.88204,4024.7471};
 			name="Spawn_663";
 			type="Empty";
 		};
-		class Item662
+		class Item661
 		{
 			position[]={6653.6582,6.9355879,3919.5894};
 			name="Spawn_664";
 			type="Empty";
 		};
-		class Item663
+		class Item662
 		{
 			position[]={6630.2793,11.269435,3866.7783};
 			name="Spawn_665";
 			type="Empty";
 		};
-		class Item664
+		class Item663
 		{
 			position[]={6637.2676,8.9616346,3897.9019};
 			name="Spawn_667";
 			type="Empty";
 		};
-		class Item665
+		class Item664
 		{
 			position[]={6594.1074,11.698148,3946.3315};
 			name="Spawn_668";
 			type="Empty";
 		};
-		class Item666
+		class Item665
 		{
 			position[]={6229.1875,17.996225,3591.0339};
 			name="Spawn_669";
 			type="Empty";
 		};
-		class Item667
+		class Item666
 		{
 			position[]={6159.4189,21.41674,3594.0693};
 			name="Spawn_670";
 			type="Empty";
 		};
-		class Item668
+		class Item667
 		{
 			position[]={6082.5552,24.263906,3566.3921};
 			name="Spawn_671";
 			type="Empty";
 		};
-		class Item669
+		class Item668
 		{
 			position[]={5534.4438,19.076532,3892.2205};
 			name="Spawn_672";
 			type="Empty";
 		};
-		class Item670
+		class Item669
 		{
 			position[]={5642.9785,16.272938,3799.0493};
 			name="Spawn_673";
 			type="Empty";
 		};
-		class Item671
+		class Item670
 		{
 			position[]={5568.9272,21.795649,3791.3364};
 			name="Spawn_674";
 			type="Empty";
 		};
-		class Item672
+		class Item671
 		{
 			position[]={5545.6108,22.691982,3795.8833};
 			name="Spawn_675";
 			type="Empty";
 		};
-		class Item673
+		class Item672
 		{
 			position[]={5510.6401,23.196987,3813.5122};
 			name="Spawn_676";
 			type="Empty";
 		};
-		class Item674
+		class Item673
 		{
 			position[]={6101.0903,16.711594,3600.6113};
 			name="Spawn_677";
 			type="Empty";
 		};
-		class Item675
+		class Item674
 		{
 			position[]={5549.3896,28.681093,2023.6549};
 			name="Spawn_678";
 			type="Empty";
 		};
-		class Item676
+		class Item675
 		{
 			position[]={5541.2192,25.493853,2063.4753};
 			name="Spawn_679";
 			type="Empty";
 		};
-		class Item677
+		class Item676
 		{
 			position[]={5434.4331,27.018623,2086.5063};
 			name="Spawn_680";
 			type="Empty";
 		};
-		class Item678
+		class Item677
 		{
 			position[]={5648.3594,27.009027,2038.7557};
 			name="Spawn_681";
 			type="Empty";
 		};
-		class Item679
+		class Item678
 		{
 			position[]={5552.6455,36.394112,1955.7375};
 			name="Spawn_682";
 			type="Empty";
 		};
-		class Item680
+		class Item679
 		{
 			position[]={5480.1099,31.200106,1999.1829};
 			name="Spawn_683";
 			type="Empty";
 		};
-		class Item681
+		class Item680
 		{
 			position[]={5643.8823,41.016666,1796.6328};
 			name="Spawn_684";
 			type="Empty";
 		};
-		class Item682
+		class Item681
 		{
 			position[]={5477.5303,30.744829,2008.5349};
 			name="Spawn_685";
 			type="Empty";
 		};
-		class Item683
+		class Item682
 		{
 			position[]={5607.6216,24.752234,1760.2792};
 			name="Spawn_686";
 			type="Empty";
 		};
-		class Item684
+		class Item683
 		{
 			position[]={5528.957,35.533508,1931.3531};
 			name="Spawn_687";
 			type="Empty";
 		};
-		class Item685
+		class Item684
 		{
 			position[]={5511.1626,25.092522,2090.2158};
 			name="Spawn_689";
 			type="Empty";
 		};
-		class Item686
+		class Item685
 		{
 			position[]={5386.7666,28.21962,2035.4021};
 			name="Spawn_688";
 			type="Empty";
 		};
-		class Item687
+		class Item686
 		{
 			position[]={5266.7734,34.682167,7755.7979};
 			name="Spawn_690";
 			type="Empty";
 		};
-		class Item688
+		class Item687
 		{
 			position[]={5246.9243,38.432533,7751.1152};
 			name="Spawn_691";
 			type="Empty";
 		};
-		class Item689
+		class Item688
 		{
 			position[]={5291.0205,29.672884,7759.8315};
 			name="Spawn_692";
 			type="Empty";
 		};
-		class Item690
+		class Item689
 		{
 			position[]={5398.1084,23.95019,7920.0962};
 			name="Spawn_693";
 			type="Empty";
 		};
-		class Item691
+		class Item690
 		{
 			position[]={5373.2476,24.385868,7895.1377};
 			name="Spawn_694";
 			type="Empty";
 		};
-		class Item692
+		class Item691
 		{
 			position[]={5372.5786,26.859262,7796.1445};
 			name="Spawn_695";
 			type="Empty";
 		};
-		class Item693
+		class Item692
 		{
 			position[]={5415.0327,29.011171,7720.1211};
 			name="Spawn_696";
 			type="Empty";
 		};
-		class Item694
+		class Item693
 		{
 			position[]={5348.9834,31.928949,7498.2471};
 			name="Spawn_697";
 			type="Empty";
 		};
-		class Item695
+		class Item694
 		{
 			position[]={5524.0093,31.757185,7754.874};
 			name="Spawn_698";
 			type="Empty";
 		};
-		class Item696
+		class Item695
 		{
 			position[]={5330.8135,34.351139,7477.4541};
 			name="Spawn_699";
 			type="Empty";
 		};
-		class Item697
+		class Item696
 		{
 			position[]={5387.0317,24.309322,7940.333};
 			name="Spawn_700";
 			type="Empty";
 		};
-		class Item698
+		class Item697
 		{
 			position[]={5412.4644,23.958706,7947.5386};
 			name="Spawn_701";
 			type="Empty";
 		};
-		class Item699
+		class Item698
 		{
 			position[]={5416.5991,24.726686,7970.3892};
 			name="Spawn_702";
 			type="Empty";
 		};
-		class Item700
+		class Item699
 		{
 			position[]={5491.0962,34.446964,7652.377};
 			name="Spawn_703";
 			type="Empty";
 		};
-		class Item701
+		class Item700
 		{
 			position[]={5481.9175,30.474308,7855.0303};
 			name="Spawn_704";
 			type="Empty";
 		};
-		class Item702
+		class Item701
 		{
 			position[]={5476.4834,31.475721,7874.6504};
 			name="Spawn_705";
 			type="Empty";
 		};
-		class Item703
+		class Item702
 		{
 			position[]={5598.1001,20.226734,8008.8198};
 			name="Spawn_706";
 			type="Empty";
 		};
-		class Item704
+		class Item703
 		{
 			position[]={5692.4453,27.476742,7670.3911};
 			name="Spawn_707";
 			type="Empty";
 		};
-		class Item705
+		class Item704
 		{
 			position[]={5516.7139,40.093616,7619.333};
 			name="Spawn_708";
 			type="Empty";
 		};
-		class Item706
+		class Item705
 		{
 			position[]={2331.1226,10.927092,4820.7729};
 			name="Spawn_712";
 			type="Empty";
 		};
-		class Item707
+		class Item706
 		{
 			position[]={2076.6514,2.55705,4747.019};
 			name="Spawn_713";
 			type="Empty";
 		};
-		class Item708
+		class Item707
 		{
 			position[]={2059.8064,2.5364208,4760.437};
 			name="Spawn_714";
 			type="Empty";
 		};
-		class Item709
+		class Item708
 		{
 			position[]={2070.5405,8.3571987,4628.6021};
 			name="Spawn_715";
 			type="Empty";
 		};
-		class Item710
+		class Item709
 		{
 			position[]={2012.9058,5.391479,4553.957};
 			name="Spawn_716";
 			type="Empty";
 		};
-		class Item711
+		class Item710
 		{
 			position[]={2670.3735,4.098062,4429.7314};
 			name="Spawn_719";
 			type="Empty";
 		};
-		class Item712
+		class Item711
 		{
 			position[]={2601.9619,3.3578801,4462.2646};
 			name="Spawn_720";
 			type="Empty";
 		};
-		class Item713
+		class Item712
 		{
 			position[]={4200.5688,4.1201215,5512.1768};
 			name="Spawn_721";
 			type="Empty";
 		};
-		class Item714
+		class Item713
 		{
 			position[]={4173.998,3.68153,5534.0137};
 			name="Spawn_722";
 			type="Empty";
 		};
-		class Item715
+		class Item714
 		{
 			position[]={4225.3403,3.9315283,5533.8101};
 			name="Spawn_723";
 			type="Empty";
 		};
-		class Item716
+		class Item715
 		{
 			position[]={4111.8398,3.9315279,5600.1602};
 			name="Spawn_724";
 			type="Empty";
 		};
-		class Item717
+		class Item716
 		{
 			position[]={4149.396,3.9463527,5590.8823};
 			name="Spawn_725";
 			type="Empty";
 		};
-		class Item718
+		class Item717
 		{
 			position[]={4117.9844,4.2406516,5637.4438};
 			name="Spawn_726";
 			type="Empty";
 		};
-		class Item719
+		class Item718
 		{
 			position[]={4049.4265,13.454821,5672.4614};
 			name="Spawn_727";
 			type="Empty";
 		};
-		class Item720
+		class Item719
 		{
 			position[]={4069.0093,7.3001771,5689.4663};
 			name="Spawn_728";
 			type="Empty";
 		};
-		class Item721
+		class Item720
 		{
 			position[]={4184.4902,3.68153,5554.0176};
 			name="Spawn_729";
 			type="Empty";
 		};
-		class Item722
+		class Item721
 		{
 			position[]={4134.9014,3.9315295,5625.772};
 			name="Spawn_730";
 			type="Empty";
 		};
-		class Item723
+		class Item722
 		{
 			position[]={5165.8945,29.444397,8248.873};
 			name="Spawn_731";
 			type="Empty";
 		};
-		class Item724
+		class Item723
 		{
 			position[]={5188.9248,30.935795,8207.0449};
 			name="Spawn_732";
 			type="Empty";
 		};
-		class Item725
+		class Item724
 		{
 			position[]={5215.7139,31.048151,8167.5654};
 			name="Spawn_733";
 			type="Empty";
 		};
-		class Item726
+		class Item725
 		{
 			position[]={5243.4424,32.308781,8123.3848};
 			name="Spawn_734";
 			type="Empty";
 		};
-		class Item727
+		class Item726
 		{
 			position[]={5267.8828,34.009502,8080.1465};
 			name="Spawn_735";
 			type="Empty";
 		};
-		class Item728
+		class Item727
 		{
 			position[]={5320.0518,28.612785,8029.8574};
 			name="Spawn_736";
 			type="Empty";
 		};
-		class Item729
+		class Item728
 		{
 			position[]={5077.1812,32.404423,8367.3027};
 			name="Spawn_737";
 			type="Empty";
 		};
-		class Item730
+		class Item729
 		{
 			position[]={6285.4917,33.681305,9166.6328};
 			name="Spawn_738";
 			type="Empty";
 		};
-		class Item731
+		class Item730
 		{
 			position[]={5142.7622,28.250738,8335.4941};
 			name="Spawn_739";
 			type="Empty";
 		};
-		class Item732
+		class Item731
 		{
 			position[]={6106.9785,37.903435,9322.5889};
 			name="Spawn_740";
 			type="Empty";
 		};
-		class Item733
+		class Item732
 		{
 			position[]={6061.52,30.066786,9281.2598};
 			name="Spawn_741";
 			type="Empty";
 		};
-		class Item734
+		class Item733
 		{
 			position[]={5913.9902,22.661709,9499.8125};
 			name="Spawn_742";
 			type="Empty";
 		};
-		class Item735
+		class Item734
 		{
 			position[]={5733.417,39.530903,9475.3926};
 			name="Spawn_743";
 			type="Empty";
 		};
-		class Item736
+		class Item735
 		{
 			position[]={6041.8691,25.928337,9337.8037};
 			name="Spawn_744";
 			type="Empty";
 		};
-		class Item737
+		class Item736
 		{
 			position[]={5953.0405,36.552441,9303.0713};
 			name="Spawn_745";
 			type="Empty";
 		};
-		class Item738
+		class Item737
 		{
 			position[]={5981.2085,35.568844,9318.5518};
 			name="Spawn_746";
 			type="Empty";
 		};
-		class Item739
+		class Item738
 		{
 			position[]={4549.606,3.68153,4876.3647};
 			name="Spawn_747";
 			type="Empty";
 		};
-		class Item740
+		class Item739
 		{
 			position[]={4912.728,3.1344576,4640.1802};
 			name="Spawn_748";
 			type="Empty";
 		};
-		class Item741
+		class Item740
 		{
 			position[]={1689.1488,11.108911,7866.0571};
 			name="Spawn_749";
 			type="Empty";
 		};
-		class Item742
+		class Item741
 		{
 			position[]={1672.3204,9.8928652,7815.0483};
 			name="Spawn_750";
 			type="Empty";
 		};
-		class Item743
+		class Item742
 		{
 			position[]={6036.4688,28.954088,9323.5068};
 			name="Spawn_751";
 			type="Empty";
 		};
-		class Item744
+		class Item743
 		{
 			position[]={2310.3027,2.4175987,9061.2471};
 			name="Spawn_752";
 			type="Empty";
 		};
-		class Item745
+		class Item744
 		{
 			position[]={5049.6636,20.972399,7517.4966};
 			name="Spawn_753";
 			type="Empty";
 		};
-		class Item746
+		class Item745
 		{
 			position[]={5035.5,12.058459,7295.2222};
 			name="Spawn_754";
 			type="Empty";
 		};
-		class Item747
+		class Item746
 		{
 			position[]={4955.5117,11.80734,7269.4678};
 			name="Spawn_755";
 			type="Empty";
 		};
-		class Item748
+		class Item747
 		{
 			position[]={4937.9697,10.44208,7238.5894};
 			name="Spawn_756";
 			type="Empty";
 		};
-		class Item749
+		class Item748
 		{
 			position[]={2314.2905,3.2593033,7134.0303};
 			name="Spawn_757";
 			type="Empty";
 		};
-		class Item750
+		class Item749
 		{
 			position[]={3940.0024,6.6130857,5905.2739};
 			name="Spawn_758";
 			type="Empty";
 		};
-		class Item751
+		class Item750
 		{
 			position[]={4018.8867,17.54575,5682.4395};
 			name="Spawn_759";
 			type="Empty";
 		};
-		class Item752
+		class Item751
 		{
 			position[]={2854.2058,32.424126,6220.2627};
 			name="Spawn_760";
 			type="Empty";
 		};
-		class Item753
+		class Item752
 		{
 			position[]={7088.7749,76.593292,2268.3318};
 			name="Spawn_761";
 			type="Empty";
 		};
-		class Item754
+		class Item753
 		{
 			position[]={7140.1812,78.934151,2239.5989};
 			name="Spawn_762";
 			type="Empty";
 		};
-		class Item755
+		class Item754
 		{
 			position[]={7208.9214,11.866202,2471.8433};
 			name="Spawn_763";
 			type="Empty";
 		};
-		class Item756
+		class Item755
 		{
 			position[]={8154.2686,7.0298505,3324.8928};
 			name="Spawn_764";
 			type="Empty";
 		};
-		class Item757
+		class Item756
 		{
 			position[]={5208.9331,16.993595,994.05981};
 			name="Spawn_765";
 			type="Empty";
 		};
-		class Item758
+		class Item757
 		{
 			position[]={3919.6453,6.9159613,3861.6516};
 			name="Spawn_766";
 			type="Empty";
 		};
-		class Item759
+		class Item758
 		{
 			position[]={5969.4277,17.586264,1633.7234};
 			name="Spawn_767";
 			type="Empty";
 		};
-		class Item760
+		class Item759
 		{
 			position[]={7229.7642,5.5417008,1534.3739};
 			name="Spawn_768";
 			type="Empty";
 		};
-		class Item761
+		class Item760
 		{
 			position[]={6019.1499,26.192316,1464.6543};
 			name="Spawn_769";
 			type="Empty";
 		};
-		class Item762
+		class Item761
 		{
 			position[]={6882.0518,38.141884,7694.5498};
 			name="Spawn_770";
 			type="Empty";
 		};
-		class Item763
+		class Item762
 		{
 			position[]={6482.0562,11.521678,2433.4885};
 			name="Town_0";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item764
+		class Item763
 		{
 			position[]={7845.7427,20.379723,3028.0752};
 			name="Town_1";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item765
+		class Item764
 		{
 			position[]={5596.6484,18.890453,3829.4414};
 			name="Town_2";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item766
+		class Item765
 		{
 			position[]={7372.4067,3.3095961,1304.304};
 			name="Town_3";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item767
+		class Item766
 		{
 			position[]={3870.5256,8.4190369,3114.7996};
 			name="Town_4";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item768
+		class Item767
 		{
-			position[]={2132.3186,3.7630696,4724.2788};
+			position[]={2143.4932,3.6977048,4709.0405};
 			name="Town_5";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item769
+		class Item768
 		{
 			position[]={4692.0464,3.68153,4804.9326};
 			name="Town_6";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item770
+		class Item769
 		{
 			position[]={5198.4375,2.6100006,8929.6406};
 			name="Town_7";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item771
+		class Item770
 		{
 			position[]={4882.4092,10.688411,7405.7788};
 			name="Town_9";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item772
+		class Item771
 		{
 			position[]={2083.5464,3.3344998,4722.8579};
 			name="Town_23";
 			type="Empty";
 		};
-		class Item773
+		class Item772
 		{
 			position[]={5484.7822,30.166584,2016.5889};
 			name="Town_24";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item774
+		class Item773
 		{
 			position[]={4486.6138,9.0538521,1881.2057};
 			name="Town_25";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item775
+		class Item774
 		{
 			position[]={4843.228,20.600132,3613.4207};
 			name="Town_26";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item776
+		class Item775
 		{
 			position[]={4261.6729,31.575356,4681.4424};
 			name="Town_28";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item777
+		class Item776
 		{
 			position[]={4719.0967,4.6658192,5712.8462};
 			name="Town_29";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item778
+		class Item777
 		{
 			position[]={2812.9233,7.074194,5595.3555};
 			name="Town_30";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item779
+		class Item778
 		{
 			position[]={4749.626,44.096283,6349.2363};
 			name="Town_31";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item780
+		class Item779
 		{
 			position[]={2167.4111,2.7276914,8965.6094};
 			name="Town_32";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item781
+		class Item780
 		{
 			position[]={6695.0786,14.1625,7530.4194};
 			name="Town_33";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item782
+		class Item781
 		{
 			position[]={5396.7617,25.116377,7814.0776};
 			name="Town_34";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item783
+		class Item782
 		{
 			position[]={6688.4204,4.9610219,9327.8584};
 			name="Town_35";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item784
+		class Item783
 		{
 			position[]={6504.5303,14.916628,4090.5571};
 			name="Town_36";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item785
+		class Item784
 		{
 			position[]={7202.291,96.210037,4404.6597};
 			name="Town_37";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item786
+		class Item785
 		{
 			position[]={5820.6895,31.8559,9373.3906};
 			name="Town_41";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item787
+		class Item786
 		{
 			position[]={4169.0586,4.5448952,5633.4868};
 			name="Town_44";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item788
+		class Item787
 		{
 			position[]={5099.6255,4.5466723,4579.083};
 			name="Town_45";
 			type="Empty";
 			colorName="ColorRed";
 		};
-		class Item789
+		class Item788
 		{
 			position[]={2244.2075,18.724098,8567.9492};
 			name="Mission_1";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item790
+		class Item789
 		{
 			position[]={2428.5137,3.6721628,9262.7158};
 			name="Mission_2";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item791
+		class Item790
 		{
 			position[]={2258.1824,24.790472,7945.3276};
 			name="Mission_3";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item792
+		class Item791
 		{
 			position[]={4627.96,15.905619,5979.5972};
 			name="Mission_4";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item793
+		class Item792
 		{
 			position[]={2086.5344,174.17706,4163.7134};
 			name="Mission_5";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item794
+		class Item793
 		{
 			position[]={3698.7629,57.102058,5576.2085};
 			name="Mission_6";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item795
+		class Item794
 		{
 			position[]={4247.3535,9.4756794,2816.0083};
 			name="Mission_7";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item796
+		class Item795
 		{
 			position[]={3232.0835,265.70486,4320.9434};
 			name="Mission_8";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item797
+		class Item796
 		{
 			position[]={5222.1934,187.82387,3921.125};
 			name="Mission_9";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item798
+		class Item797
 		{
 			position[]={6867.4814,7.9128032,3470.7522};
 			name="Mission_10";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item799
+		class Item798
 		{
 			position[]={7917.8447,8.1781197,3555.0469};
 			name="Mission_11";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item800
+		class Item799
 		{
 			position[]={4534.4531,14.995487,1627.7365};
 			name="Mission_12";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item801
+		class Item800
 		{
-			position[]={5396.9854,25.104021,2153.3413};
+			position[]={5685.7822,55.690067,1832.7656};
 			name="Mission_13";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item802
+		class Item801
 		{
 			position[]={7601.3862,19.235317,1944.3192};
 			name="Mission_14";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item803
+		class Item802
 		{
 			position[]={6356.5024,32.537846,4542.2144};
 			name="Mission_15";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item804
+		class Item803
 		{
 			position[]={8462.2734,7.9968405,3590.7307};
 			name="Mission_16";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item805
+		class Item804
 		{
 			position[]={8580.8008,35.585224,4348.4526};
 			name="Mission_17";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item806
+		class Item805
 		{
 			position[]={7561.1719,30.941965,6418.8301};
 			name="Mission_18";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item807
+		class Item806
 		{
 			position[]={5545.1704,58.740761,6759.3975};
 			name="Mission_19";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item808
+		class Item807
 		{
 			position[]={5282.6338,2.3882895,5106.3525};
 			name="Mission_20";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item809
+		class Item808
 		{
 			position[]={5643.9126,42.275574,7624.7295};
 			name="Mission_21";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item810
+		class Item809
 		{
 			position[]={6276.9028,65.197281,5995.6406};
 			name="Mission_22";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item811
+		class Item810
 		{
 			position[]={6814.1177,17.877554,4712.0791};
 			name="Mission_23";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item812
+		class Item811
 		{
 			position[]={3893.2981,62.619339,4428.2251};
 			name="Mission_24";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item813
+		class Item812
 		{
 			position[]={5185.3208,19.253334,7133.4111};
 			name="Mission_25";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item814
+		class Item813
 		{
 			position[]={5146.918,11.042733,6433.7598};
 			name="Mission_26";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item815
+		class Item814
 		{
 			position[]={5396.5264,50.691784,8743.1582};
 			name="Mission_27";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item816
+		class Item815
 		{
 			position[]={4341.1763,40.827641,7267.2876};
 			name="Mission_28";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item817
+		class Item816
 		{
 			position[]={4310.3906,7.8505516,9014.0713};
 			name="Mission_29";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item818
+		class Item817
 		{
 			position[]={6008.3672,18.436489,9447.1348};
 			name="Mission_30";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item819
+		class Item818
 		{
 			position[]={3033.3035,11.928885,6391};
 			name="Mission_31";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item820
+		class Item819
 		{
-			position[]={3980.7622,3.838958,8449.0361};
+			position[]={3859.4553,3.2407684,8376.1074};
 			name="Mission_32";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item821
+		class Item820
 		{
 			position[]={6451.314,35.77951,8983.2012};
 			name="Mission_33";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item822
+		class Item821
 		{
 			position[]={1180.2365,2.8410552,7367.4976};
 			name="Mission_34";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item823
+		class Item822
 		{
-			position[]={6023.1646,102.94718,7042.7021};
+			position[]={6183.3804,35.40205,7242.2832};
 			name="Mission_35";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item824
+		class Item823
 		{
 			position[]={5756.1494,34.579288,5565.0903};
 			name="Mission_36";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item825
+		class Item824
 		{
 			position[]={7166.0537,43.799545,5480.605};
 			name="Mission_37";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item826
+		class Item825
 		{
-			position[]={5686.2773,73.405609,2545.4307};
+			position[]={5647.9209,55.678116,2879.4602};
 			name="Mission_38";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item827
+		class Item826
 		{
-			position[]={5245.4824,32.037701,3282.1401};
+			position[]={5250.5396,27.948935,3341.6526};
 			name="Mission_39";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item828
+		class Item827
 		{
 			position[]={4427.5107,3.68153,5282.2803};
 			name="Mission_40";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item829
+		class Item828
 		{
 			position[]={2315.8005,8.4369392,6434.6431};
 			name="Mission_41";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item830
+		class Item829
 		{
 			position[]={4542.7148,65.085388,3242.8687};
 			name="Mission_42";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item831
+		class Item830
 		{
 			position[]={3906.78,12.054055,1375.9187};
 			name="Mission_43";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item832
+		class Item831
 		{
-			position[]={2578.2065,4.1082101,7012.4019};
+			position[]={2920.946,2.4369745,6888.7266};
 			name="Mission_44";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item833
+		class Item832
 		{
 			position[]={6952.835,16.528147,7152};
 			name="Mission_45";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item834
+		class Item833
 		{
 			position[]={8452.1201,14.879387,5528.772};
 			name="Mission_46";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item835
+		class Item834
 		{
 			position[]={4740.4849,50.301304,7704.5322};
 			name="Mission_47";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item836
+		class Item835
 		{
 			position[]={6703.3687,71.251297,5339.2949};
 			name="Mission_48";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item837
+		class Item836
 		{
 			position[]={7863.5054,17.165491,5595.1777};
 			name="Mission_49";
 			type="Empty";
 			colorName="ColorOrange";
 		};
-		class Item838
+		class Item837
 		{
 			position[]={7807.3901,8.179184,4105.6104};
 			name="Mission_50";

@@ -12,5 +12,15 @@
 	_marker setMarkerSizeLocal [_x select 1, _x select 1];
 	_marker setMarkerColorLocal "ColorBlack";
     _marker setMarkerBrushLocal "SolidBorder";
-	_marker setMarkerAlphaLocal 0.3;   
+	_marker setMarkerAlphaLocal 0.3;
+	
+	_markerName2 = format["marker_shop_title_%1",_x];
+    deleteMarkerLocal _markerName2;
+    _marker2 = createMarkerLocal [_markerName2, _pos];
+	_markerName2 setMarkerShapeLocal "ICON";
+    _markerName2 setMarkerTypeLocal "Dot";
+    _markerName2 setMarkerColorLocal "ColorBlack";
+	_markerName2 setMarkerSizeLocal [1,1];
+	_markerName2 setMarkerTextLocal "Town";   
+	  
 }forEach cityList;
