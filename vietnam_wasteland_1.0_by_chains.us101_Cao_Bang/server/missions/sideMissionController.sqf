@@ -17,6 +17,7 @@ _SMarray = [
 			[mission_WepCache,"mission_WepCache"],
             [mission_ReconVeh,"mission_ReconVeh"],
             [mission_AirWreck,"mission_AirWreck"],
+            [mission_Heli,"mission_Heli"],
             [mission_Truck,"mission_Truck"]];
 
 _lastMission = "nomission";
