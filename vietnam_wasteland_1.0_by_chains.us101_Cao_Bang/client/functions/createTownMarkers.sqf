@@ -6,6 +6,7 @@
 
 {
     _pos = getMarkerPos (_x select 0);
+    _townname = _x select 2;
     _markerName = format["marker%1",_forEachIndex];
 	_marker = createMarkerLocal [_markerName, _pos];
 	_marker setMarkerShapeLocal "ELLIPSE";
@@ -21,6 +22,6 @@
     _markerName2 setMarkerTypeLocal "Dot";
     _markerName2 setMarkerColorLocal "ColorBlack";
 	_markerName2 setMarkerSizeLocal [1,1];
-	_markerName2 setMarkerTextLocal "Town";   
+	_markerName2 setMarkerTextLocal _townname;   
 	  
 }forEach cityList;

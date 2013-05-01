@@ -91,7 +91,7 @@ generalStore = [
 // Chernarus town and city array
 //Marker Name, Radius, City Name
 cityList = [
-		["Town_0",200,"Cao Bang Wilderness"],
+		["Town_0",200,"Southern Forest"],
 		["Town_1",200,"East Fishing Village"],
 		["Town_2",200,"Middle Swamp Village"],
 		["Town_3",200,"South East Fishing Village"],
@@ -100,14 +100,14 @@ cityList = [
 		["Town_6",200,"Lang Tra North"],
 		["Town_7",200,"Northen Paddys"],
 		["Town_9",200,"Small Northern Village"],
-		["Town_23",200,"Cao Bang Wilderness"],
+		["Town_23",200,"Eastern Forest"],
 		["Town_24",200,"Southern Forest Village"],
 		["Town_25",200,"South West Forest Village"],
 		["Town_26",200,"Middle Swamp Village"],
 		["Town_28",200,"Lang Tra Guerilla Camp"],
 		["Town_29",200,"Temple"],
 		["Town_30",200,"Western Fishing Village"],
-		["Town_31",200,"Cao Bang Wilderness"],
+		["Town_31",200,"Northen Forest"],
 		["Town_32",200,"Airbase"],
 		["Town_33",200,"Eastern Camp"],
 		["Town_34",200,"Northern Crossroads"],

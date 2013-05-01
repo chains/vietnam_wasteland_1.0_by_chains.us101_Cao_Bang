@@ -6824,9 +6824,10 @@ class Mission
 		};
 		class Item771
 		{
-			position[]={2083.5464,3.3344998,4722.8579};
+			position[]={6979.0098,8.1290379,3329.2224};
 			name="Town_23";
 			type="Empty";
+			colorName="ColorRed";
 		};
 		class Item772
 		{
