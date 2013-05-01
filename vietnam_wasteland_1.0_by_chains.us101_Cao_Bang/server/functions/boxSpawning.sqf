@@ -10,7 +10,7 @@ private ["_counter","_pos","_markerName","_marker","_hint","_safePos","_boxes", 
 
 _counter = 0;
 
-_nerfBoxes = ["uns_AmmoBoxCIDG", "uns_AmmoBoxNVA", "uns_AmmoBoxUS_army", "uns_US_Ordinance"];
+_nerfBoxes = ["Custom_Box_1_Heavy", "Custom_Box_2_Heavy", "Custom_Box_3", "Custom_Box_4", "uns_WeaponAndAmmoBoxNVA", "uns_WeaponAndAmmoBoxUS"];
 
 for "_i" from 0 to 770 step 25 do
 {

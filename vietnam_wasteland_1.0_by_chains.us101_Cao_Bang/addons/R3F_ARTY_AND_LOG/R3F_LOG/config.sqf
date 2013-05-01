@@ -177,6 +177,8 @@ R3F_LOG_CFG_objets_heliportables = [
 	"uns_willysmg",
 	"uns_truck_reammo",
 	"uns_truck_refuel",
+	"uns_WeaponAndAmmoBoxNVA",
+	"uns_WeaponAndAmmoBoxNVA",
 	"uns_truck_repair"
 	
 ];
@@ -453,7 +455,9 @@ R3F_LOG_CFG_objets_transportables =  [
 	
 	// UNS
 	["uns_dshkhmg", 4],
-	["uns_m2hb", 4]
+	["uns_m2hb", 4],
+	["uns_WeaponAndAmmoBoxNVA", 4],
+	["uns_WeaponAndAmmoBoxUS", 4]
 ];
 
 /****** MOVABLE-BY-PLAYER OBJECTS / OBJETS DEPLACABLES PAR LE JOUEUR ******/
@@ -573,6 +577,8 @@ R3F_LOG_CFG_objets_deplacables = [
 	
 	//UNS
 	"uns_dshkhmg",
+	"uns_WeaponAndAmmoBoxUS",
+	"uns_WeaponAndAmmoBoxNVA",
 	"uns_m2hb"
 ];
 
