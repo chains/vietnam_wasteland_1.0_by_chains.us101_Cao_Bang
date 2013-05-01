@@ -39,7 +39,15 @@ R3F_LOG_CFG_remorqueurs = [
 	"Fishing_Boat",
 	"RHIB",
 	"Smallboat_1",
-	"smallboat_2"
+	"smallboat_2",
+	//UNS
+	"uns_truck_reammo",
+	"uns_truck_refuel",
+	"uns_truck_repair",
+	"uns_truck_open",
+	"uns_M43",
+	"uns_m37b1",
+	"uns_nvatruck_open"
 ];
 
 /**
@@ -72,7 +80,19 @@ R3F_LOG_CFG_objets_remorquables = [
 	"An2_Base_EP1",
 	"M119",
 	"D30_base",
-	"ZU23_base"
+	"ZU23_base",
+	"UAZ_CDF",
+	"uns_willys", //UNS
+	"uns_truck_open",
+	"uns_M43",
+	"uns_m37b1",
+	"uns_nvatruck_open",
+	"uns_willysmg",
+	"uns_truck_reammo",
+	"uns_truck_refuel",
+	"uns_truck_repair"
+	
+	
 ];
 
 /****** LIFT WITH VEHICLE / HELIPORTER AVEC VEHICULE ******/
@@ -91,7 +111,10 @@ R3F_LOG_CFG_heliporteurs = [
 	"MV22",
 	"BAF_Merlin_HC3_D",
 	"Ka60_Base_PMC",
-	"Mi24_Base"
+	"Mi24_Base",
+	//UNS
+	"uns_ch53","uns_ch47","uns_ch34","uns_ch34army","csj_ch46","CSJ_UH1Slick","CSJ_UH1med","CSJ_UH1transport","CSJ_UH1supply","CSJ_oh6","CSJ_OH6a","uns_oh58a","uns_oh58b","CSJ_AH1g","CSJ_UH1Gun","CSJ_GHornet",
+	"uns_Mi8"
 ];
 
 /**
@@ -129,7 +152,19 @@ R3F_LOG_CFG_objets_heliportables = [
 	"RUBasicAmmunitionBox",
 	"LocalBasicAmmunitionBox",
 	"GuerillaCacheBox",
-	"ReammoBox_EP1"
+	"ReammoBox_EP1",
+	
+	//UNS
+	"uns_willys",
+	"uns_truck_open",
+	"uns_M43",
+	"uns_m37b1",
+	"uns_nvatruck_open",
+	"uns_willysmg",
+	"uns_truck_reammo",
+	"uns_truck_refuel",
+	"uns_truck_repair"
+	
 ];
 
 
@@ -235,7 +270,22 @@ R3F_LOG_CFG_transporteurs = [
 	["ArmoredSUV_Base_PMC", 12],
 	["BAF_Jackal2_BASE_D", 15],
 	//UNS
-	["CSJ_C123", 150]
+	["CSJ_C123", 150],
+	["uns_willys", 10]
+	["uns_truck_open", 45],
+	["uns_M43", 30],
+	["uns_m37b1", 30],
+	["uns_nvatruck_open", 45],
+	["uns_willysmg", 10],
+	["uns_m113", 10],
+	["uns_m113a", 10],
+	["uns_m163", 10],
+	["uns_guntruck", 20],
+	["uns_guntruckM55", 20],
+	["uns_pt76", 10],
+	["uns_truck_reammo", 50],
+	["uns_truck_refuel", 50],
+	["uns_truck_repair, 50]
 ];
 
 /**
@@ -385,7 +435,11 @@ R3F_LOG_CFG_objets_transportables =  [
 	["Ka137_Base_PMC", 15],
 
 	["BAF_L2A1_ACOG_base", 4],
-	["GMG_TriPod", 4]
+	["GMG_TriPod", 4],
+	
+	// UNS
+	["uns_dshkhmg", 4],
+	["uns_m2hb", 4]
 ];
 
 /****** MOVABLE-BY-PLAYER OBJECTS / OBJETS DEPLACABLES PAR LE JOUEUR ******/
@@ -501,7 +555,11 @@ R3F_LOG_CFG_objets_deplacables = [
 	"Land_leseni4x",
 	"Wall_L_2m5_EP1",
 	"ATV_Base_EP1",
-	"Motorcycle"
+	"Motorcycle",
+	
+	//UNS
+	"uns_dshkhmg",
+	"uns_m2hb"
 ];
 
 /*
