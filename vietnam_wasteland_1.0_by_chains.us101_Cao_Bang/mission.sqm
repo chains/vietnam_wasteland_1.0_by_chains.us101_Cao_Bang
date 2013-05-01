@@ -35,7 +35,9 @@ class Mission
 		"uns_weap",
 		"uns_army",
 		"ca_modules_e_jukebox",
-		"PKW_PBR"
+		"PKW_PBR",
+		"PBR_Crew",
+		"CAMisc"
 	};
 	addOnsAuto[]=
 	{
@@ -47,12 +49,14 @@ class Mission
 		"ca_modules_functions",
 		"cacharacters_baf",
 		"cacharacters_e",
+		"PBR_Crew",
 		"camisc3",
 		"caweapons_ammoboxes",
 		"cabuildings",
 		"PKW_PBR",
 		"CAWater",
 		"cawater2_fishing_boat",
+		"CAMisc",
 		"us101_cao_bang"
 	};
 	randomSeed=10079095;
@@ -1775,7 +1779,7 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=38;
+		items=43;
 		class Item0
 		{
 			position[]={3557.4106,14.628945,4906.6499};
@@ -2182,6 +2186,56 @@ class Mission
 			vehicle="pkw_pbr";
 			skill=0.60000002;
 			init="this setVariable[""original"",1,true];";
+		};
+		class Item38
+		{
+			presence=0.72274762;
+			position[]={2481.6001,4.3520765,6977.749};
+			id=128;
+			side="EMPTY";
+			vehicle="Barrels";
+			skill=0.74635112;
+			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
+		};
+		class Item39
+		{
+			presence=0.72274762;
+			position[]={3871.2432,12.50528,3764.8213};
+			id=129;
+			side="EMPTY";
+			vehicle="Barrels";
+			skill=0.74635112;
+			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
+		};
+		class Item40
+		{
+			presence=0.72274762;
+			position[]={7448.6743,117.053,3967.2139};
+			id=130;
+			side="EMPTY";
+			vehicle="Barrels";
+			skill=0.74635112;
+			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
+		};
+		class Item41
+		{
+			presence=0.72274762;
+			position[]={4859.1611,11.317019,7415.7544};
+			id=131;
+			side="EMPTY";
+			vehicle="Barrels";
+			skill=0.74635112;
+			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
+		};
+		class Item42
+		{
+			presence=0.72274762;
+			position[]={5489.6465,30.348188,2012.5317};
+			id=132;
+			side="EMPTY";
+			vehicle="Barrels";
+			skill=0.74635112;
+			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
 		};
 	};
 	class Markers
@@ -6824,10 +6878,9 @@ class Mission
 		};
 		class Item771
 		{
-			position[]={6979.0098,8.1290379,3329.2224};
+			position[]={2083.5464,3.3344998,4722.8579};
 			name="Town_23";
 			type="Empty";
-			colorName="ColorRed";
 		};
 		class Item772
 		{
