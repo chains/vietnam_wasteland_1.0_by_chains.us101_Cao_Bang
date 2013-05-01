@@ -82,7 +82,8 @@ R3F_LOG_CFG_objets_remorquables = [
 	"D30_base",
 	"ZU23_base",
 	"UAZ_CDF",
-	"uns_willys", //UNS
+	//UNS
+	"uns_willys",
 	"uns_truck_open",
 	"uns_M43",
 	"uns_m37b1",
@@ -91,8 +92,6 @@ R3F_LOG_CFG_objets_remorquables = [
 	"uns_truck_reammo",
 	"uns_truck_refuel",
 	"uns_truck_repair"
-	
-	
 ];
 
 /****** LIFT WITH VEHICLE / HELIPORTER AVEC VEHICULE ******/
@@ -113,7 +112,22 @@ R3F_LOG_CFG_heliporteurs = [
 	"Ka60_Base_PMC",
 	"Mi24_Base",
 	//UNS
-	"uns_ch53","uns_ch47","uns_ch34","uns_ch34army","csj_ch46","CSJ_UH1Slick","CSJ_UH1med","CSJ_UH1transport","CSJ_UH1supply","CSJ_oh6","CSJ_OH6a","uns_oh58a","uns_oh58b","CSJ_AH1g","CSJ_UH1Gun","CSJ_GHornet",
+	"uns_ch53",
+	"uns_ch47",
+	"uns_ch34",
+	"uns_ch34army",
+	"csj_ch46",
+	"CSJ_UH1Slick",
+	"CSJ_UH1med",
+	"CSJ_UH1transport",
+	"CSJ_UH1supply",
+	"CSJ_oh6",
+	"CSJ_OH6a",
+	"uns_oh58a",
+	"uns_oh58b",
+	"CSJ_AH1g",
+	"CSJ_UH1Gun",
+	"CSJ_GHornet",
 	"uns_Mi8"
 ];
 
@@ -285,7 +299,7 @@ R3F_LOG_CFG_transporteurs = [
 	["uns_pt76", 10],
 	["uns_truck_reammo", 50],
 	["uns_truck_refuel", 50],
-	["uns_truck_repair, 50]
+	["uns_truck_repair", 50]
 ];
 
 /**
