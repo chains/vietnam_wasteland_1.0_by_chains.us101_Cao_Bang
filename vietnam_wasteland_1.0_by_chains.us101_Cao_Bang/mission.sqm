@@ -1873,7 +1873,7 @@ class Mission
 			id=51;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp3";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
@@ -1927,7 +1927,7 @@ class Mission
 			id=57;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp4";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
@@ -1959,7 +1959,7 @@ class Mission
 			id=61;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp2";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
@@ -2003,7 +2003,7 @@ class Mission
 			id=65;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp5";
 			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
@@ -2016,7 +2016,7 @@ class Mission
 			id=66;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp6";
 			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
@@ -2029,7 +2029,7 @@ class Mission
 			id=67;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp7";
 			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
@@ -2042,7 +2042,7 @@ class Mission
 			id=68;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1; init="this setPosATL [0,0,2];";
+			leader=1;
 			skill=0.60000002;
 			text="fp8";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
