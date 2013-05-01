@@ -53,7 +53,11 @@ if(doKickTeamSwitcher) exitWith {
 };
 
 //Send player to debug to stop fake spawn locations.
-player setPos [-20000 - (random 10000), 5000 + random 15000, 0];
+//player setPos [-20000 - (random 10000), 5000 + random 15000, 0];
+
+// Safe Land
+//player setPos [ 3519.1467,3.5346057,8134.6777 ];
+player setPosATL [3519.1467, 8134.6777,1];
 
 titleText ["Loading...", "BLACK OUT", 0.00001];
 
