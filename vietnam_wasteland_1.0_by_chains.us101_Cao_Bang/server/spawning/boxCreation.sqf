@@ -36,7 +36,7 @@ switch(_selectedBox) do {
         _currBox addMagazineCargoGlobal ["uns_m60mag",25];
         _currBox addMagazineCargoGlobal ["uns_mac10mag",40];
         _currBox addMagazineCargoGlobal ["uns_m67gren",15];
-        _currBox addMagazineCargoGlobal ["uns_PipeBomb",5];
+        _currBox addMagazineCargoGlobal ["PipeBomb",5];
         _currBox addMagazineCargoGlobal ["uns_rpg2grenade",10];
         _currBox addMagazineCargoGlobal ["uns_rpg7grenade",5];
         
@@ -64,7 +64,7 @@ switch(_selectedBox) do {
         _currBox addMagazineCargoGlobal ["uns_rpkmag",25];
         _currBox addMagazineCargoGlobal ["uns_thompsonmag_30",40];
         _currBox addMagazineCargoGlobal ["uns_m67gren",15];
-        _currBox addMagazineCargoGlobal ["uns_PipeBomb",5];
+        _currBox addMagazineCargoGlobal ["PipeBomb",5];
         _currBox addMagazineCargoGlobal ["uns_rpg2grenade",10];
         _currBox addMagazineCargoGlobal ["uns_rpg7grenade",5];
     };
