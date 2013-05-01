@@ -1,0 +1,1625 @@
+//UNSUNG 2.5 class list
+
+//////////////////////////////////////////////////////////west
+
+/////////////////////////////////////////////AIR
+
+///////////////////////////////fixed wing
+
+allwestplanes = ["CSJ_C123","CSJ_C123B","uns_A1J","A7UN","A7_NAVY","uns_f100b","F4Camo","F4Navy","F4camoCAS"];
+
+///////////C-123K Provider
+transportSoldier = 22
+
+"CSJ_C123"
+"CSJ_C123B"
+
+//////////O-1E Cessna Bird Dog
+transportSoldier = 1
+
+"CSJ_O1"
+
+//weapons
+	"uns_WPLauncher"
+//magazines
+	"uns_8Rnd_WP_FFAR"
+
+
+//////////////A-1J Skyraider
+
+"uns_A1J"
+"uns_a1j_Wreck"
+
+weapons
+	"Uns_Skyraider4x20mm"
+	"Uns_FFARLauncher"
+	"Uns_NapalmLauncher"
+magazines
+	"Uns_1200Rnd_Skyraider_4x20mm"
+	"uns_36Rnd_FFAR"
+	"Uns_5Rnd_Napalm"
+
+///////////A-7C Corsair II
+
+"A7UN"
+"A7UNWreck"
+
+weapons
+	"GAU8"
+	"A7uns_MK82SnakeLauncher"
+	"A7uns_MK82BombLauncher"
+	"A7unsFuelauncher"
+	"A7uns_AIM9Launcher"
+	"CMFlareLauncher"
+magazines
+	"1350Rnd_30mmAP_A10"
+	"A7uns_6Rnd_MK82Snake"
+	"A7uns_6Rnd_MK82"
+	"A7uns_1Rnd_Fuel"
+	"A7Uns_AIM9_mag"
+	"120Rnd_CMFlare_Chaff_Magazine"
+
+//////////A-7D Corsair NAVY
+
+"A7_NAVY"
+"A7UNWreck"
+
+weapons
+	"GAU8"
+	"A7uns_MK82SnakeLauncher"
+	"A7uns_MK82BombLauncher"
+	"A7unsFuelauncher"
+	"A7uns_AIM9Launcher"
+	"CMFlareLauncher"
+magazines
+	"1350Rnd_30mmAP_A10"
+	"A7uns_6Rnd_MK82Snake"
+	"A7uns_6Rnd_MK82"
+	"A7uns_1Rnd_Fuel"
+	"A7Uns_AIM9_mag"
+	"120Rnd_CMFlare_Chaff_Magazine"
+
+
+/////////////F-100 SuperSabre
+
+"uns_f100b"
+"uns_f100_Wreck"
+
+weapons
+	"GAU12"
+	"Uns_BombLauncher"
+	"CMFlareLauncher"
+magazines
+	"300Rnd_25mm_GAU12"
+	"Uns_11Rnd_Mk81"
+	"120Rnd_CMFlare_Chaff_Magazine"
+
+////////////////F-4E Phantom II
+
+"F4Camo"
+"F4UnsWreck"
+
+weapons
+	"GAU8"
+	"CMFlareLauncher"
+	"uns_F4Fuelauncher"
+	"uns_AIM9Launcher"
+	"uns_MK82SnakeLauncher"
+	"uns_AIM7Launcher"
+
+magazines
+	"1350Rnd_30mmAP_A10"
+	"120Rnd_CMFlare_Chaff_Magazine"
+	"F4uns_1Rnd_Fuel"
+	"Uns_AIM9_mag"
+	"F4uns_6Rnd_MK82Snake"
+	"Uns_AIM7_mag"
+
+////////////////F-4 Phantom II
+
+"F4Navy"
+"F4UnsWreck"
+
+weapons
+	"GAU8"
+	"CMFlareLauncher"
+	"uns_F4Fuelauncher"
+	"uns_AIM9Launcher"
+	"uns_MK82SnakeLauncher"
+	"uns_AIM7Launcher"
+
+magazines
+	"1350Rnd_30mmAP_A10"
+	"120Rnd_CMFlare_Chaff_Magazine"
+	"F4uns_1Rnd_FuelNavy"
+	"Uns_AIM9_mag"
+	"F4uns_6Rnd_MK82Snake"
+	"Uns_AIM7_mag"
+
+////////////////F-4E Phantom II - CAS
+
+"F4camoCAS"
+"F4UnsWreck"
+
+weapons
+	"GAU8"
+	"FFARLauncher"
+	"CMFlareLauncher"
+	"Uns_Napalm_blu1_Launcher"
+
+magazines
+	"1350Rnd_30mmAP_A10"
+	"38Rnd_FFAR"
+	"120Rnd_CMFlare_Chaff_Magazine"
+	"Uns_8Rnd_Napalm_blu1"
+
+///////////////////////////////////////////rotary wing
+
+allwestLgehelis = ["uns_ch53","uns_ch47","uns_ch34","uns_ch34army","csj_ch46","CSJ_UH1Slick","CSJ_UH1med","CSJ_UH1transport","CSJ_UH1supply"];
+
+allwestSmlhelis = ["CSJ_oh6","CSJ_OH6a","uns_oh58a","uns_oh58b","CSJ_AH1g","CSJ_UH1Gun","CSJ_GHornet"];
+
+//////////////////CH-53 Jolly Green
+transportSoldier = 26
+
+"uns_ch53"
+
+//weapons
+	"uns_m2"
+//mags
+	"uns_m2hbmag"
+
+//////////////////CH-47 Chinook
+transportSoldier = 24
+
+"uns_ch47"
+
+////////////////CH-34 Choctaw (USMC)
+transportSoldier = 8
+
+"uns_ch34"
+
+///////////////CH-34 Choctaw (Army)
+transportSoldier = 8
+
+"uns_ch34army"
+
+///////////////CH-46 Sea Knight
+transportSoldier = 13
+
+"csj_ch46"
+
+//weapons
+	"uns_m2"
+	"uns_m2_2"
+//magazines
+	"uns_m2hbmag"
+
+///////////////OH-6a Cayuse (LOACH)
+transportSoldier = 2
+
+"CSJ_oh6"
+"CSJ_oh6wreck"
+
+//weapons
+	"uns_m60_mounted_2"
+
+//mags
+	"uns_m60_mounted_500rnd"
+
+////////////////OH-6a Cayuse (LOACH)
+transportSoldier = 1
+
+"CSJ_OH6a"
+"CSJ_oh6wreck"
+
+//weapons
+	"uns_M134"
+//mags
+	"4000Rnd_762x51_M134"
+
+
+//////////////////OH-58 Kiowa (Cmd)
+transportSoldier = 4
+
+"uns_oh58a"
+
+//////////////////OH-58 Kiowa
+transportSoldier = 4
+
+"uns_oh58b"
+
+////////////////AH-1G Cobra Gunship
+
+"CSJ_AH1g"
+"CSJ_AH1gwreck"
+
+//weapons
+	"uns_M134"
+	"uns_FFARLauncher"
+
+//mags
+	"4000Rnd_762x51_M134"
+	"38Rnd_FFAR"
+
+/////////////////UH-1C Gunship
+transportSoldier = 6
+
+"CSJ_UH1Gun"
+
+//UH1C wreck
+"CSJ_Cdown"
+
+weapons
+	"uns_FFARLauncher"
+	"uns_TwinM134"
+magazines
+	"38Rnd_FFAR"
+	"4000Rnd_762x51_M134"
+
+///////////////////UH-1F Gunship (Green Hornets)
+transportSoldier = 6
+
+"CSJ_GHornet"
+
+weapons
+	"uns_FFARLauncher"
+	"uns_M134"
+	"uns_M134_2"
+magazines
+	"14Rnd_FFAR"
+	"2000Rnd_762x51_M134"
+	
+//Hornet Wreck
+"CSJ_ghdown"
+
+//////////////////UH-1D Slick
+transportSoldier = 13
+
+"CSJ_UH1Slick"
+
+//UH1 wreck
+"CSJ_slickdown"
+
+//weapons
+	"uns_m60_mounted"
+	"uns_m60_mounted_2"
+
+//mags
+	"uns_m60_mounted_500rnd"
+
+///////////////////UH-1D Dustoff (MedEvac)
+transportSoldier = 9
+
+"CSJ_UH1med"
+
+//UH1H wreck
+"CSJ_slickdown2"
+
+////////////////UH-1H Supply
+transportSoldier = 4
+
+"CSJ_UH1supply"
+
+//UH1H wreck
+"CSJ_slickdown2"
+
+//////////////UH-1H Transport
+transportSoldier = 12
+
+"CSJ_UH1transport"
+
+//UH1H wreck
+"CSJ_slickdown2"
+
+////////////////////////////////////////////LAND
+
+allwestvecs_unarmed = ["uns_willys","uns_willys_1","uns_truck_reammo","uns_truck_refuel","uns_truck_repair","uns_m43","uns_m37b1","uns_truck_open","uns_truck_closed"];
+allwestvecs_light = ["uns_willysmg","uns_guntruck","uns_guntruckM55"];
+allwestvecs_med = ["uns_m113","uns_m113a","uns_m163"];
+allwestvecs_hvy = ["uns_Sheridan","uns_m48a3"];
+
+//////////////M-151 Jeep
+transportSoldier = 3
+
+"uns_willys"
+
+///////////////M-151 Jeep (Windscreen Down)
+transportSoldier = 3
+
+"uns_willys_1"
+
+///////////////M-151 Jeep (M60)
+transportSoldier = 1
+
+"uns_willysmg"
+
+//weapons
+	"uns_m60_mounted"
+//mags
+	"uns_m60_mounted_500rnd"
+
+///////////////M-35 Ammo Truck
+transportSoldier = 1
+
+"uns_truck_reammo"
+
+//////////////M-35 Fuel Truck
+transportSoldier = 1
+
+"uns_truck_refuel"
+
+/////////////////////M-35 Repair Truck
+transportSoldier = 1
+
+"uns_truck_repair"
+
+//////////////truck M2 (not official unsung)
+transportSoldier = 12
+
+"Truck5tMG"
+
+//weapons
+	"M2"
+//ammo
+	"100Rnd_127x99_M2"
+
+//////////////truck (not official unsung)
+transportSoldier = 13
+
+"Truck5t"
+
+////////////M-43 Dodge Ambulance
+transportSoldier = 4
+
+"uns_m43"
+
+//////////////M-37B1 Dodge 3/4 ton
+transportSoldier = 7
+
+"uns_m37b1"
+
+//////////////M-35 2.5t
+transportSoldier = 13
+
+"uns_truck_open"
+"uns_truck_closed"
+
+//////////////M-35 Guntruck
+transportSoldier = 1
+
+"uns_guntruck"
+
+/////////////////M-35A1 Quad 50 Guntruck
+
+"uns_guntruckM55"
+
+//weapons
+	"csj_M55"
+//magazines
+	"400Rnd_127x99_M55"
+
+///////////M-113 APC #1
+transportSoldier = 14
+
+"uns_m113"
+
+//weapons
+	"uns_m2"
+//mags
+	"uns_m2hbmag"
+
+////////////M-113 APC #2
+transportSoldier = 14
+
+"uns_m113a"
+
+//weapons
+	"uns_m2"
+//mags
+	"uns_m2hbmag"
+
+///////////M-163 Vulcan ADS
+transportSoldier = 0
+
+"uns_m163"
+
+weapons
+	"M168"
+magazines
+	"2100Rnd_20mm_M168"
+
+////////////////M-551 Sheridan
+transportSoldier = 9?
+
+"uns_Sheridan"
+
+weapons
+	"uns_US_M81"
+	"uns_m1919_veh"
+magazines
+	"uns_M81MAG_HEAT"
+	"uns_M81MAG_HE"
+	"uns_M81MAG_Shillelagh"
+	"uns_M81MAG_WP"
+	"uns_M81MAG_CAN"
+	"uns_m1919mag"
+
+///////////////M-48A3 Patton MBT
+transportSoldier = 9
+
+"uns_m48a3"
+
+weapons
+	"uns_US_M41"
+	"uns_m1919_veh"
+
+magazines
+	"uns_M41MAG_HEAT"
+	"uns_M41MAG_HE"
+	"uns_M41MAG_WP"
+	"uns_m1919mag"
+
+//////////////////////////////////////////////////SHIP
+
+allships = ["PKW_PBR"];
+
+////////////PBR-MKII STREETGANG
+transportSoldier = 9
+
+"PKW_PBR"
+"pkw_pbr_Wreck"
+
+//weapons
+	"Uns_M2"
+	"Uns_M2"
+	"PKW_M60_mounted" //listed but not enabled?
+
+//mags
+	"uns_m2hbmag"
+	"PKW_200Rnd_M60T" //listed but not enabled?
+
+"PKW_PBRMK19" //listed but not enabled?
+
+///////////////////////////////////////////////statics
+
+allweststatics = ["CSJ_Quad50","uns_m2hb","uns_m1919","Uns_M252","Uns_M119"];
+
+"CSJ_Quad50"
+
+//mags
+	"400Rnd_127x99_M55"
+
+"uns_m2hb"
+//weapons
+	"uns_m2"
+//mag
+	"uns_m2hbmag"
+
+"uns_m1919"
+	"uns_m2hbmag"
+
+"Uns_M252"
+	"8Rnd_81mmHE_M252"
+
+"Uns_M119"
+	"30Rnd_105mmHE_M119"
+
+///////////man
+
+//////////U.S. Airforce Pilot
+
+allunits_USAF = ["uns_pil1","uns_pil2"];
+
+"uns_pil1"
+"uns_pil2"
+
+//////////U.S. Patrol Boat Riverine Crew
+
+allunits_PBR = ["Uns_bw1","Uns_bw2","Uns_bw3","Uns_bw4"];
+
+"Uns_bw1"
+"Uns_bw2"
+"Uns_bw3"
+"Uns_bw4"
+
+/////////////U.S. Army Tank Crew
+
+allunits_TCrw = ["Uns_TC1","uns_tanker1","uns_tanker2"];
+
+"Uns_TC1"
+"uns_tanker1"
+"uns_tanker2"
+
+////////////US Army
+
+allunits_USA = ["uns_army_1a","uns_army_1aa","uns_army_2a","uns_army_2aa","uns_army_3a","uns_army_3aa","uns_army_2amed","uns_army_2bmed","uns_army_3amg","uns_army_3bmg","uns_army_3cmg","uns_army_3dmg","uns_army_6agren","uns_army_6bgren","uns_army_6cgren","uns_army_7arto","uns_army_7brto","uns_army_8a","uns_army_8aa","uns_army_8ab","uns_army_8ac","uns_army_8ad","uns_army_8ae","uns_army_8b","uns_army_8ba","uns_army_8bb","uns_army_8bc","uns_army_8bd","uns_army_8be","uns_army_8c","uns_army_8ca","uns_army_8cb","uns_army_8cc","uns_army_8cd","uns_army_8ce","uns_army_8cf","uns_army_8cg","uns_army_8d","uns_army_8da","uns_army_8db","uns_army_8dc","uns_army_8dd","uns_army_8de","uns_army_8df","uns_army_8dg","uns_army_8e","uns_army_8f","uns_army_8g","uns_army_8h","uns_army_8ha","uns_army_8hb","uns_army_8hc","uns_army_8i","uns_army_8ia","uns_army_8ib","uns_army_8ic","uns_army_8j","uns_army_8ja","uns_army_8jb","uns_army_8jc","uns_army_8k","uns_army_8ka","uns_army_8kb","uns_army_8kc","uns_army_8l","uns_army_8la","uns_army_8lb","uns_army_8lc","uns_army_8m","uns_army_8ma","uns_army_8mb","uns_army_8mc","uns_army_9a"];
+
+"uns_army_1a"
+"uns_army_1aa"
+"uns_army_2a"
+"uns_army_2aa"
+"uns_army_3a"
+"uns_army_3aa"
+"uns_army_2amed"
+"uns_army_2bmed"
+"uns_army_3amg"
+"uns_army_3bmg"
+"uns_army_3cmg"
+"uns_army_3dmg"
+"uns_army_6agren"
+"uns_army_6bgren"
+"uns_army_6cgren"
+"uns_army_7arto"
+"uns_army_7brto"
+"uns_army_8a"
+"uns_army_8aa"
+"uns_army_8ab"
+"uns_army_8ac"
+"uns_army_8ad"
+"uns_army_8ae"
+"uns_army_8b"
+"uns_army_8ba"
+"uns_army_8bb"
+"uns_army_8bc"
+"uns_army_8bd"
+"uns_army_8be"
+"uns_army_8c"
+"uns_army_8ca"
+"uns_army_8cb"
+"uns_army_8cc"
+"uns_army_8cd"
+"uns_army_8ce"
+"uns_army_8cf"
+"uns_army_8cg"
+"uns_army_8d"
+"uns_army_8da"
+"uns_army_8db"
+"uns_army_8dc"
+"uns_army_8dd"
+"uns_army_8de"
+"uns_army_8df"
+"uns_army_8dg"
+"uns_army_8e"
+"uns_army_8f"
+"uns_army_8g"
+"uns_army_8h"
+"uns_army_8ha"
+"uns_army_8hb"
+"uns_army_8hc"
+"uns_army_8i"
+"uns_army_8ia"
+"uns_army_8ib"
+"uns_army_8ic"
+"uns_army_8j"
+"uns_army_8ja"
+"uns_army_8jb"
+"uns_army_8jc"
+"uns_army_8k"
+"uns_army_8ka"
+"uns_army_8kb"
+"uns_army_8kc"
+"uns_army_8l"
+"uns_army_8la"
+"uns_army_8lb"
+"uns_army_8lc"
+"uns_army_8m"
+"uns_army_8ma"
+"uns_army_8mb"
+"uns_army_8mc"
+"uns_army_9a"
+
+/////////////////////U.S. Helicopter Air Crew
+
+allunits_USAAF = ["uns_pilot1","uns_pilot2","uns_pilot3","uns_pilot4"];
+
+"uns_pilot1"
+"uns_pilot2"
+"uns_pilot3"
+"uns_pilot4"
+
+/////////////////////U.S. LRRP's Infantry
+
+allunits_LRRP = ["uns_lrrp_1a","uns_lrrp_1b","uns_lrrp_1c","uns_lrrp_1d","uns_lrrp_2amed","uns_lrrp_2aamed","uns_lrrp_2abmed","uns_lrrp_2acmed","uns_lrrp_2admed","uns_lrrp_2aemed","uns_lrrp_3amg","uns_lrrp_6bgren","uns_lrrp_6cgren","uns_lrrp_7arto","uns_lrrp_7aarto","uns_lrrp_7abrto","uns_lrrp_7acrto","uns_lrrp_6agren","uns_lrrp_8a","uns_lrrp_8b","uns_lrrp_8c","uns_lrrp_8d","uns_lrrp_8e","uns_lrrp_8f","uns_lrrp_8g","uns_lrrp_8h","uns_lrrp_8i","uns_lrrp_8j","uns_lrrp_8k","uns_lrrp_8l","uns_lrrp_9a","uns_lrrp_9b","uns_lrrp_9c","uns_lrrp_9d","uns_lrrp_9e","uns_lrrp_9f","uns_lrrp_9g","uns_lrrp_9h","uns_lrrp_9i","uns_lrrp_9j","uns_lrrp_9k","uns_lrrp_9l","uns_lrrp_10a","uns_lrrp_10b","uns_lrrp_10c","uns_lrrp_10d","uns_lrrp_10e","uns_lrrp_10f","uns_lrrp_10g","uns_lrrp_10h","uns_lrrp_10i","uns_lrrp_10j","uns_lrrp_10k"];
+
+"uns_lrrp_1a"
+"uns_lrrp_1b"
+"uns_lrrp_1c"
+"uns_lrrp_1d"
+"uns_lrrp_2amed"
+"uns_lrrp_2aamed"
+"uns_lrrp_2abmed"
+"uns_lrrp_2acmed"
+"uns_lrrp_2admed"
+"uns_lrrp_2aemed"
+"uns_lrrp_3amg"
+"uns_lrrp_6agren"
+"uns_lrrp_6bgren"
+"uns_lrrp_6cgren"
+"uns_lrrp_7arto"
+"uns_lrrp_7aarto"
+"uns_lrrp_7abrto"
+"uns_lrrp_7acrto"
+"uns_lrrp_8a"
+"uns_lrrp_8b"
+"uns_lrrp_8c"
+"uns_lrrp_8d"
+"uns_lrrp_8e"
+"uns_lrrp_8f"
+"uns_lrrp_8g"
+"uns_lrrp_8h"
+"uns_lrrp_8i"
+"uns_lrrp_8j"
+"uns_lrrp_8k"
+"uns_lrrp_8l"
+"uns_lrrp_9a"
+"uns_lrrp_9b"
+"uns_lrrp_9c"
+"uns_lrrp_9d"
+"uns_lrrp_9e"
+"uns_lrrp_9f"
+"uns_lrrp_9g"
+"uns_lrrp_9h"
+"uns_lrrp_9i"
+"uns_lrrp_9j"
+"uns_lrrp_9k"
+"uns_lrrp_9l"
+"uns_lrrp_10a"
+"uns_lrrp_10b"
+"uns_lrrp_10c"
+"uns_lrrp_10d"
+"uns_lrrp_10e"
+"uns_lrrp_10f"
+"uns_lrrp_10g"
+"uns_lrrp_10h"
+"uns_lrrp_10i"
+"uns_lrrp_10j"
+"uns_lrrp_10k"
+
+/////////////////////U.S. Special Forces Infantry
+
+allunits_USSF = ["uns_sf_medic","uns_sf_2amed","uns_sf_2aamed","uns_sf_3amg","uns_sf_3bmg","uns_sf_3cmg","uns_sf_1a","uns_sf_1b","uns_sf_1c","uns_sf_1d","uns_sf_7arto","uns_sf_7aarto","uns_sf_8a","uns_sf_8b","uns_sf_8c","uns_sf_9a","uns_sf_9b","uns_sf_9c","uns_sf_10a","uns_sf_10b","uns_sf_10c","uns_sf_11a","uns_sf_11b","uns_sf_11c"];
+
+"uns_sf_medic"
+"uns_sf_1a"
+"uns_sf_1b"
+"uns_sf_1c"
+"uns_sf_1d"
+"uns_sf_2amed"
+"uns_sf_2aamed"
+"uns_sf_3amg"
+"uns_sf_3bmg"
+"uns_sf_3cmg"
+"uns_sf_7arto"
+"uns_sf_7aarto"
+"uns_sf_8a"
+"uns_sf_8b"
+"uns_sf_8c"
+"uns_sf_9a"
+"uns_sf_9b"
+"uns_sf_9c"
+"uns_sf_10a"
+"uns_sf_10b"
+"uns_sf_10c"
+"uns_sf_11a"
+"uns_sf_11b"
+"uns_sf_11c"
+
+/////////////////////CIDG Montagnard Infantry
+
+allunits_CIDG = ["uns_cidg_8a","uns_cidg_8b","uns_cidg_8c","uns_cidg_8d","uns_cidg_9a","uns_cidg_9b","uns_cidg_9c","uns_cidg_9d","uns_cidg_10a","uns_cidg_10b","uns_cidg_10c","uns_cidg_10d","uns_cidg_11a","uns_cidg_11b","uns_cidg_11c","uns_cidg_11d"];
+
+"uns_cidg_8a"
+"uns_cidg_8b"
+"uns_cidg_8c"
+"uns_cidg_8d"
+"uns_cidg_9a"
+"uns_cidg_9b"
+"uns_cidg_9c"
+"uns_cidg_9d"
+"uns_cidg_10a"
+"uns_cidg_10b"
+"uns_cidg_10c"
+"uns_cidg_10d"
+"uns_cidg_11a"
+"uns_cidg_11b"
+"uns_cidg_11c"
+"uns_cidg_11d"
+
+////////////////////////////////////////////////////////////EAST
+
+
+/////////////////////////////////////////AIR
+
+/////////////////////fixed wing
+
+AllEast Planes = ["uns_mig17","uns_mig17A","Mig21_Uns","Mig21_Camo_Uns"];
+
+/////////////////Mig-17F Fresco CAP
+
+"uns_mig17"
+
+weapons
+	"uns_N37"
+	"uns_nr23"
+	"uns_mig17_Fuelauncher"
+	"CMFlareLauncher"
+
+magazines
+	"uns_40rnd_37mm_n37"
+	"uns_160Rnd_23mm_nr23"
+	"uns_mig17_Fueltank"
+	"120Rnd_CMFlare_Chaff_Magazine"
+
+/////////////////////Mig-17C Fresco CAS
+
+"uns_mig17A"
+
+weapons
+	"uns_N37"
+	"uns_nr23"
+	"uns_57mmLauncher"
+	"Uns_BombLauncher_fab"
+
+magazines
+	"uns_40rnd_37mm_n37"
+	"uns_160Rnd_23mm_nr23"
+	"uns_32Rnd_57mm"
+	"uns_2Rnd_FAB250"
+
+
+////////////////////Mig-21F Fishbed
+
+"Mig21_Uns"
+"Mig21Wreck"
+
+weapons
+	"GAU8"
+	"uns_K13Launcher"
+	"R60Launcher"
+	"Mig21Fuelauncher"
+	"CMFlareLauncher"
+magazines
+	"1350Rnd_30mmAP_A10"
+	"uns_K13_mag"
+	"R60_mag"
+	"Mig21_1Rnd_Fuel"
+	"120Rnd_CMFlare_Chaff_Magazine"
+
+////////////////////Mig-21F Fishbed Camo
+
+"Mig21_Camo_Uns"
+"Mig21Wreck"
+
+weapons
+	"GAU8"
+	"uns_K13Launcher"
+	"R60Launcher"
+	"Mig21Fuelauncher"
+	"CMFlareLauncher"
+magazines
+	"1350Rnd_30mmAP_A10"
+	"uns_K13_mag"
+	"R60_mag"
+	"Mig21_1Rnd_Fuel"
+	"120Rnd_CMFlare_Chaff_Magazine"
+
+
+/////////////////////////////////////////rotary
+
+allEastHelis = ["uns_Mi8"];
+
+///////////////Mi-8 Hip
+transportSoldier = 16
+
+"uns_Mi8"
+"Mi17Wreck"
+
+////////////////////////////////////////////LAND
+
+allvecseast_unarmed =["uns_nvatruck_open","uns_nvatruck_refuel","uns_nvatruck_reammo"];
+allvecseast_light =["uns_pt76"];
+allvecseast_hvy =["uns_t34_nva","uns_t55_nva","uns_zsu_nva"];
+
+////////////////NVA Truck
+transportSoldier = 13
+
+"uns_nvatruck_open"
+
+"uns_nvatruck_refuel"
+"uns_nvatruck_reammo"
+
+////////////////T-34 MBT
+
+"uns_t34_nva"
+
+weapons
+	"ZiS_S_53"
+	"DT_veh"
+
+magazines
+	"10Rnd_85mmAP"
+	"33Rnd_85mmHE"
+	"60Rnd_762x54_DT"
+
+////////////////T-55 MBT
+
+"uns_t55_nva"
+
+weapons
+	"D10"
+	"SGMT"
+
+magazines
+	"21Rnd_100mmHEAT_D10"
+	"22Rnd_100mm_HE_2A70"
+	"250Rnd_762x54_PKT_T90"
+
+////////////////PT-76 Light Tank
+
+"uns_pt76"
+
+weapons
+	"uns_d56t"
+	"uns_PKT"
+	"ItemRadio"
+
+magazines
+	"20Rnd_76mmSABOT_pt76"
+	"20Rnd_76mmHE_pt76"
+	"2000Rnd_762x54_PKT"
+
+/////////////////////ZSU shilka
+
+"uns_zsu_nva"
+
+/////////////////////////////////////////////static
+
+allEast_static = ["Uns_sa2_LauncherUnit","uns_dshkhmg","uns_dshkhmgVC","uns_dshkaa","uns_dshkaaVC","Uns_2b14_82mmMortarNVA","Uns_2b14_82mmMortarVC","Uns_D30","uns_ZU23"];
+
+//////////////////SA-2 SAM Launcher
+
+"Uns_sa2_LauncherUnit"
+
+weapons
+	"uns_sa2_wep"
+magazines
+	"uns_1Rnd_sa2_mag"
+
+"uns_dshkhmg"
+//weapon
+	"uns_dshk"
+//mag
+	"uns_dshkmag"
+
+"uns_dshkhmgVC"
+	"uns_dshkmag"
+
+"uns_dshkaa"
+	"uns_dshkmag"
+
+"uns_dshkaaVC"
+	"uns_dshkmag"
+
+"Uns_2b14_82mmMortarNVA"
+	"8Rnd_82mmHE_2B14"
+"Uns_2b14_82mmMortarVC"
+	"8Rnd_82mmHE_2B14"
+
+"Uns_D30"
+	"30Rnd_122mmHE_D30"
+
+"uns_ZU23"
+
+//WEAPON 
+	"Uns_Zu23AACannon"
+//MAGS
+	"Uns_Zu23AACannonmag"
+
+///////////////////////////////////man
+
+////////////////////////NVA main force
+
+allunits_NVA = ["uns_nva_medic","uns_nva1","uns_nva1a","uns_nva1b","uns_nva1c","uns_nva2med","uns_nva3mg","uns_nva3amg","uns_nva4rpg","uns_nva4arpg","uns_nva5sni","uns_nva6sap","uns_nva6asap","uns_nva6bsap","uns_nva7rto","uns_nva7arto","uns_nva8a","uns_nva8b","uns_nva8c","uns_nva8d","uns_nva8e","uns_nva8f","uns_nva8g","uns_nva8h","uns_nva8aa","uns_nva9a","uns_nva9b","uns_nva9c","uns_nva10a","uns_nva10b","uns_nva11a","uns_nva11b","uns_nva12a","uns_nva12b","uns_nva12c","uns_nva12d"];
+
+"uns_nva_medic"
+"uns_nva1"
+"uns_nva1a"
+"uns_nva1b"
+"uns_nva1c"
+"uns_nva2med"
+"uns_nva3mg"
+"uns_nva3amg"
+"uns_nva4rpg"
+"uns_nva4arpg"
+"uns_nva5sni"
+"uns_nva6sap"
+"uns_nva6asap"
+"uns_nva6bsap"
+"uns_nva7rto"
+"uns_nva7arto"
+"uns_nva8a"
+"uns_nva8b"
+"uns_nva8c"
+"uns_nva8d"
+"uns_nva8e"
+"uns_nva8f"
+"uns_nva8g"
+"uns_nva8h"
+"uns_nva8aa"
+"uns_nva9a"
+"uns_nva9b"
+"uns_nva9c"
+"uns_nva10a"
+"uns_nva10b"
+"uns_nva11a"
+"uns_nva11b"
+"uns_nva12a"
+"uns_nva12b"
+"uns_nva12c"
+"uns_nva12d"
+
+////////////////////////Local VC guerillas
+
+allunits_LVC = ["uns_local_vc1a","uns_local_vc1b","uns_local_vc1c","uns_local_vc1d","uns_local_vc1e","uns_local_vc1f","uns_local_vc2a","uns_local_vc2b","uns_local_vc2c","uns_local_vc2d","uns_local_vc2e","uns_localciv1","uns_localciv2","uns_localciv3","uns_localciv4"];
+
+"uns_local_vc1a"
+"uns_local_vc1b"
+"uns_local_vc1c"
+"uns_local_vc1d"
+"uns_local_vc1e"
+"uns_local_vc1f"
+"uns_local_vc2a"
+"uns_local_vc2b"
+"uns_local_vc2c"
+"uns_local_vc2d"
+"uns_local_vc2e"
+"uns_localciv1"
+"uns_localciv2"
+"uns_localciv3"
+"uns_localciv4"
+
+
+//////////////////VC recon force
+
+allunits_RFVC = ["uns_rf_vc1a","uns_rf_vc2a","uns_rf_vc3a","uns_rf_vc3b","uns_rf_vc4a","uns_rf_vc4b","uns_rf_vc5asni","uns_rf_vc5bsni","uns_rf_vc6asap","uns_rf_vc6bsap","uns_rf_vc7arto","uns_rf_vc8a","uns_rf_vc8b","uns_rf_vc8c","uns_rf_vc8d","uns_rf_vc8e","uns_rf_vc8f","uns_rf_vc9a","uns_rf_vc10a","uns_rf_vc11a","uns_rf_vc12a","uns_rf_vc12b","uns_rf_vc12c"];
+
+"uns_rf_vc1a"
+"uns_rf_vc2a"
+"uns_rf_vc3a"
+"uns_rf_vc3b"
+"uns_rf_vc4a"
+"uns_rf_vc4b"
+"uns_rf_vc5asni"
+"uns_rf_vc5bsni"
+"uns_rf_vc6asap"
+"uns_rf_vc6bsap"
+"uns_rf_vc7arto"
+"uns_rf_vc8a"
+"uns_rf_vc8b"
+"uns_rf_vc8c"
+"uns_rf_vc8d"
+"uns_rf_vc8e"
+"uns_rf_vc8f"
+"uns_rf_vc9a"
+"uns_rf_vc10a"
+"uns_rf_vc11a"
+"uns_rf_vc12a"
+"uns_rf_vc12b"
+"uns_rf_vc12c"
+
+/////////////VC main force
+
+allunits_MFVC = ["uns_mf_vc1a","uns_mf_vc1b","uns_mf_vc2a","uns_mf_vc3a","uns_mf_vc3b","uns_mf_vc4a","uns_mf_vc4b","uns_mf_vc5asni","uns_mf_vc6asap","uns_mf_vc6bsap","uns_mf_vc7arto","uns_mf_vc8a","uns_mf_vc8b","uns_mf_vc8c","uns_mf_vc8d","uns_mf_vc8e","uns_mf_vc9a","uns_mf_vc10a","uns_mf_vc10b","uns_mf_vc11a","uns_mf_vc12a","uns_mf_vc12b","uns_mf_vc12c"];
+
+"uns_mf_vc1a"
+"uns_mf_vc1b"
+"uns_mf_vc2a"
+"uns_mf_vc3a"
+"uns_mf_vc3b"
+"uns_mf_vc4a"
+"uns_mf_vc4b"
+"uns_mf_vc5asni"
+"uns_mf_vc6asap"
+"uns_mf_vc6bsap"
+"uns_mf_vc7arto"
+"uns_mf_vc8a"
+"uns_mf_vc8b"
+"uns_mf_vc8c"
+"uns_mf_vc8d"
+"uns_mf_vc8e"
+"uns_mf_vc9a"
+"uns_mf_vc10a"
+"uns_mf_vc10b"
+"uns_mf_vc11a"
+"uns_mf_vc12a"
+"uns_mf_vc12b"
+"uns_mf_vc12c"
+
+/////////////////////////////////////////////////////
+"N.V.A. Infantry pre 66 (Brown)"
+
+allunits_NVA66 = ["uns_pavn1","uns_pavn1a","uns_pavn1b","uns_pavn1c","uns_pavn2med","uns_pavn3mg","uns_pavn3amg","uns_pavn4rpg","uns_pavn4arpg","uns_pavn5sni","uns_pavn6sap","uns_pavn6asap","uns_pavn6bsap","uns_pavn7rto","uns_pavn7arto","uns_pavn8a","uns_pavn8b","uns_pavn8c","uns_pavn8d","uns_pavn8e","uns_pavn8f","uns_pavn8g","uns_pavn8h","uns_pavn8aa","uns_pavn9a","uns_pavn9b","uns_pavn9c","uns_pavn10a","uns_pavn10b","uns_pavn11a","uns_pavn11b","uns_pavn12a","uns_pavn12b","uns_pavn12c","uns_pavn12d"];
+
+"uns_pavn1"
+"uns_pavn1a"
+"uns_pavn1b"
+"uns_pavn1c"
+"uns_pavn2med"
+"uns_pavn3mg"
+"uns_pavn3amg"
+"uns_pavn4rpg"
+"uns_pavn4arpg"
+"uns_pavn5sni"
+"uns_pavn6sap"
+"uns_pavn6asap"
+"uns_pavn6bsap"
+"uns_pavn7rto"
+"uns_pavn7arto"
+"uns_pavn8a"
+"uns_pavn8b"
+"uns_pavn8c"
+"uns_pavn8d"
+"uns_pavn8e"
+"uns_pavn8f"
+"uns_pavn8g"
+"uns_pavn8h"
+"uns_pavn8aa"
+"uns_pavn9a"
+"uns_pavn9b"
+"uns_pavn9c"
+"uns_pavn10a"
+"uns_pavn10b"
+"uns_pavn11a"
+"uns_pavn11b"
+"uns_pavn12a"
+"uns_pavn12b"
+"uns_pavn12c"
+"uns_pavn12d"
+
+////////////////////////////////////////
+"N.V.A. Special Forces DacCong"
+allunits_NVAD = ["uns_dccr1","uns_dccr5asni","uns_dccr11a","uns_dccr12a","uns_dccr12b"];
+
+"uns_dccr1"
+"uns_dccr5asni"
+"uns_dccr11a"
+"uns_dccr12a"
+"uns_dccr12b"
+
+////////////////civilians
+
+allunits_VCIV = ["uns_civilian1","uns_civilian2","uns_civilian3","uns_civilian4"];
+
+"uns_civilian1"
+"uns_civilian2"
+"uns_civilian3"
+"uns_civilian4"
+
+/////////////guerillas
+
+allunits_VG = ["uns_guerrilla1","uns_guerrilla2","uns_guerrilla3","uns_guerrilla4","uns_guerrilla5"];
+
+"uns_guerrilla1"
+"uns_guerrilla2"
+"uns_guerrilla3"
+"uns_guerrilla4"
+"uns_guerrilla5"
+
+/////////////////////////////////////weapons
+
+////////////////west weapons
+
+"uns_coltcmdr"
+"uns_m1911"
+"uns_l34a1"
+"uns_mk4"
+"uns_m3a1"
+"uns_m3sd"
+"uns_m45"
+"uns_mac10"
+"uns_mac10sd"
+"uns_mat49"
+"uns_thompson"
+"uns_sten"
+"uns_stensd"
+"uns_ithaca37"
+"uns_m1897"
+"uns_m1897riot"
+"uns_m870"
+"uns_model12"
+"uns_l1a1"
+"uns_mas4956"
+"uns_mas4956s"
+"uns_m1carbine"
+"uns_m2carbine"
+"uns_bar"
+"uns_mas36"
+"uns_m14"
+"uns_m14a"
+"uns_m21"
+"uns_model70"
+"uns_car15e1_20"
+"uns_car15e2_20"
+"uns_car15e2_30"
+"uns_m16a1_20"
+"uns_m16a1_30"
+"uns_m60"
+"uns_m63a"
+"uns_m60shorty"
+"uns_m79"
+"uns_ex41"
+"uns_m203_20"
+"uns_m203_30"
+"uns_xm148"
+"uns_m72"
+"uns_m61gren"
+"uns_m67gren"
+
+///////////////west mags
+
+uns_357mag
+uns_44mag
+uns_coltcmdrmag
+uns_hp35mag
+uns_m1911mag
+uns_mac10mag
+uns_mac10sdmag
+uns_l34a1mag
+uns_l34a1mag_T
+uns_mk4mag
+uns_mk4mag_T
+uns_m3a1mag
+uns_m3a1mag_T
+uns_m3sdmag
+uns_m45mag
+uns_m45mag_T
+uns_m45mag_NT
+uns_mat49mag
+uns_mat49mag_T
+uns_mat49mag_NT
+uns_thompsonmag_20
+uns_thompsonmag_30
+uns_thompsonmag_20_T
+uns_thompsonmag_30_T
+uns_thompsonmag_20_NT
+uns_thompsonmag_30_NT
+uns_stenmag
+uns_stenmag_T
+uns_stensdmag
+uns_barmag
+uns_barmag_T
+uns_barmag_NT
+uns_m1carbinemag
+uns_m1carbinemag_T
+uns_m1carbinemag_NT
+uns_m2carbinemag
+uns_m2carbinemag_T
+uns_m2carbinemag_NT
+uns_garandmag
+uns_garandmag_T
+uns_m14mag
+uns_m14mag_T
+uns_m14mag_NT
+uns_m21mag
+uns_m21mag_T
+uns_mas36mag
+uns_mas36mag_T
+uns_mas4956mag
+uns_mas4956mag_T
+uns_springfieldmag
+uns_springfieldmag_T
+uns_model70mag
+uns_model70mag_T
+uns_car15mag_20
+uns_car15mag_20_T
+uns_car15mag_20_NT
+uns_car15mag_30
+uns_car15mag_30_T
+uns_car15mag_30_NT
+uns_l1a1mag
+uns_l1a1mag_T
+uns_l1a1mag_NT
+uns_m16mag_20
+uns_m16mag_20_T
+uns_m16mag_20_NT
+uns_m16mag_30
+uns_m16mag_30_T
+uns_m16mag_30_NT
+uns_m60mag
+uns_m63mag
+uns_m63amag
+uns_ithaca37mag
+uns_m870mag
+uns_12gaugemag_4
+uns_m1897mag
+uns_model12mag
+uns_12gaugemag_6
+uns_m61gren
+uns_m34gren
+uns_m67gren
+uns_mk3a2gren
+uns_PipeBomb
+uns_Mine
+uns_m8white
+uns_m18red
+uns_m18green
+uns_m18yellow
+uns_m18purple
+Uns_1Rnd_HE_M203
+uns_m406gren
+uns_m406vest
+uns_ex41mag
+uns_40mm_white
+uns_40mm_green
+uns_40mm_red
+uns_40mm_yellow
+uns_m72rocket
+
+"uns_anpvs2" - AN/PVS-2 Night Sight
+"UNS_ItemRadio" - RTO radio
+"Binocular"
+"ItemCompass"
+"ItemMap"
+"ItemRadio"
+"ItemWatch"
+//"NVGoggles" --> probably anachronistic
+
+////////////////////east weapons
+
+"uns_makarov"
+"uns_tokarev"
+"uns_38spec"
+"uns_357m"
+"uns_k50m"
+"uns_k50mdrum"
+"uns_mp40 "
+"uns_ppsh41"
+"uns_thompsonvc"
+"uns_mosin"
+"uns_sks"
+"uns_sksbayo"
+"uns_svd"
+"uns_ak47"
+"uns_ak47bayo"
+"uns_ct56"
+"uns_ct56bayo"
+"uns_ct56ws"
+"uns_rpd"
+"uns_rpdsog"
+"uns_rpk"
+"uns_rpg2"
+"uns_rpg7"
+"uns_sa7"
+"uns_PKT"
+"uns_f1gren"
+
+///////////////////////east mags
+
+uns_38specmag
+uns_makarovmag
+uns_tokarevmag
+uns_k50mag
+uns_k50mag_NT
+uns_k50mag_T
+uns_mp40mag
+uns_mp40mag_T
+uns_ppshmag
+uns_ppshmag_T
+uns_ppshmag_NT
+uns_thompsonmag_20
+uns_thompsonmag_30
+uns_thompsonmag_20_T
+uns_thompsonmag_30_T
+uns_thompsonmag_20_NT
+uns_thompsonmag_30_NT
+uns_sksmag
+uns_sksmag_T
+uns_sksmag_NT
+uns_ak47mag
+uns_ak47mag_T
+uns_ak47mag_NT
+uns_ct56mag
+uns_ct56mag_T
+uns_ct56mag_NT
+uns_mosinmag
+uns_mosinmag_T
+uns_svdmag
+uns_svdmag_T
+uns_f1gren
+uns_rg42gren
+uns_rgd5gren
+uns_rgd33gren
+uns_PipeBomb
+uns_MineE
+uns_rpdmag
+uns_rpdsogmag
+uns_rpkmag
+uns_rpg2grenade
+uns_rpg7grenade
+uns_sa7mag
+
+
+//////////////////TRAP system
+
+//weapons
+	"UNS_TrapKit"
+
+//magazines
+	"uns_trap_Magazine"
+	"uns_traps_punj1_mag"
+	"uns_traps_punj2_mag"
+	"uns_traps_flare_mag"
+	"uns_traps_mine_mag"
+	"uns_traps_nade_mag"
+	"uns_traps_nade_mag2"
+	"uns_traps_nade_mag3"
+	"uns_traps_nade_mag4"
+	"uns_traps_arty_mag"
+
+//traps
+"uns_Tripwire1a"		Grenade Tripwire (Short)
+"uns_Tripwire1a_2"
+"uns_Tripwire1b"		Grenade Tripwire (Long)
+"uns_Tripwire1b_2"
+"uns_Tripwire2a"		Grenade Tripwire (Can - Short)
+"uns_Tripwire2a_2"
+"uns_Tripwire2b"		Grenade Tripwire (Can - Long)
+"uns_Tripwire2b_2"
+"uns_m16apmine"			M-16 AP Mine
+"uns_m16apmine_2"
+"uns_m16apmineused"
+"uns_Punji1"			Punji - Foot Sized
+"uns_Punji1_b"
+"uns_Punji2"			Punji - Large Pit
+"uns_Punji2_b"
+"uns_punji3"			Punji - Large Pit (Dud)
+"uns_artilleryround1a"		Artillery Round Tripwire
+"uns_artilleryround1b"		Artillery Round Disconnected
+"uns_artilleryround1c"
+"uns_TripwireM49"		M49 Flare
+"uns_TripwireM49_2"		M49 Flare Disconnected
+
+Alltraps = ["uns_Tripwire1a","uns_Tripwire1a_2","uns_Tripwire1b","uns_Tripwire1b_2","uns_Tripwire2a","uns_Tripwire2a_2","uns_Tripwire2b","uns_Tripwire2b_2","uns_m16apmine","uns_m16apmine_2","uns_m16apmineused","uns_Punji1","uns_Punji1_b","uns_Punji2","uns_Punji2_b","uns_punji3","uns_artilleryround1a","uns_artilleryround1b","uns_artilleryround1c","uns_TripwireM49","uns_TripwireM49_2"];
+
+Allactivetraps = ["uns_Tripwire1a","uns_Tripwire1b","uns_Tripwire2a","uns_Tripwire2b","uns_m16apmine","uns_Punji1","uns_Punji2","uns_punji3","uns_artilleryround1a","uns_TripwireM49"];
+
+
+/////////////////////BACKPACKS
+
+suitable stock backpacks
+"US_Backpack_EP1"
+"TK_ALICE_Pack_EP1"
+
+"Uns_M252_US_Bag"
+"Tripod_Bag"
+
+"Uns_2b14_82mmMortarNVA_Bag"
+"Uns_2b14_82mmMortarVC_Bag"
+"Tripod_Bag"
+
+//////////////////AMMO CRATES
+
+"uns_ruck"
+"uns_AmmoBoxUS"
+"uns_WeaponBoxUS"
+"uns_WeaponAndAmmoBoxUS"
+"uns_US_Ordinance"
+"uns_AmmoBoxUS_army"
+"uns_AmmoBoxUS_SF"
+"uns_AmmoBoxUS_SOG"
+"uns_AmmoBoxCIDG"
+"uns_50calammobox"
+"uns_50calammoboxempty"
+
+"uns_AmmoBoxNVA"
+"uns_WeaponBoxNVA"
+"uns_AmmoBoxVC"
+"uns_HiddenAmmoBox"
+"uns_WeaponAndAmmoBoxNVA"
+"uns_East_Sapper_crate"
+
+
+////////////////////VEHICLE WEAPONS (sEE VECS SEPARATELY)
+
+"uns_d56t"
+"Uns_Zu23AACannon"
+"uns_d10t"
+"uns_m41"
+"uns_m68"
+"uns_m134"
+"uns_m134_2"
+"Uns_TwinM134"
+"Uns_FFARLauncher"
+"uns_WPLauncher"
+"Uns_Skyraider4x20mm"
+"Uns_BombLauncher"
+"Uns_NapalmLauncher"
+"uns_m2"
+"uns_m2_2"
+"uns_m2_3"
+"uns_m60_mounted"
+"uns_m60_mounted_2"
+"uns_m1919_veh"
+"csj_M55"
+
+"uns_sa2_wep"
+
+Mig21
+"R60Launcher"
+"uns_K13Launcher"
+"Mig21Fuelauncher"
+Mig17
+"uns_N37"
+"uns_nr23"
+"uns_mig17_Fuelauncher"
+
+/////////////////////static and vec mags
+
+uns_m2hbmag
+uns_m1919mag
+uns_m60_mounted_500rnd
+uns_dshkmag
+20Rnd_76mmHE_pt76
+20Rnd_76mmSABOT_pt76
+20Rnd_100mmHE_t55
+23Rnd_100mmSABOT_t55
+20Rnd_90mmHE_m48
+40Rnd_90mmSABOT_m48
+23Rnd_105mmHE_m60a1
+40Rnd_105mmSABOT_m60a1
+Uns_Zu23AACannonmag
+uns_8Rnd_WP_FFAR
+uns_36Rnd_FFAR
+uns_32Rnd_57mm
+Uns_1Rnd_Mk82
+Uns_2Rnd_Mk82
+Uns_3Rnd_Mk82
+Uns_4Rnd_Mk82
+Uns_5Rnd_Mk82
+Uns_6Rnd_Mk82
+Uns_7Rnd_Mk82
+Uns_8Rnd_Mk82
+Uns_9Rnd_Mk82
+Uns_10Rnd_Mk82
+Uns_11Rnd_Mk82
+Uns_12Rnd_Mk82
+Uns_1Rnd_Mk81
+Uns_2Rnd_Mk81
+Uns_3Rnd_Mk81
+Uns_4Rnd_Mk81
+Uns_5Rnd_Mk81
+Uns_6Rnd_Mk81
+Uns_7Rnd_Mk81
+Uns_8Rnd_Mk81
+Uns_9Rnd_Mk81
+Uns_10Rnd_Mk81
+Uns_11Rnd_Mk81
+Uns_12Rnd_Mk81
+Uns_1Rnd_Napalm
+Uns_2Rnd_Napalm
+Uns_3Rnd_Napalm
+Uns_4Rnd_Napalm
+Uns_5Rnd_Napalm
+Uns_6Rnd_Napalm
+Uns_7Rnd_Napalm
+Uns_8Rnd_Napalm
+Uns_9Rnd_Napalm
+Uns_10Rnd_Napalm
+Uns_11Rnd_Napalm
+Uns_12Rnd_Napalm
+Uns_1Rnd_fab250
+Uns_2Rnd_fab250
+Uns_3Rnd_fab250
+Uns_4Rnd_fab250
+Uns_5Rnd_fab250
+Uns_6Rnd_fab250
+Uns_7Rnd_fab250
+Uns_8Rnd_fab250
+Uns_1200Rnd_Skyraider_4x20mm
+uns_160rnd_23mm_nr23
+uns_40rnd_37mm_n37
+400Rnd_127x99_M55
+
+"uns_1Rnd_sa2_mag"
+
+////////////////////////////////////////////////////////structures
+
+///////////////////sandbags
+
+"uns_sbagwall_4"
+"uns_sbagwall_8"
+"uns_sbagcircle"
+"uns_sbagwall_u"
+"uns_foxhole1"
+"uns_foxhole2"
+"LAND_mortarpit_sb"
+"LAND_t_sb_bunker2"
+
+"LAND_sb_bunker_main"
+
+
+/////////////////medic buildings
+
+"LAND_uns_army_med"
+
+
+////////////////refuel station
+
+"LAND_CSJBladder"
+"LAND_CSJBladderHalf"
+
+///////////FARP objects
+
+"Land_scntr_open"
+"LAND_CSJ_FireDrum"
+
+/////////ladders
+
+"Land_ladder_tall"
+"Land_ladder_short"
+
+/////////////helipads
+
+"LAND_uns_evac_pad"
+"LAND_uns_Heli_pad"
+
+///////////flags
+
+"uns_FlagCarrierNVA"
+"uns_FlagCarrierVC"
+"uns_FlagCarrierSVN"
+"uns_FlagCarrierUS"
+"uns_FlagCarrierAUS"
+"uns_FlagCarrierMed"
+
+//////////////animals
+"CSJ_Snake"
+"CSJ_Snake2"
+"CSJ_Snake3"
+"CSJ_shark"
+
+//////////////bombs
+uns_Mk82Snake
+uns_MK82
+Uns_Mk81Bomb
+Uns_Mk82Bomb
+uns_FAB250
+Uns_Napalm
+
+F4
+Uns_Napalm_blu1
+uns_F4Fuel
+uns_F4FuelNavy
+
+A7
+A7fuel
+A7fuelNavy
+
+//////////////missiles
+uns_sa7_aam
+uns_sa2_ammo
+
+A7
+Uns_AIM9
+
+F4
+Uns_AIM7
+
+Mig21
+"Uns_K13"
+"R60"
+
+uns_Hydra_WP
+
+////////////////VC buildings (examples)
+
+"LAND_uns_vctower1"
+"LAND_uns_vctower2"
+"LAND_uns_vcshelter1"
+"LAND_uns_eastbunker1"
+"LAND_uns_eastbunker2"
+"LAND_uns_eastbunker3"
+"LAND_uns_spiderhole1e"
+"LAND_uns_vcshelter6"
+"LAND_CSJ_pagoda"
