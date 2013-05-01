@@ -100,7 +100,7 @@ cityList = [
 		["Town_6",200,"Lang Tra North"],
 		["Town_7",200,"Northen Paddys"],
 		["Town_9",200,"Small Northern Village"],
-		["Town_23",200,"Eastern Forest"],
+		// Village bugged for some reason ["Town_23",200,"Eastern Forest"],
 		["Town_24",200,"Southern Forest Village"],
 		["Town_25",200,"South West Forest Village"],
 		["Town_26",200,"Middle Swamp Village"],

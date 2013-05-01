@@ -287,7 +287,7 @@ R3F_LOG_CFG_transporteurs = [
 	["BAF_Jackal2_BASE_D", 15],
 	//UNS
 	["CSJ_C123", 150],
-	["uns_willys", 10]
+	["uns_willys", 10],
 	["uns_truck_open", 45],
 	["uns_M43", 30],
 	["uns_m37b1", 30],
