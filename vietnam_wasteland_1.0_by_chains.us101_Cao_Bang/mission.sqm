@@ -89,7 +89,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor4";
 				};
@@ -108,7 +108,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor3";
 				};
@@ -127,7 +127,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor8";
 				};
@@ -146,7 +146,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor11";
 				};
@@ -165,7 +165,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor12";
 				};
@@ -184,7 +184,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor13";
 				};
@@ -203,7 +203,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor14";
 				};
@@ -222,7 +222,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor15";
 				};
@@ -241,7 +241,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor16";
 				};
@@ -260,7 +260,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor17";
 				};
@@ -279,7 +279,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor18";
 				};
@@ -298,7 +298,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor19";
 				};
@@ -317,7 +317,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor20";
 				};
@@ -336,7 +336,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor1";
 				};
@@ -355,7 +355,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor2";
 				};
@@ -374,7 +374,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor3";
 				};
@@ -393,7 +393,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor4";
 				};
@@ -412,7 +412,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor5";
 				};
@@ -431,7 +431,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor6";
 				};
@@ -450,7 +450,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor7";
 				};
@@ -469,7 +469,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor8";
 				};
@@ -488,7 +488,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor12";
 				};
@@ -507,7 +507,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor11";
 				};
@@ -526,7 +526,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor10";
 				};
@@ -545,7 +545,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor9";
 				};
@@ -564,7 +564,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor13";
 				};
@@ -583,7 +583,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor14";
 				};
@@ -602,7 +602,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor15";
 				};
@@ -621,7 +621,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor16";
 				};
@@ -640,7 +640,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor17";
 				};
@@ -659,7 +659,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor18";
 				};
@@ -678,7 +678,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor19";
 				};
@@ -697,7 +697,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor20";
 				};
@@ -717,7 +717,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor1";
 				};
@@ -736,7 +736,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor7";
 				};
@@ -755,7 +755,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor6";
 				};
@@ -774,7 +774,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor5";
 				};
@@ -793,7 +793,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor9";
 				};
@@ -812,7 +812,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor10";
 				};
@@ -831,7 +831,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor2";
 				};
@@ -1028,7 +1028,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor36";
 				};
@@ -1047,7 +1047,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor31";
 				};
@@ -1066,7 +1066,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor37";
 				};
@@ -1085,7 +1085,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor33";
 				};
@@ -1104,7 +1104,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor38";
 				};
@@ -1123,7 +1123,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor24";
 				};
@@ -1142,7 +1142,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor29";
 				};
@@ -1161,7 +1161,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor34";
 				};
@@ -1180,7 +1180,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor39";
 				};
@@ -1199,7 +1199,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor25";
 				};
@@ -1218,7 +1218,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor30";
 				};
@@ -1237,7 +1237,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_sf_3amg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor35";
 				};
@@ -1256,7 +1256,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_army_8kc";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor40";
 				};
@@ -1276,7 +1276,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor21";
 				};
@@ -1295,7 +1295,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_5csni";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor32";
 				};
@@ -1314,7 +1314,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor27";
 				};
@@ -1333,7 +1333,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor22";
 				};
@@ -1352,7 +1352,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_usmc_8ac";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor23";
 				};
@@ -1371,7 +1371,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor28";
 				};
@@ -1390,7 +1390,7 @@ class Mission
 					side="WEST";
 					vehicle="uns_lrrp_2amed";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="blufor26";
 				};
@@ -1409,7 +1409,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor21";
 				};
@@ -1428,7 +1428,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor26";
 				};
@@ -1447,7 +1447,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor31";
 				};
@@ -1466,7 +1466,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor36";
 				};
@@ -1485,7 +1485,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor22";
 				};
@@ -1504,7 +1504,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor27";
 				};
@@ -1523,7 +1523,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor32";
 				};
@@ -1542,7 +1542,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor37";
 				};
@@ -1561,7 +1561,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor38";
 				};
@@ -1580,7 +1580,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor33";
 				};
@@ -1599,7 +1599,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor28";
 				};
@@ -1618,7 +1618,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor23";
 				};
@@ -1637,7 +1637,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_dccr1a";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor24";
 				};
@@ -1656,7 +1656,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor29";
 				};
@@ -1675,7 +1675,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor34";
 				};
@@ -1694,7 +1694,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor39";
 				};
@@ -1713,7 +1713,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva2med";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor25";
 				};
@@ -1732,7 +1732,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva3mg";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor30";
 				};
@@ -1751,7 +1751,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_local_vc2b";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor35";
 				};
@@ -1770,7 +1770,7 @@ class Mission
 					side="EAST";
 					vehicle="uns_nva6bsap";
 					player="PLAY CDG";
-					leader=1;
+					leader=1; init="this setPosATL [0,0,2];";
 					skill=0.60000002;
 					text="opfor40";
 				};
@@ -1873,7 +1873,7 @@ class Mission
 			id=51;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp3";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
@@ -1927,7 +1927,7 @@ class Mission
 			id=57;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp4";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
@@ -1959,7 +1959,7 @@ class Mission
 			id=61;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp2";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
@@ -2003,7 +2003,7 @@ class Mission
 			id=65;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp5";
 			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
@@ -2016,7 +2016,7 @@ class Mission
 			id=66;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp6";
 			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
@@ -2029,7 +2029,7 @@ class Mission
 			id=67;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp7";
 			init="this setVariable [""R3F_LOG_disabled"", true]; this setVectorUp [0,-0.1,1];";
@@ -2042,7 +2042,7 @@ class Mission
 			id=68;
 			side="EMPTY";
 			vehicle="Land_Campfire_burning";
-			leader=1;
+			leader=1; init="this setPosATL [0,0,2];";
 			skill=0.60000002;
 			text="fp8";
 			init="this setVariable [""R3F_LOG_disabled"", true];";
