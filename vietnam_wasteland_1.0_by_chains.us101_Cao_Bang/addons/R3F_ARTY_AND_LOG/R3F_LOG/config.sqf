@@ -302,7 +302,7 @@ R3F_LOG_CFG_transporteurs = [
 	["uns_pt76", 10],
 	["uns_truck_reammo", 50],
 	["uns_truck_refuel", 50],
-	["pkw_pbr", 50"],
+	["pkw_pbr", 50],
 	["uns_truck_repair", 50]
 ];
 
