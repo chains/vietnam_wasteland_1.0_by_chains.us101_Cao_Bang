@@ -23,7 +23,7 @@ randomweapon_weaponlist = [
 	["uns_RPG", "uns_rpg7grenade"],
 	["uns_Rpk", "uns_rpkmag"],
 	["uns_SVD", "uns_svdmag"],
-	["uns_Ppsh","uns_ppshmag"],
+	//["uns_Ppsh","uns_ppshmag"],
 	["uns_k50","uns_k50mag"],
 	["uns_Mp40","uns_mp40mag"],
 	["uns_Sks","uns_sksmag"],
