@@ -42,7 +42,8 @@ class Mission
 		"uns_buildings",
 		"uns_f100",
 		"CSJ_UH1cnb",
-		"uns_ksobjects"
+		"uns_ksobjects",
+		"ca_animals2_wildboar"
 	};
 	addOnsAuto[]=
 	{
@@ -67,6 +68,7 @@ class Mission
 		"uns_f100",
 		"CSJ_UH1cnb",
 		"uns_ksobjects",
+		"ca_animals2_wildboar",
 		"us101_cao_bang"
 	};
 	randomSeed=10079095;
@@ -1806,7 +1808,7 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=61;
+		items=68;
 		class Item0
 		{
 			position[]={3557.4106,14.628945,4906.6499};
@@ -2227,8 +2229,8 @@ class Mission
 		class Item39
 		{
 			presence=0.72274762;
-			position[]={3859.8923,12.287241,3749.9119};
-			azimut=90;
+			position[]={3877.5432,16.79562,3756.741};
+			azimut=155;
 			id=128;
 			side="EMPTY";
 			vehicle="LAND_CSJPet8_pump";
@@ -2429,6 +2431,69 @@ class Mission
 			side="EMPTY";
 			vehicle="LAND_uns_signaltower";
 			skill=0.63083005;
+		};
+		class Item61
+		{
+			position[]={4984.2373,7.1138697,4473.2178};
+			azimut=325;
+			id=151;
+			side="EMPTY";
+			vehicle="LAND_CSJPet8_pump";
+			skill=0.74635112;
+		};
+		class Item62
+		{
+			position[]={4955.2544,3.1963253,4526.5762};
+			azimut=325;
+			id=152;
+			side="AMBIENT LIFE";
+			vehicle="WildBoar";
+			skill=0.74635112;
+		};
+		class Item63
+		{
+			position[]={5443.0879,4.558816,5252.8003};
+			azimut=325;
+			id=153;
+			side="AMBIENT LIFE";
+			vehicle="WildBoar";
+			skill=0.74635112;
+		};
+		class Item64
+		{
+			position[]={7362.7202,59.311184,3408.0415};
+			azimut=325;
+			id=154;
+			side="AMBIENT LIFE";
+			vehicle="WildBoar";
+			skill=0.74635112;
+		};
+		class Item65
+		{
+			position[]={4731.9224,10.724142,2578.3301};
+			azimut=325;
+			id=155;
+			side="AMBIENT LIFE";
+			vehicle="WildBoar";
+			skill=0.74635112;
+		};
+		class Item66
+		{
+			position[]={5417.6265,55.981197,7109.1602};
+			azimut=325;
+			id=156;
+			side="AMBIENT LIFE";
+			vehicle="WildBoar";
+			skill=0.74635112;
+		};
+		class Item67
+		{
+			position[]={2966.9177,11.79611,5705.0635};
+			azimut=325;
+			id=157;
+			side="AMBIENT LIFE";
+			vehicle="WildBoar";
+			skill=0.74635112;
 		};
 	};
 	class Markers
