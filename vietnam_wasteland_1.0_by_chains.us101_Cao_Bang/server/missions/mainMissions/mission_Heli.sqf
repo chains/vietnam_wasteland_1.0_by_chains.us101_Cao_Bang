@@ -37,7 +37,7 @@ _vehicleClass = ["uns_ch53","uns_ch47","uns_ch34","uns_ch34army","csj_ch46","CSJ
 
 //Vehicle Class, Posistion, Fuel, Ammo, Damage
 //_vehicle = [_vehicleClass,_randomPos,0.25,1,0.50,"NONE"] call createMissionVehicle;
-_vehicle = [_vehicleClass,_randomPos,0.25,1,1,"NONE"] call createMissionVehicle;
+_vehicle = [_vehicleClass,_randomPos,0.25,1,0,"NONE"] call createMissionVehicle;
 
 _picture = getText (configFile >> "cfgVehicles" >> typeOf _vehicle >> "picture");
 _vehicleName = getText (configFile >> "cfgVehicles" >> typeOf _vehicle >> "displayName");
