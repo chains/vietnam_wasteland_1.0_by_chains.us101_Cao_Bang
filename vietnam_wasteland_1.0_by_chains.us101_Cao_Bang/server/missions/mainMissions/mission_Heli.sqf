@@ -36,7 +36,8 @@ diag_log format["WASTELAND SERVER - Main Mission Resumed: %1",_missionType];
 _vehicleClass = ["uns_ch53","uns_ch47","uns_ch34","uns_ch34army","csj_ch46","CSJ_UH1Slick","CSJ_UH1med","CSJ_UH1transport","CSJ_UH1supply", "uns_Mi8"] call BIS_fnc_selectRandom;
 
 //Vehicle Class, Posistion, Fuel, Ammo, Damage
-_vehicle = [_vehicleClass,_randomPos,0.25,1,0.50,"NONE"] call createMissionVehicle;
+//_vehicle = [_vehicleClass,_randomPos,0.25,1,0.50,"NONE"] call createMissionVehicle;
+_vehicle = [_vehicleClass,_randomPos,0.25,1,1,"NONE"] call createMissionVehicle;
 
 _picture = getText (configFile >> "cfgVehicles" >> typeOf _vehicle >> "picture");
 _vehicleName = getText (configFile >> "cfgVehicles" >> typeOf _vehicle >> "displayName");
