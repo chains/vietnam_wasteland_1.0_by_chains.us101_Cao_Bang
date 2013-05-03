@@ -1,7 +1,7 @@
 //Random weapons and items spawning script for wasteland missions.
 //Author : Ed!
  
-_odd1 = 50;                                            //The odds that a building is selected to place loot.
+_odd1 = 30;                                            //The odds that a building is selected to place loot.
 _odd2 = 10;                                                     //The odds that the selected building's spots will have loot(almost like odds per room).
 _itemtoweaponratio = 50;                        //The chances of an item like food,money etc. will spawn instead of a weapon.
 randomweaponspawnminmoney = 50;         //The minimum amount of money that can spawn.
@@ -16,7 +16,7 @@ randomweapon_weaponlist = [
 	["uns_ithaca37", "uns_ithaca37mag"],
 	["uns_m870", "uns_m870mag"],
 	["uns_bar", "uns_barmag"],
-	["uns_m16", "uns_m16mag_30"],
+	["uns_m16a1_30", "uns_m16mag_30"],
 	["uns_M60", "uns_m60mag"],
 	["uns_Ex41", "uns_ex41mag"],
 	["uns_Ak47", "uns_ak47mag"],
