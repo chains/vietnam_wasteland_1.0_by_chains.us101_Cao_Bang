@@ -37,8 +37,8 @@ randomweapon_weaponlist = [
 	["uns_M21","uns_m21mag"],
 	//["uns_Mas36 ","uns_mas36mag"],
 	["uns_model70","uns_model70mag"],
-	["uns_M1897","uns_m1897mag"],
-	["uns_M63","uns_m63mag"]
+	["uns_M1897","uns_m1897mag"]
+	//["uns_M63","uns_m63mag"]
 ];
  
 randomweapon_itemlist = [
