@@ -23,8 +23,6 @@ class Mission
 		"uns_sf",
 		"uns_east2",
 		"uns_east",
-		"uns_wheeled3",
-		"uns_Wheeled2",
 		"uns_wheeled",
 		"uns_nvatracked",
 		"uns_ustracked",
@@ -43,7 +41,9 @@ class Mission
 		"uns_f100",
 		"CSJ_UH1cnb",
 		"uns_ksobjects",
-		"ca_animals2_wildboar"
+		"ca_animals2_wildboar",
+		"cadata",
+		"UNS_Village"
 	};
 	addOnsAuto[]=
 	{
@@ -69,6 +69,8 @@ class Mission
 		"CSJ_UH1cnb",
 		"uns_ksobjects",
 		"ca_animals2_wildboar",
+		"cadata",
+		"UNS_Village",
 		"us101_cao_bang"
 	};
 	randomSeed=10079095;
@@ -1808,7 +1810,7 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=68;
+		items=73;
 		class Item0
 		{
 			position[]={3557.4106,14.628945,4906.6499};
@@ -2494,6 +2496,59 @@ class Mission
 			side="AMBIENT LIFE";
 			vehicle="WildBoar";
 			skill=0.74635112;
+		};
+		class Item68
+		{
+			position[]={5294.2227,1.9293373,5122.2871};
+			azimut=285;
+			id=158;
+			side="EMPTY";
+			vehicle="HumpsDirt";
+			skill=0.60000002;
+		};
+		class Item69
+		{
+			position[]={5075.3564,1.0552523,4518.5542};
+			azimut=50;
+			id=159;
+			side="EMPTY";
+			vehicle="LAND_uns_platform1";
+			leader=1;
+			skill=0.60000002;
+			init="this setPos [(getPos this select 0),(getPos this select 1),-2.27]; this setVectorup [0,0,0.1]";
+		};
+		class Item70
+		{
+			position[]={5071.96,1.088078,4515.7163};
+			azimut=50;
+			id=160;
+			side="EMPTY";
+			vehicle="LAND_uns_platform1";
+			leader=1;
+			skill=0.60000002;
+			init="this setPos [(getPos this select 0),(getPos this select 1),-2.26]; this setVectorup [0,0,0.1]";
+		};
+		class Item71
+		{
+			position[]={5068.521,1.323988,4512.8228};
+			azimut=50;
+			id=161;
+			side="EMPTY";
+			vehicle="LAND_uns_platform1";
+			leader=1;
+			skill=0.60000002;
+			init="this setPos [(getPos this select 0),(getPos this select 1),-2.55]; this setVectorup [0,0,0.1]";
+		};
+		class Item72
+		{
+			position[]={5065.2007,1.323988,4510.0869};
+			azimut=50;
+			id=162;
+			side="EMPTY";
+			vehicle="LAND_uns_platform1";
+			leader=1;
+			skill=0.60000002;
+			init="this setPos [(getPos this select 0),(getPos this select 1),-2.5]; this setVectorup [0,0,0.1]";
 		};
 	};
 	class Markers

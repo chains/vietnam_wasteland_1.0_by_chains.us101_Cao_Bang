@@ -75,9 +75,7 @@ accessoriesArray = [
 	["Trapkit (needed for traps)", "UNS_TrapKit", 350],
 	["Small spike trap", "uns_traps_punj1_mag", 400],
 	["Big spike trap", "uns_traps_punj2_mag", 600],
-	["Grenade trap", "uns_traps_nade_mag", 750],
-	["US Backpack", "US_Backpack_EP1", 250], 
-	["Alice Pack", "TK_ALICE_Pack_EP1", 350]
+	["Grenade trap", "uns_traps_nade_mag", 750]
 ];
 
 //General Store Item List
