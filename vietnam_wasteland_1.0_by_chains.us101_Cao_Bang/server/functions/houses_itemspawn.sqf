@@ -112,7 +112,6 @@ sleep 30;
                         _poscount = _poscount + 1;
                 } else {
                         _endloop = true;
-                        diag_log format["WASTELAND SERVER - %1 Housesobjects Spawned",_counter];
                 };
         };
         _num = (random 100);
@@ -153,3 +152,5 @@ sleep 30;
         };
         
 }foreach randomweapon_buildings;
+
+diag_log format["WASTELAND SERVER - %1 Housesobjects Spawned",_counter];

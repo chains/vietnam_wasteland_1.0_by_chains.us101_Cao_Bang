@@ -32,7 +32,6 @@ class Mission
 		"CAWheeled3_TT650",
 		"uns_weap",
 		"uns_army",
-		"ca_modules_e_jukebox",
 		"PKW_PBR",
 		"PBR_Crew",
 		"CAMisc",
@@ -41,10 +40,8 @@ class Mission
 		"uns_f100",
 		"CSJ_UH1cnb",
 		"uns_ksobjects",
-		"ca_animals2_wildboar",
 		"cadata",
 		"UNS_Village",
-		"ca_modules_animals",
 		"CSJ_UH1Slick"
 	};
 	addOnsAuto[]=
@@ -55,7 +52,6 @@ class Mission
 		"uns_east2",
 		"uns_east",
 		"ca_modules_functions",
-		"ca_modules_animals",
 		"cacharacters_baf",
 		"cacharacters_e",
 		"PBR_Crew",
@@ -71,7 +67,6 @@ class Mission
 		"uns_f100",
 		"CSJ_UH1cnb",
 		"uns_ksobjects",
-		"ca_animals2_wildboar",
 		"cadata",
 		"UNS_Village",
 		"us101_cao_bang"
@@ -82,12 +77,12 @@ class Mission
 		briefingName="Vietnam Wasteland - Cao Bang [v2.9b]";
 		briefingDescription="Wasteland is a harsh survival sandbox";
 		resistanceWest=0;
-		startWeather=0.25;
-		forecastWeather=0.25;
+		startWeather=0;
+		forecastWeather=0;
 		year=2020;
 		month=7;
 		day=1;
-		hour=11;
+		hour=13;
 		minute=0;
 	};
 	class Groups
@@ -408,7 +403,7 @@ class Mission
 					position[]={7773.7241,9.0538521,5257.3359};
 					id=23;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -522,7 +517,7 @@ class Mission
 					position[]={7789.0786,9.0538502,5264.9189};
 					id=29;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -617,7 +612,7 @@ class Mission
 					position[]={7797.6079,9.0538502,5264.918};
 					id=34;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -693,7 +688,7 @@ class Mission
 					position[]={7805.5698,9.0538502,5264.1592};
 					id=38;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -859,7 +854,7 @@ class Mission
 			side="LOGIC";
 			class Vehicles
 			{
-				items=2;
+				items=1;
 				class Item0
 				{
 					position[]={2744.3193,0.16420154,9503.3633};
@@ -867,15 +862,6 @@ class Mission
 					side="LOGIC";
 					vehicle="FunctionsManager";
 					leader=1;
-					lock="UNLOCKED";
-					skill=0.60000002;
-				};
-				class Item1
-				{
-					position[]={2772.3962,0.52806747,9502.8984};
-					id=163;
-					side="LOGIC";
-					vehicle="BIS_animals_Logic";
 					lock="UNLOCKED";
 					skill=0.60000002;
 				};
@@ -1490,7 +1476,7 @@ class Mission
 					position[]={7773.1772,9.0538521,5230.9907};
 					id=96;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1604,7 +1590,7 @@ class Mission
 					position[]={7789.5122,9.0721722,5238.5732};
 					id=102;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1699,7 +1685,7 @@ class Mission
 					position[]={7798.0415,9.1912088,5238.5723};
 					id=107;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1775,7 +1761,7 @@ class Mission
 					position[]={7806.0034,9.4531298,5237.8145};
 					id=111;
 					side="EAST";
-					vehicle="uns_nva5sni";
+					vehicle="uns_mf_vc6asap";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1822,7 +1808,7 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=73;
+		items=67;
 		class Item0
 		{
 			position[]={3557.4106,14.628945,4906.6499};
@@ -2457,105 +2443,51 @@ class Mission
 		};
 		class Item62
 		{
-			position[]={4955.2544,3.1963253,4526.5762};
-			azimut=325;
-			id=152;
-			side="AMBIENT LIFE";
-			vehicle="WildBoar";
-			skill=0.74635112;
-		};
-		class Item63
-		{
-			position[]={5443.0879,4.558816,5252.8003};
-			azimut=325;
-			id=153;
-			side="AMBIENT LIFE";
-			vehicle="WildBoar";
-			skill=0.74635112;
-		};
-		class Item64
-		{
-			position[]={7362.7202,59.311184,3408.0415};
-			azimut=325;
-			id=154;
-			side="AMBIENT LIFE";
-			vehicle="WildBoar";
-			skill=0.74635112;
-		};
-		class Item65
-		{
-			position[]={4731.9224,10.724142,2578.3301};
-			azimut=325;
-			id=155;
-			side="AMBIENT LIFE";
-			vehicle="WildBoar";
-			skill=0.74635112;
-		};
-		class Item66
-		{
-			position[]={5417.6265,55.981197,7109.1602};
-			azimut=325;
-			id=156;
-			side="AMBIENT LIFE";
-			vehicle="WildBoar";
-			skill=0.74635112;
-		};
-		class Item67
-		{
-			position[]={2966.9177,11.79611,5705.0635};
-			azimut=325;
-			id=157;
-			side="AMBIENT LIFE";
-			vehicle="WildBoar";
-			skill=0.74635112;
-		};
-		class Item68
-		{
 			position[]={5294.2227,1.9293373,5122.2871};
 			azimut=285;
-			id=158;
+			id=152;
 			side="EMPTY";
 			vehicle="HumpsDirt";
 			skill=0.60000002;
 		};
-		class Item69
+		class Item63
 		{
 			position[]={5075.3564,1.0552523,4518.5542};
 			azimut=50;
-			id=159;
+			id=153;
 			side="EMPTY";
 			vehicle="LAND_uns_platform1";
 			leader=1;
 			skill=0.60000002;
 			init="this setPos [(getPos this select 0),(getPos this select 1),-2.27]; this setVectorup [0,0,0.1]";
 		};
-		class Item70
+		class Item64
 		{
 			position[]={5071.96,1.088078,4515.7163};
 			azimut=50;
-			id=160;
+			id=154;
 			side="EMPTY";
 			vehicle="LAND_uns_platform1";
 			leader=1;
 			skill=0.60000002;
 			init="this setPos [(getPos this select 0),(getPos this select 1),-2.26]; this setVectorup [0,0,0.1]";
 		};
-		class Item71
+		class Item65
 		{
 			position[]={5068.521,1.323988,4512.8228};
 			azimut=50;
-			id=161;
+			id=155;
 			side="EMPTY";
 			vehicle="LAND_uns_platform1";
 			leader=1;
 			skill=0.60000002;
 			init="this setPos [(getPos this select 0),(getPos this select 1),-2.55]; this setVectorup [0,0,0.1]";
 		};
-		class Item72
+		class Item66
 		{
 			position[]={5065.2007,1.323988,4510.0869};
 			azimut=50;
-			id=162;
+			id=156;
 			side="EMPTY";
 			vehicle="LAND_uns_platform1";
 			leader=1;
@@ -4098,7 +4030,7 @@ class Mission
 		};
 		class Item255
 		{
-			position[]={4635.853,3.68153,4822.8501};
+			position[]={4376.8335,3.6722739,5043.4287};
 			name="Spawn_254";
 			type="Empty";
 		};
@@ -4110,7 +4042,7 @@ class Mission
 		};
 		class Item257
 		{
-			position[]={4681.0737,3.68153,4777.4253};
+			position[]={4662.0142,3.68153,4745.1411};
 			name="Spawn_256";
 			type="Empty";
 		};
@@ -6270,19 +6202,19 @@ class Mission
 		};
 		class Item617
 		{
-			position[]={4625.269,3.68153,4858.0864};
+			position[]={4366.731,3.610429,5066.8711};
 			name="Spawn_620";
 			type="Empty";
 		};
 		class Item618
 		{
-			position[]={4654.7905,3.68153,4842.2075};
+			position[]={4396.2524,3.68153,5050.9922};
 			name="Spawn_621";
 			type="Empty";
 		};
 		class Item619
 		{
-			position[]={4662.8042,3.68153,4782.3989};
+			position[]={4632.853,3.68153,4763.3389};
 			name="Spawn_622";
 			type="Empty";
 		};
@@ -7356,7 +7288,7 @@ class Mission
 		};
 		class Item793
 		{
-			position[]={3698.7629,57.102058,5576.2085};
+			position[]={3477.2417,21.375071,5545.6792};
 			name="Mission_6";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7377,7 +7309,7 @@ class Mission
 		};
 		class Item796
 		{
-			position[]={5222.1934,187.82387,3921.125};
+			position[]={5220.8682,8.3102503,4023.3643};
 			name="Mission_9";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7426,21 +7358,21 @@ class Mission
 		};
 		class Item803
 		{
-			position[]={8462.2734,7.9968405,3590.7307};
+			position[]={8983.9512,33.695858,3656.5034};
 			name="Mission_16";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item804
 		{
-			position[]={8580.8008,35.585224,4348.4526};
+			position[]={8415.2988,30.339661,4637.208};
 			name="Mission_17";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item805
 		{
-			position[]={7561.1719,30.941965,6418.8301};
+			position[]={7563.0645,47.19894,6493.2383};
 			name="Mission_18";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7468,14 +7400,14 @@ class Mission
 		};
 		class Item809
 		{
-			position[]={7114.6797,83.569275,4806.1699};
+			position[]={7351.6641,12.332999,4861.4878};
 			name="Mission_22";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item810
 		{
-			position[]={6814.1177,17.877554,4712.0791};
+			position[]={6778.1558,17.956554,4748.918};
 			name="Mission_23";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7517,14 +7449,14 @@ class Mission
 		};
 		class Item816
 		{
-			position[]={4310.3906,7.8505516,9014.0713};
+			position[]={4215.6318,2.9585419,8968.6377};
 			name="Mission_29";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item817
 		{
-			position[]={6008.3672,18.436489,9447.1348};
+			position[]={6026.9399,20.293375,9446.2803};
 			name="Mission_30";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7538,14 +7470,14 @@ class Mission
 		};
 		class Item819
 		{
-			position[]={3859.4553,3.2407684,8376.1074};
+			position[]={3863.7974,3.3098149,8376.6504};
 			name="Mission_32";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item820
 		{
-			position[]={6451.314,35.77951,8983.2012};
+			position[]={6435.1875,35.097271,8974.2949};
 			name="Mission_33";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7559,7 +7491,7 @@ class Mission
 		};
 		class Item822
 		{
-			position[]={6183.3804,35.40205,7242.2832};
+			position[]={6304.876,7.9342446,7466.4185};
 			name="Mission_35";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7608,14 +7540,14 @@ class Mission
 		};
 		class Item829
 		{
-			position[]={4542.7148,65.085388,3242.8687};
+			position[]={4439.0786,84.834976,3211.8882};
 			name="Mission_42";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item830
 		{
-			position[]={3906.78,12.054055,1375.9187};
+			position[]={4000.9109,5.5199738,1168.2087};
 			name="Mission_43";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7629,14 +7561,14 @@ class Mission
 		};
 		class Item832
 		{
-			position[]={6952.835,16.528147,7152};
+			position[]={6992.6333,18.911364,7194.9883};
 			name="Mission_45";
 			type="Empty";
 			colorName="ColorOrange";
 		};
 		class Item833
 		{
-			position[]={8452.1201,14.879387,5528.772};
+			position[]={8497.2412,10.894897,5459.146};
 			name="Mission_46";
 			type="Empty";
 			colorName="ColorOrange";
@@ -7657,7 +7589,7 @@ class Mission
 		};
 		class Item836
 		{
-			position[]={7863.5054,17.165491,5595.1777};
+			position[]={7706.8418,35.98238,5550.019};
 			name="Mission_49";
 			type="Empty";
 			colorName="ColorOrange";
