@@ -43,7 +43,9 @@ class Mission
 		"uns_ksobjects",
 		"ca_animals2_wildboar",
 		"cadata",
-		"UNS_Village"
+		"UNS_Village",
+		"ca_modules_animals",
+		"CSJ_UH1Slick"
 	};
 	addOnsAuto[]=
 	{
@@ -53,6 +55,7 @@ class Mission
 		"uns_east2",
 		"uns_east",
 		"ca_modules_functions",
+		"ca_modules_animals",
 		"cacharacters_baf",
 		"cacharacters_e",
 		"PBR_Crew",
@@ -856,7 +859,7 @@ class Mission
 			side="LOGIC";
 			class Vehicles
 			{
-				items=1;
+				items=2;
 				class Item0
 				{
 					position[]={2744.3193,0.16420154,9503.3633};
@@ -864,6 +867,15 @@ class Mission
 					side="LOGIC";
 					vehicle="FunctionsManager";
 					leader=1;
+					lock="UNLOCKED";
+					skill=0.60000002;
+				};
+				class Item1
+				{
+					position[]={2772.3962,0.52806747,9502.8984};
+					id=163;
+					side="LOGIC";
+					vehicle="BIS_animals_Logic";
 					lock="UNLOCKED";
 					skill=0.60000002;
 				};
@@ -2380,7 +2392,7 @@ class Mission
 		};
 		class Item55
 		{
-			position[]={5397.4126,0.59974003,4239.6284};
+			position[]={5403.0693,0.73387325,4253.6509};
 			azimut=275;
 			id=145;
 			side="EMPTY";
