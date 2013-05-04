@@ -62,7 +62,9 @@ civilianVehicles = [
 					"S1203_TK_CIV_EP1",
 					"UAZ_Unarmed_TK_CIV_EP1",
 //UNS Stuff			"uns_willys",
+					"uns_willys_1",
 					"uns_truck_open",
+					"uns_truck_closed",
 					"uns_M43",
 					"uns_m37b1",
 					"uns_nvatruck_open"

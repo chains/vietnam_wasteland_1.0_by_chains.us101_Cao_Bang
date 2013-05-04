@@ -408,7 +408,7 @@ class Mission
 					position[]={7773.7241,9.0538521,5257.3359};
 					id=23;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -522,7 +522,7 @@ class Mission
 					position[]={7789.0786,9.0538502,5264.9189};
 					id=29;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -617,7 +617,7 @@ class Mission
 					position[]={7797.6079,9.0538502,5264.918};
 					id=34;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -693,7 +693,7 @@ class Mission
 					position[]={7805.5698,9.0538502,5264.1592};
 					id=38;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1490,7 +1490,7 @@ class Mission
 					position[]={7773.1772,9.0538521,5230.9907};
 					id=96;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1604,7 +1604,7 @@ class Mission
 					position[]={7789.5122,9.0721722,5238.5732};
 					id=102;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1699,7 +1699,7 @@ class Mission
 					position[]={7798.0415,9.1912088,5238.5723};
 					id=107;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -1775,7 +1775,7 @@ class Mission
 					position[]={7806.0034,9.4531298,5237.8145};
 					id=111;
 					side="EAST";
-					vehicle="uns_local_vc2b";
+					vehicle="uns_nva5sni";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;

@@ -6,7 +6,8 @@ _odd2 = 10;                                                     //The odds that 
 _itemtoweaponratio = 50;                        //The chances of an item like food,money etc. will spawn instead of a weapon.
 randomweaponspawnminmoney = 50;         //The minimum amount of money that can spawn.
 randomweaponspawnmaxmoney = 500;        //The maximum amount of money that can spawn.
-randomweapontestint = 0.01;                     //Sets the intervals in which weaponpositions are tested. (Lower = slower, but more accurate. Higher = faster, but less accurate.)
+randomweapontestint = 0.1;                     //Sets the intervals in which weaponpositions are tested. (Lower = slower, but more accurate. Higher = faster, but less accurate.)
+_counter = 0; 									// Count objects
  
  
 randomweapon_weaponlist = [
@@ -52,6 +53,7 @@ randomweapon_itemlist = [
  
  
 randomweaponspawnweapon = {
+		_counter = _counter + 1;
         _position = _this;
         _selectedgroup = (floor(random(count randomweapon_weaponlist)));
         _weapon = randomweapon_weaponlist select _selectedgroup select 0;
@@ -67,6 +69,7 @@ randomweaponspawnweapon = {
 };
  
 randomweaponspawnitem = {
+		_counter = _counter + 1;
         _position = _this;
         _selectedgroup = (floor(random(count randomweapon_itemlist)));
         _class = randomweapon_itemlist select _selectedgroup;
@@ -109,6 +112,7 @@ sleep 30;
                         _poscount = _poscount + 1;
                 } else {
                         _endloop = true;
+                        diag_log format["WASTELAND SERVER - %1 Housesobjects Spawned",_counter];
                 };
         };
         _num = (random 100);
@@ -147,4 +151,5 @@ sleep 30;
                         };
                 };                             
         };
+        
 }foreach randomweapon_buildings;

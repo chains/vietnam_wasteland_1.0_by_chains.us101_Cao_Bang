@@ -40,6 +40,9 @@ switch(_selectedBox) do {
         _currBox addMagazineCargoGlobal ["uns_rpg2grenade",10];
         _currBox addMagazineCargoGlobal ["uns_rpg7grenade",5];
         
+        //1 Trap per box
+        _currBox addMagazineCargoGlobal ["uns_traps_punj1_mag",1];
+        
     };
     
     case "Custom_Box_2_Heavy": { // UNS Weapons VC
@@ -67,6 +70,9 @@ switch(_selectedBox) do {
         _currBox addMagazineCargoGlobal ["PipeBomb",5];
         _currBox addMagazineCargoGlobal ["uns_rpg2grenade",10];
         _currBox addMagazineCargoGlobal ["uns_rpg7grenade",5];
+        
+        //1 Trap per box
+        _currBox addMagazineCargoGlobal ["uns_traps_nade_mag",1];
     };
     
     case "Custom_Box_3": { // UNS Weapons Snipers & Guns
@@ -108,7 +114,12 @@ switch(_selectedBox) do {
         _currBox addMagazineCargoGlobal ["uns_ppshmag",40];
         _currBox addMagazineCargoGlobal ["uns_svdmag",10];
         _currBox addMagazineCargoGlobal ["uns_ct56mag",15];
-        _currBox addMagazineCargoGlobal ["uns_m67gren",15];  
+        _currBox addMagazineCargoGlobal ["uns_m67gren",15];
+        
+        // Large punjitrap
+        _currBox addMagazineCargoGlobal ["uns_traps_punj2_mag",1];    
+        
+        
     };
     
     case "uns_WeaponAndAmmoBoxUS": { // UNS Weapons Snipers & Guns

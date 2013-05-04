@@ -72,10 +72,7 @@ ammoArray = [
 //Text name, classname, buy cost
 accessoriesArray = [
 	["Binoculars","Binocular", 300],
-	["Trapkit (needed for traps)", "UNS_TrapKit", 350],
-	["Small spike trap", "uns_traps_punj1_mag", 400],
-	["Big spike trap", "uns_traps_punj2_mag", 600],
-	["Grenade trap", "uns_traps_nade_mag", 750]
+	["Trapkit (needed for traps)", "UNS_TrapKit", 350]
 ];
 
 //General Store Item List
