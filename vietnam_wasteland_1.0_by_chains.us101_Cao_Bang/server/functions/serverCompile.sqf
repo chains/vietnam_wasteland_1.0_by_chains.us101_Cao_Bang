@@ -24,6 +24,7 @@ mission_AirWreck = compile preprocessFileLineNumbers "server\missions\sideMissio
 mission_Truck = compile preprocessFileLineNumbers "server\missions\sideMissions\mission_Truck.sqf";
 mission_ReconVeh = compile preprocessFileLineNumbers "server\missions\sideMissions\mission_ReconVeh.sqf";
 mission_WepCache = compile preprocessFileLineNumbers "server\missions\sideMissions\mission_WepCache.sqf";
+mission_scoutHeli = compile preprocessFileLineNumbers "server\missions\sideMissions\mission_scoutHeli.sqf";
 
 //Factory Compiles
 createMissionLocation = compile preprocessFileLineNumbers "server\missions\factoryMethods\createMissionLocation.sqf";

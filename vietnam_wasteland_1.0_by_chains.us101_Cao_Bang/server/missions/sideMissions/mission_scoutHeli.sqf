@@ -1,5 +1,5 @@
 //	@file Version: 1.0
-//	@file Name: mission_Heli.sqf
+//	@file Name: mission_scoutHeli.sqf
 //	@file Author: [404] Deadbeat, [404] Costlyy
 //	@file Created: 08/12/2012 15:19
 //	@file Args:
