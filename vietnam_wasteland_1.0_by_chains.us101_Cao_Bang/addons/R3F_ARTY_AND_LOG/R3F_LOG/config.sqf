@@ -486,7 +486,23 @@ R3F_LOG_CFG_objets_transportables =  [
 	["csj_VCbunk01", 8],
 	["csj_VCshelter01", 8],
 	["LAND_tower_1", 8],
+	["uns_ruck", 4],
+	["uns_AmmoBoxUS", 4],
+	["uns_WeaponBoxUS", 4],
+	["uns_US_Ordinance", 4],
+	["uns_AmmoBoxUS_army", 4],
+	["uns_AmmoBoxUS_SF", 4],
+	["uns_AmmoBoxUS_SOG", 4],
+	["uns_AmmoBoxCIDG", 4],
+	["uns_50calammobox", 4],
+	["uns_50calammoboxempty", 4],
+	["uns_AmmoBoxNVA", 4],
+	["uns_WeaponBoxNVA", 4],
+	["uns_AmmoBoxVC", 4],
+	["uns_HiddenAmmoBox", 4],
+	["uns_East_Sapper_crate", 4],
 	["LAND_FireDrumLit", 4]
+	
 ];
 
 /****** MOVABLE-BY-PLAYER OBJECTS / OBJETS DEPLACABLES PAR LE JOUEUR ******/
@@ -612,7 +628,23 @@ R3F_LOG_CFG_objets_deplacables = [
 	"csj_VCbunk01",
 	"csj_VCshelter01",
 	"LAND_tower_1",
-	"LAND_FireDrumLit"
+	"LAND_FireDrumLit",
+	"uns_ruck",
+	"uns_AmmoBoxUS",
+	"uns_WeaponBoxUS",
+	"uns_US_Ordinance",
+	"uns_AmmoBoxUS_army",
+	"uns_AmmoBoxUS_SF",
+	"uns_AmmoBoxUS_SOG",
+	"uns_AmmoBoxCIDG",
+	"uns_50calammobox",
+	"uns_50calammoboxempty",
+	"uns_AmmoBoxNVA",
+	"uns_WeaponBoxNVA",
+	"uns_AmmoBoxVC",
+	"uns_HiddenAmmoBox",
+	"uns_East_Sapper_crate"
+
 ];
 
 /*
