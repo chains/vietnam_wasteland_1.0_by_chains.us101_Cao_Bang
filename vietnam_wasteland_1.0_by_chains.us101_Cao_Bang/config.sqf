@@ -97,7 +97,7 @@ cityList = [
 		["Town_3",200,"South East Fishing Village"],
 		["Town_4",200,"Eastern Fishing Village"],
 		["Town_5",200,"Western Fishing Village"],
-		["Town_6",200,"Lang Tra North"],
+		["Town_6",300,"Lang Tra North"],
 		["Town_7",200,"Northen Paddys"],
 		["Town_9",200,"Small Northern Village"],
 		// Village bugged for some reason ["Town_23",200,"Eastern Forest"],
@@ -108,7 +108,7 @@ cityList = [
 		["Town_29",200,"Temple"],
 		["Town_30",200,"Western Fishing Village"],
 		["Town_31",200,"Northen Forest"],
-		["Town_32",200,"Airbase"],
+		["Town_32",300,"Airbase"],
 		["Town_33",200,"Eastern Camp"],
 		["Town_34",200,"Northern Crossroads"],
 		["Town_35",200,"North East Fishing Village"],
@@ -116,6 +116,7 @@ cityList = [
 		["Town_37",200,"Eastern Forest Village"],
 		["Town_41",200,"Thia Tran Thia Bac"],
 		["Town_44",200,"River Delta Village"],
-		["Town_45",200,"Lang Tra South"]
+		["Town_45",200,"Lang Tra South"],
+		["Town_51",200,"Airbase Village"]
 ];
 cityLocations = [];
