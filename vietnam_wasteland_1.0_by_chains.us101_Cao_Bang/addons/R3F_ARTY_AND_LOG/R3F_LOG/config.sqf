@@ -91,6 +91,8 @@ R3F_LOG_CFG_objets_remorquables = [
 	"uns_willysmg",
 	"uns_truck_reammo",
 	"uns_truck_refuel",
+	"uns_truck_closed",
+	"uns_willys_1",
 	"uns_truck_repair"
 ];
 
@@ -170,10 +172,12 @@ R3F_LOG_CFG_objets_heliportables = [
 	
 	//UNS
 	"uns_willys",
+	"uns_willys_1",
 	"uns_truck_open",
 	"uns_M43",
 	"uns_m37b1",
 	"uns_nvatruck_open",
+	"uns_truck_closed",
 	"uns_willysmg",
 	"uns_truck_reammo",
 	"uns_truck_refuel",
@@ -289,7 +293,9 @@ R3F_LOG_CFG_transporteurs = [
 	//UNS
 	["CSJ_C123", 150],
 	["uns_willys", 10],
+	["uns_willys_1", 10],
 	["uns_truck_open", 45],
+	["uns_truck_closed", 45],
 	["uns_M43", 30],
 	["uns_m37b1", 30],
 	["uns_nvatruck_open", 45],
@@ -303,6 +309,23 @@ R3F_LOG_CFG_transporteurs = [
 	["uns_truck_reammo", 50],
 	["uns_truck_refuel", 50],
 	["pkw_pbr", 50],
+	["CSJ_oh6", 10],
+	["CSJ_OH6a", 10],
+	["uns_oh58a", 10],
+	["uns_oh58b", 10],
+	["CSJ_AH1g", 10],
+	["CSJ_UH1Gun", 10],
+	["CSJ_GHornet", 10],
+	["uns_ch53", 20],
+	["uns_ch47", 20],
+	["uns_ch34", 20],
+	["uns_ch34army", 20],
+	["csj_ch46", 20],
+	["CSJ_UH1Slick", 20],
+	["CSJ_UH1med", 20],
+	["CSJ_UH1transport", 20],
+	["CSJ_UH1supply", 20],
+	["uns_Mi8", 20],
 	["uns_truck_repair", 50]
 ];
 
